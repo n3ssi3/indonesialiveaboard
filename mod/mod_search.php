@@ -93,7 +93,7 @@
   }
 
 ?>
-<form name="searchfrm" method="post" action="<? echo($mosConfig_absolute_path.'/data/list_new.php'); ?>">
+<form name="searchfrm" method="post" action="<?php echo ($mosConfig_absolute_path.'/data/list_new.php'); ?>">
 
   <table width="100%" border="0" cellspacing="5" cellpadding="0">
     <tr>
@@ -113,7 +113,7 @@
     </tr>
     <tr>
       <td> <input name="submit" type="submit" value="Search">
-        | <a href="<? echo($mosConfig_absolute_path.'/data/login.php'); ?>">Manage Cruises</a></td>
+        | <a href="<?php echo ($mosConfig_absolute_path.'/data/login.php'); ?>">Manage Cruises</a></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
