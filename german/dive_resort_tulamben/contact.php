@@ -85,44 +85,44 @@ A:hover {
 }
 .style83 {font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bottomMargin=0 bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 
+<BODY bottomMargin=0 bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0
 marginheight="0" marginwidth="0">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="194" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="../images/dotline.gif" 
+              <TD height="194" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="../images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="../images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="../images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td width="332" height="171" valign="bottom" background="../images/z1.jpg">
-<TABLE width="180" height=40 
+<TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
-                          <TR> 
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m3.jpg" alt="indonesien_liveaboard_tauchfahrten_sport_tauch_kreuzfahrten" 
+                          <TR>
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m3.jpg" alt="indonesien_liveaboard_tauchfahrten_sport_tauch_kreuzfahrten"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m4.jpg" alt="indonesien_liveaboard_tauchfahrten_sport_tauch_kreuzfahrten" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m4.jpg" alt="indonesien_liveaboard_tauchfahrten_sport_tauch_kreuzfahrten"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m2.jpg" alt="indonesien_liveaboard_tauchfahrten_sport_tauch_kreuzfahrten" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m2.jpg" alt="indonesien_liveaboard_tauchfahrten_sport_tauch_kreuzfahrten"
                                 width=67 height=40></TD>
                           </TR>
-                          <TR> 
+                          <TR>
                             <TD colspan="3"><img src="../images/spacer.gif" width="10" height="67"></TD>
                           </TR>
                         </TBODY>
@@ -145,19 +145,19 @@ marginheight="0" marginwidth="0">
                     <td width="123" background="../images/z2.jpg">&nbsp;</td>
                     <td width="320" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                         <tr>
-                          <td><div align="center"><img src="../images/spacer.gif" width="10" height="45"><span class="style5"><br> 
+                          <td><div align="center"><img src="../images/spacer.gif" width="10" height="45"><span class="style5"><br>
                           </span></div></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td height="22" valign="top">&nbsp;<span class="style16"><a href="../index.php"><font face="Verdana, Arial, Helvetica, sans-serif"><strong>Hauptseite</strong></font></a></span><font color="#FFFFFF" size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong> |</strong></font> <span class="style16"><a href="../boats/contactus.php"><font face="Verdana, Arial, Helvetica, sans-serif"><strong>Kontaktadressen</strong></font></a></span><font color="#FFFFFF" size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong> |</strong></font> <span class="style16"><a href="info.php"><font face="Verdana, Arial, Helvetica, sans-serif"><strong>Allgemeine Info's</strong></font></a></span></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td><img src="../images/m1.jpg" alt="indonesien_liveaboard_tauchfahrten_sport_tauch_kreuzfahrten" width="325" height="104"></td>
                         </tr>
                       </table></td>
                   </tr>
-                  <tr bgcolor="#0596D2"> 
-                    <td height="12" colspan="3"><div align="center"><span class="style5"></span></div> 
+                  <tr bgcolor="#0596D2">
+                    <td height="12" colspan="3"><div align="center"><span class="style5"></span></div>
                     <div align="center" class="style34"><span class="style36"><font face="Arial, Helvetica, sans-serif"><a href="accommodation.php">Unterk<strong>&uuml;</strong>nfte</a></font><font color="#FFFFFF" face="Arial, Helvetica, sans-serif"> | </font><font face="Arial, Helvetica, sans-serif"><a href="facilities.php">Resort Ausstattung</a></font><font color="#FFFFFF" face="Arial, Helvetica, sans-serif"> | </font><font face="Arial, Helvetica, sans-serif"><a href="divecenter.php">Tauch Center</a></font><font color="#FFFFFF" face="Arial, Helvetica, sans-serif"> | </font><font face="Arial, Helvetica, sans-serif"><a href="spa.php">Wellnessbereich/Aromatherapie</a>&nbsp;&nbsp;</font><font face="Arial, Helvetica, sans-serif"></font></span><font face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;</font></div></td>
                   </tr>
                 </table></TD></TR></TBODY></TABLE></TD></TR>
@@ -167,7 +167,7 @@ marginheight="0" marginwidth="0">
         <TBODY>
         <TR>
               <TD width=285 align=middle vAlign=top bgcolor="#4DCEE3"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><div align="center"><br>
                         <img src="resortimages/mapb.jpg" alt="indonesien_liveaboard_tauchfahrten_sport_tauch_kreuzfahrten" width="278" height="176"><br>
                         <a href="../index.php"><strong>Tauchkreuzfahrten in S&uuml;d-Ost Asien mit <br>
@@ -292,8 +292,8 @@ Tauch Terminal Liveaboard</strong></a><strong></strong><strong><br>
                 </table>
                 <p align="center">&nbsp;</p>
               </TD>
-          <TD vAlign=top width=10 
-          background="../images/z6.jpg"><IMG height=4 
+          <TD vAlign=top width=10
+          background="../images/z6.jpg"><IMG height=4
             src="../images/z6.jpg" width=5></TD>
           <TD width="480" vAlign=top>
             <div align="center">
@@ -320,8 +320,8 @@ Tauch Terminal Liveaboard</strong></a><strong></strong><strong><br>
                         <tr valign="top">
                           <td class="style31"><div align="right" class="style17"><span class="14wh"><strong> Tauch Terminal Diving<br>
           und Liveaboard :</strong></span></div></td>
-                          <td class="style31"><span class="14wh"><a href="http://www.qali.com" class="style30"> 
-        www.qali.com </a><br> 
+                          <td class="style31"><span class="14wh"><a href="http://www.qali.com" class="style30">
+        www.qali.com </a><br>
         <a href="http://www.indonesia-liveaboard.com">www.indonesia-liveaboard.com </a></span></td>
                         </tr>
                         <tr valign="top">
@@ -352,13 +352,13 @@ www.tulamben.com</strong></a></span></span>              </p>
         </TR></TBODY></TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z4.gif" border=0>
-        <TBODY> 
-        <TR> 
+        <TBODY>
+        <TR>
           <TD height="8"><img src="../images/spacer.gif" width="10" height="8"></TD>
         </TR>
-        <tr> 
+        <tr>
           <td height="18" bgcolor="#FFFFFF">
             <div align="center"><strong><br>
               Jl. Danau Tamblingan X, No. 31<br>
@@ -370,6 +370,6 @@ email: <a href="mailto:cruises@indonesia-liveaboard.com" class="style32">cruises
             </strong></div>
           </td>
         </tr>
-        </TBODY> 
+        </TBODY>
       </TABLE>
     </TD></TR></TBODY></TABLE></BODY></HTML>

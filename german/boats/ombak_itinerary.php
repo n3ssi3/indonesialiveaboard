@@ -101,41 +101,41 @@ A:hover {
 	font-weight: bold;
 }
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0" 
+<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0"
 marginheight="0">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="194" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="../images/dotline.gif" 
+              <TD height="194" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="../images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="../images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="../images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
                     <td width="332" height="171" valign="bottom" background="../images/z1.jpg">
-                      <TABLE width="180" height=40 
+                      <TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
                           <TR>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m3.jpg" alt="indonesien_liveaboard_tauchfahrten_schiffe" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m3.jpg" alt="indonesien_liveaboard_tauchfahrten_schiffe"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m4.jpg" alt="indonesien_liveaboard_tauchfahrten_schiffe" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m4.jpg" alt="indonesien_liveaboard_tauchfahrten_schiffe"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m2.jpg" alt="indonesien_liveaboard_tauchfahrten_schiffe" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m2.jpg" alt="indonesien_liveaboard_tauchfahrten_schiffe"
                                 width=67 height=40></TD>
                           </TR>
                           <TR>
@@ -150,7 +150,7 @@ marginheight="0">
                           <td><img src="../images/spacer.gif" width="10" height="45"></td>
                         </tr>
                         <tr>
-                          <td height="22" valign="top">&nbsp;&nbsp;<span class="style9"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href="../index.php">Home</a> 
+                          <td height="22" valign="top">&nbsp;&nbsp;<span class="style9"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href="../index.php">Home</a>
                             | <a href="contactus.php">Kontaktadresse</a></font></span></td>
                         </tr>
                         <tr>
@@ -169,16 +169,16 @@ marginheight="0">
         <TBODY>
         <TR>
               <TD width=291 align=middle vAlign=top bgcolor="#52CBDE"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgsearch.jpg">
-                            
+
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tr> 
+              <tr>
                 <td height="42">&nbsp;</td>
               </tr>
-              <tr> 
+              <tr>
                 <td><?php define( '_VALID_MOS', 1 );  include "../mod/mod_search.php"; ?></td>
               </tr>
             </table></td>
@@ -187,7 +187,7 @@ marginheight="0">
                   </tr>
                   <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgdestination.jpg"><table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
                             <tr>
                               <td height="33" colspan="2">&nbsp;</td>
@@ -321,8 +321,8 @@ marginheight="0">
               <p align="center"><img src="ombak/pic167-64.jpg" alt="indonesien_liveaboard_tauchfahrten_ombak_biru_bali" width="167" height="167" border="1"></p>
               <p align="center"><span class="style51">ombak putih liveaboard tauchkreuzfahrten in indonesien,tauchfahrten,segeln und tauchen,tauchtrips,<br>
 segeltouren,tauchen in raja ampat,tauchen komodo,komodo drachen,komodo national park, komodo marine park,tauchen und schnorcheln in komodo,ombak putih kreuzfahrtplan,komodo segel trips,ombak putih komodo segel kreuzfahrt,ombak putih kreuzfahrtverzeichnis</span></p></TD>
-          <TD vAlign=top width=10 
-          background="../images/z6.jpg"><IMG height=4 
+          <TD vAlign=top width=10
+          background="../images/z6.jpg"><IMG height=4
             src="../images/z6.jpg" width=5></TD>
           <TD width="474" vAlign=top><table width="96%"  border="0" align="center" cellpadding="0" cellspacing="0">
             <tr>
@@ -333,7 +333,7 @@ segeltouren,tauchen in raja ampat,tauchen komodo,komodo drachen,komodo national 
                 <tr>
                   <td bgcolor="#2E3C9D"><table width="100%"  border="0" cellpadding="1" cellspacing="1">
                     <tr>
-                                <td height="18" bgcolor="#006699"><span class="style1">&nbsp;&nbsp;<strong>Ombak 
+                                <td height="18" bgcolor="#006699"><span class="style1">&nbsp;&nbsp;<strong>Ombak
                                   Biru - Tauchfahrtablauf</strong></span></td>
                     </tr>
                     <tr>
@@ -344,23 +344,23 @@ segeltouren,tauchen in raja ampat,tauchen komodo,komodo drachen,komodo national 
                             <tr>
                               <td bgcolor="#006699"><table width="100%"  border="0" cellpadding="1" cellspacing="1">
                                 <tr>
-                                                  <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_index.php">Die 
+                                                  <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_index.php">Die
                                                     Ombak Biru </a></strong></td>
                                 </tr>
                                 <tr>
-                                                  <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_boatdetails.php">Ombak 
-                                                    Biru </a><a href="ombak_boatdetails.php"> 
+                                                  <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_boatdetails.php">Ombak
+                                                    Biru </a><a href="ombak_boatdetails.php">
                                                     Boot Details </a></strong></td>
                                 </tr>
                                 <tr>
                                                   <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_itinerary.php">Tauchfahrtablauf</a><a href="felicia_divedestinations.php"></a></strong></td>
                                 </tr>
                                 <tr>
-                                                  <td height="18" bgcolor="#D9F2FF">&nbsp;<strong><a href="ombak_divedestinations.php"> 
+                                                  <td height="18" bgcolor="#D9F2FF">&nbsp;<strong><a href="ombak_divedestinations.php">
                                                     Tauch &amp; Cruise Gebiete</a></strong></td>
                                 </tr>
                                 <tr>
-                                                  <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_schedule&rates.php">Termine 
+                                                  <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_schedule&rates.php">Termine
                                                     &amp; Preise</a><a href="felicia_divedestinations.php"></a></strong></td>
                                 </tr>
                               </table></td>
@@ -369,12 +369,12 @@ segeltouren,tauchen in raja ampat,tauchen komodo,komodo drachen,komodo national 
                         </tr>
                         <tr>
                           <td colspan="2"><p class="menu"><br>
-                                          <strong><span class="style44">Tauchfahrtablauf 
+                                          <strong><span class="style44">Tauchfahrtablauf
                                           </span></strong></p>
                             <table cellspacing="0" cellpadding="0">
                               <TR>
-                                            <TD colSpan="3" height="20"><strong>12 
-                                              Tage Bali - Komodo - Bali Liveaboard 
+                                            <TD colSpan="3" height="20"><strong>12
+                                              Tage Bali - Komodo - Bali Liveaboard
                                               Scuba Cruise</strong></TD>
                               </TR>
                               <TR>
@@ -385,15 +385,15 @@ segeltouren,tauchen in raja ampat,tauchen komodo,komodo drachen,komodo national 
                               <TR>
                                 <TD width="100" height="20">&nbsp;</TD>
                                 <TD height="20">&nbsp;</TD>
-                                            <TD height="20"><strong>Tag 1 - Bali 
+                                            <TD height="20"><strong>Tag 1 - Bali
                                               nach Satonda</strong></TD>
                               </TR>
                               <TR>
                                 <TD vAlign="top" width="100"><img src="ombak/scuba2.jpg" alt="indonesien_liveaboard_tauchfahrten_ombak_biru" width="100" height="70" border="1"></TD>
                                 <TD width="20">&nbsp;</TD>
-                                            <TD vAlign="top" align="left">09:00 
-                                              Ankunft Benoa Harbor, S&uuml;d Bali. 
-                                              09:30 Auslaufen von Benoa nach Satonda. 
+                                            <TD vAlign="top" align="left">09:00
+                                              Ankunft Benoa Harbor, S&uuml;d Bali.
+                                              09:30 Auslaufen von Benoa nach Satonda.
                                               Tauch briefing nach dem Auslaufen.<BR></TD>
                               </TR>
                               <TR>
@@ -402,19 +402,19 @@ segeltouren,tauchen in raja ampat,tauchen komodo,komodo drachen,komodo national 
                               <TR>
                                 <TD width="100" height="20">&nbsp;</TD>
                                 <TD height="20">&nbsp;</TD>
-                                            <TD vAlign="top" align="left" height="20"><strong>Tag 
+                                            <TD vAlign="top" align="left" height="20"><strong>Tag
                                               2 - Satonda</strong></TD>
                               </TR>
                               <TR>
                                 <TD vAlign="top" width="100"><img src="ombak/sight3.jpg" alt="indonesien_liveaboard_tauchfahrten_ombak_biru_satonda" width="100" height="67" border="1"></TD>
                                 <TD width="20">&nbsp;</TD>
-                                            <TD vAlign="top" align="left">08:00 
-                                              - Ankunft in Satonda. 08:30 - Tauchen 
-                                              <em>Lake Entrance Bay</em>. 11:30 
-                                              - Tauchen <em>Sand Chute</em>. 15:00 
-                                              - Tauchen <em>North Wall.</em> 17:30 
-                                              - Tauchen <em>Lost Boys</em>. 18:15 
-                                              - Bat Watching. 18:45 - Auslaufen 
+                                            <TD vAlign="top" align="left">08:00
+                                              - Ankunft in Satonda. 08:30 - Tauchen
+                                              <em>Lake Entrance Bay</em>. 11:30
+                                              - Tauchen <em>Sand Chute</em>. 15:00
+                                              - Tauchen <em>North Wall.</em> 17:30
+                                              - Tauchen <em>Lost Boys</em>. 18:15
+                                              - Bat Watching. 18:45 - Auslaufen
                                               nach Gili Banta.<BR></TD>
                               </TR>
                               <TR>
@@ -425,18 +425,18 @@ segeltouren,tauchen in raja ampat,tauchen komodo,komodo drachen,komodo national 
                               <TR>
                                 <TD width="100" height="20">&nbsp;</TD>
                                 <TD height="20">&nbsp;</TD>
-                                            <TD vAlign="top" align="left" height="20"><strong>Tag 
+                                            <TD vAlign="top" align="left" height="20"><strong>Tag
                                               3 - Banta</strong></TD>
                               </TR>
                               <TR>
                                 <TD vAlign="top" width="100" height="68"><img src="ombak/scuba3.jpg" alt="indonesien_liveaboard_tauchfahrten_ombak_biru_banta" width="100" height="70" border="1"></TD>
                                 <TD width="20" height="68">&nbsp;</TD>
-                                            <TD vAlign="top" align="left" height="68">06:30 
-                                              - Ankunft at Gili Banta. 08:30 - 
-                                              Tauchen <em>GPS Point</em>. 11:30 
-                                              - Tauchen <em>Star Wars</em>. 14:30 
-                                              - Tauchen <em>K2</em>. 18:30 - Nachttauchgang 
-                                              <em>The Circus</em>. 21:00 - Auslaufen 
+                                            <TD vAlign="top" align="left" height="68">06:30
+                                              - Ankunft at Gili Banta. 08:30 -
+                                              Tauchen <em>GPS Point</em>. 11:30
+                                              - Tauchen <em>Star Wars</em>. 14:30
+                                              - Tauchen <em>K2</em>. 18:30 - Nachttauchgang
+                                              <em>The Circus</em>. 21:00 - Auslaufen
                                               zum Komodo National Park.</TD>
                               </TR>
                               <TR>
@@ -447,20 +447,20 @@ segeltouren,tauchen in raja ampat,tauchen komodo,komodo drachen,komodo national 
                               <TR>
                                 <TD width="100" height="20">&nbsp;</TD>
                                 <TD height="20">&nbsp;</TD>
-                                            <TD vAlign="top" align="left" height="20"><strong>Tag 
+                                            <TD vAlign="top" align="left" height="20"><strong>Tag
                                               4 - Komodo National Park</strong></TD>
                               </TR>
                               <TR>
                                 <TD vAlign="top" align="left" width="100" height="68"><img src="ombak/scuba10.jpg" alt="indonesien_liveaboard_tauchfahrten_ombak_biru_komodo" width="100" height="70" border="1"></TD>
                                 <TD width="20" height="68">&nbsp;</TD>
-                                            <TD vAlign="top" align="left" height="68">03:00 
-                                              - Ankunft Komodo National Park Ranger 
-                                              Station. 08:00 - Auslaufen nach 
-                                              Dragon Walk. 11:00 - Tauchen <em>Pink 
-                                              Beach</em>. 13:00 - Fahrt nach Padar. 
-                                              15:00 - Tauchen <em> Reef</em>. 
-                                              16:30 - Naturwanderung zum Pink 
-                                              Beach/Padar. 18:30 - Nachttauchgang<em> 
+                                            <TD vAlign="top" align="left" height="68">03:00
+                                              - Ankunft Komodo National Park Ranger
+                                              Station. 08:00 - Auslaufen nach
+                                              Dragon Walk. 11:00 - Tauchen <em>Pink
+                                              Beach</em>. 13:00 - Fahrt nach Padar.
+                                              15:00 - Tauchen <em> Reef</em>.
+                                              16:30 - Naturwanderung zum Pink
+                                              Beach/Padar. 18:30 - Nachttauchgang<em>
                                               Pasir Putih</em>.<BR></TD>
                               </TR>
                               <TR>
@@ -471,17 +471,17 @@ segeltouren,tauchen in raja ampat,tauchen komodo,komodo drachen,komodo national 
                               <TR>
                                 <TD width="100" height="20">&nbsp;</TD>
                                 <TD height="20">&nbsp;</TD>
-                                            <TD vAlign="top" align="left" height="20"><strong>Tag 
+                                            <TD vAlign="top" align="left" height="20"><strong>Tag
                                               5 - Komodo National Park</strong></TD>
                               </TR>
                               <TR>
                                 <TD vAlign="top" width="100" height="68"><img src="ombak/scuba4.jpg" width="100" height="70" border="1"></TD>
                                 <TD width="20" height="68">&nbsp;</TD>
-                                            <TD vAlign="top" align="left" height="68">Ankunft 
-                                              Nusa Kode. 8:30 - Tauchen <em>Yellow 
-                                              Wall</em>. 11:00 - Tauchen <em>Cannibal 
-                                              Rock</em>. 14:30 - Tauchen <em>Pelican 
-                                              Head West</em>. 18:30 - Nachttauchgang 
+                                            <TD vAlign="top" align="left" height="68">Ankunft
+                                              Nusa Kode. 8:30 - Tauchen <em>Yellow
+                                              Wall</em>. 11:00 - Tauchen <em>Cannibal
+                                              Rock</em>. 14:30 - Tauchen <em>Pelican
+                                              Head West</em>. 18:30 - Nachttauchgang
                                               <em>Cannibal Rock</em>.</TD>
                               </TR>
                               <TR>
@@ -492,18 +492,18 @@ segeltouren,tauchen in raja ampat,tauchen komodo,komodo drachen,komodo national 
                               <TR>
                                 <TD width="100" height="20">&nbsp;</TD>
                                 <TD height="20">&nbsp;</TD>
-                                            <TD vAlign="top" align="left" height="20"><strong>Tag 
+                                            <TD vAlign="top" align="left" height="20"><strong>Tag
                                               6 - Komodo National Park</strong></TD>
                               </TR>
                               <TR>
                                 <TD vAlign="top" width="100"><img src="ombak/scuba6.jpg" alt="indonesien_liveaboard_tauchfahrten_ombak_biru_komodo" width="100" height="70" border="1"></TD>
                                 <TD width="20">&nbsp;</TD>
-                                            <TD vAlign="top" align="left">08:00 
-                                              - Ankunft Tatawa. 08:30 - Tauchen 
-                                              <em>Tatawa Besar</em>. 11:30 - Tauchen 
-                                              <em>Tatawa Kecil</em>. 12:30 - Auslaufen 
-                                              nach Sebayur. 14:30 - Tauchen <em>Sebayur</em>. 
-                                              19:00 - Nachttauchgang<em> Sebayur</em>. 
+                                            <TD vAlign="top" align="left">08:00
+                                              - Ankunft Tatawa. 08:30 - Tauchen
+                                              <em>Tatawa Besar</em>. 11:30 - Tauchen
+                                              <em>Tatawa Kecil</em>. 12:30 - Auslaufen
+                                              nach Sebayur. 14:30 - Tauchen <em>Sebayur</em>.
+                                              19:00 - Nachttauchgang<em> Sebayur</em>.
                                               <BR></TD>
                               </TR>
                               <TR>
@@ -514,19 +514,19 @@ segeltouren,tauchen in raja ampat,tauchen komodo,komodo drachen,komodo national 
                               <TR>
                                 <TD width="100" height="20">&nbsp;</TD>
                                 <TD height="20">&nbsp;</TD>
-                                            <TD vAlign="top" align="left" height="20"><strong>Tag 
+                                            <TD vAlign="top" align="left" height="20"><strong>Tag
                                               7 - Komodo National Park</strong></TD>
                               </TR>
                               <TR>
                                 <TD vAlign="top" width="100" height="72"><img src="ombak/scuba1.jpg" alt="indonesien_liveaboard_tauchfahrten_ombak_biru_komodo" width="100" height="70" border="1"></TD>
                                 <TD width="20" height="72">&nbsp;</TD>
-                                            <TD vAlign="top" align="left" height="72">07:00 
-                                              - Ankunft Sabolan. 08:00 - Tauchen 
-                                              <em>Sabolan Kecil</em>. 09:00 - 
-                                              Auslaufen nach Tatawa. 12:30 - Tauchen 
-                                              <em>Tatawa Kecil</em>. 14:00 - Auslaufen 
-                                              nach Gili Lawah Darat. 15:30 - Dive 
-                                              <em>Pygmy Paradise</em>. 18:30 - 
+                                            <TD vAlign="top" align="left" height="72">07:00
+                                              - Ankunft Sabolan. 08:00 - Tauchen
+                                              <em>Sabolan Kecil</em>. 09:00 -
+                                              Auslaufen nach Tatawa. 12:30 - Tauchen
+                                              <em>Tatawa Kecil</em>. 14:00 - Auslaufen
+                                              nach Gili Lawah Darat. 15:30 - Dive
+                                              <em>Pygmy Paradise</em>. 18:30 -
                                               Nachttauchgang <em>Pygmy Paradise.</em></TD>
                               </TR>
                               <TR>
@@ -537,19 +537,19 @@ segeltouren,tauchen in raja ampat,tauchen komodo,komodo drachen,komodo national 
                               <TR>
                                 <TD width="100" height="20">&nbsp;</TD>
                                 <TD height="20">&nbsp;</TD>
-                                            <TD vAlign="top" align="left" height="20"><strong>Tag 
+                                            <TD vAlign="top" align="left" height="20"><strong>Tag
                                               8 - Komodo National Park</strong></TD>
                               </TR>
                               <TR>
                                 <TD vAlign="top" width="100" height="72"><img src="ombak/scuba8.jpg" alt="indonesien_liveaboard_tauchfahrten_ombak_biru_komodo" width="100" height="70" border="1"></TD>
                                 <TD width="20" height="72">&nbsp;</TD>
-                                            <TD vAlign="top" align="left" height="72">Ankunft 
-                                              Gili Lawah Laut. 08:00 - Tauchen 
-                                              <em>Crystal Rock</em>. 13:00 - Tauchen 
-                                              <em>Castle Rock</em>. 14:00 - Fahrt 
-                                              nach Batu Moncho. 15:30 - Tauchen 
-                                              <em>Tower Rock Reef West</em>. 18:30 
-                                              - Nachttauchgang Dive <em>Inner 
+                                            <TD vAlign="top" align="left" height="72">Ankunft
+                                              Gili Lawah Laut. 08:00 - Tauchen
+                                              <em>Crystal Rock</em>. 13:00 - Tauchen
+                                              <em>Castle Rock</em>. 14:00 - Fahrt
+                                              nach Batu Moncho. 15:30 - Tauchen
+                                              <em>Tower Rock Reef West</em>. 18:30
+                                              - Nachttauchgang Dive <em>Inner
                                               Moncho Bay</em>.</TD>
                               </TR>
                               <TR>
@@ -560,18 +560,18 @@ segeltouren,tauchen in raja ampat,tauchen komodo,komodo drachen,komodo national 
                               <TR>
                                 <TD width="100" height="20">&nbsp;</TD>
                                 <TD height="20">&nbsp;</TD>
-                                            <TD vAlign="top" align="left" height="20"><strong>Tag 
+                                            <TD vAlign="top" align="left" height="20"><strong>Tag
                                               9 - Komodo National Park</strong></TD>
                               </TR>
                               <TR>
                                 <TD vAlign="top" width="100" height="72"><img src="ombak/scuba13.jpg" alt="indonesien_liveaboard_tauchfahrten_ombak_biru_komodo" width="100" height="70" border="1"></TD>
                                 <TD width="20" height="72">&nbsp;</TD>
-                                            <TD vAlign="top" align="left" height="72">08:00 
-                                              - Tauchen <em>Moncho</em> - Inner 
-                                              Bay. 09:00 - Fahrt nach Gili Banta. 
-                                              10:30 - Tauchen <em>Inside Banta 
-                                              Bay</em>. 13:30 - Dive <em>GPS Point</em>. 
-                                              16:30 - Tauchen <em>K2</em>. 17:30 
+                                            <TD vAlign="top" align="left" height="72">08:00
+                                              - Tauchen <em>Moncho</em> - Inner
+                                              Bay. 09:00 - Fahrt nach Gili Banta.
+                                              10:30 - Tauchen <em>Inside Banta
+                                              Bay</em>. 13:30 - Dive <em>GPS Point</em>.
+                                              16:30 - Tauchen <em>K2</em>. 17:30
                                               - Auslaufen nach Satonda.</TD>
                               </TR>
                               <TR>
@@ -582,20 +582,20 @@ segeltouren,tauchen in raja ampat,tauchen komodo,komodo drachen,komodo national 
                               <TR>
                                 <TD width="100" height="20">&nbsp;</TD>
                                 <TD height="20">&nbsp;</TD>
-                                            <TD vAlign="top" align="left" height="20"><strong>Tag 
+                                            <TD vAlign="top" align="left" height="20"><strong>Tag
                                               10 - Satonda / Madang</strong></TD>
                               </TR>
                               <TR>
                                 <TD vAlign="top" width="100" height="72"><img src="ombak/scuba9.jpg" alt="indonesien_liveaboard_tauchfahrten_ombak_biru_satonda" width="100" height="70" border="1"></TD>
                                 <TD width="20" height="72">&nbsp;</TD>
-                                            <TD vAlign="top" align="left" height="72">06:00 
-                                              - Ankunft Satonda. 07:30 Tauchen 
+                                            <TD vAlign="top" align="left" height="72">06:00
+                                              - Ankunft Satonda. 07:30 Tauchen
                                               - <em>Lake Entrance Bay</em>. <BR>
-                                              09:00 - Auslaufen von Madang. 12:30 
-                                              - Tauchen <em>Shark Reef</em>. 13:30 
-                                              - Auslaufen von Lombok Manta Tauchen. 
-                                              16:00 - Tauchen <em>Lombok Manta 
-                                              Dive</em>. 18:00 - Auslaufen nach 
+                                              09:00 - Auslaufen von Madang. 12:30
+                                              - Tauchen <em>Shark Reef</em>. 13:30
+                                              - Auslaufen von Lombok Manta Tauchen.
+                                              16:00 - Tauchen <em>Lombok Manta
+                                              Dive</em>. 18:00 - Auslaufen nach
                                               Tulamben.</TD>
                               </TR>
                               <TR>
@@ -606,17 +606,17 @@ segeltouren,tauchen in raja ampat,tauchen komodo,komodo drachen,komodo national 
                               <TR>
                                 <TD width="100" height="20">&nbsp;</TD>
                                 <TD height="20">&nbsp;</TD>
-                                            <TD vAlign="top" align="left" height="20"><strong>Tag 
+                                            <TD vAlign="top" align="left" height="20"><strong>Tag
                                               11 - Ost Bali</strong></TD>
                               </TR>
                               <TR>
                                 <TD vAlign="top" width="100" height="72"><img src="ombak/scuba7.jpg" alt="indonesien_liveaboard_tauchfahrten_ombak_biru_bali" width="100" height="70" border="1"></TD>
                                 <TD width="20" height="72">&nbsp;</TD>
-                                            <TD vAlign="top" align="left" height="72">06:00 
-                                              - Ankunft Tulamben - 08:00 - Tauchen 
-                                              <em>SS Liberty Shipwreck</em>. 12:00 
-                                              Dive - <em>Batu Kelibit</em>. 14:30 
-                                              - Dive <em>The Drop Off</em>. 17:00 
+                                            <TD vAlign="top" align="left" height="72">06:00
+                                              - Ankunft Tulamben - 08:00 - Tauchen
+                                              <em>SS Liberty Shipwreck</em>. 12:00
+                                              Dive - <em>Batu Kelibit</em>. 14:30
+                                              - Dive <em>The Drop Off</em>. 17:00
                                               - Tauchgang an der <em>SS Liberty</em>.<BR></TD>
                               </TR>
                               <TR>
@@ -627,26 +627,26 @@ segeltouren,tauchen in raja ampat,tauchen komodo,komodo drachen,komodo national 
                               <TR>
                                 <TD width="100" height="20">&nbsp;</TD>
                                 <TD height="20">&nbsp;</TD>
-                                            <TD vAlign="top" align="left" height="20"><strong>Tag 
+                                            <TD vAlign="top" align="left" height="20"><strong>Tag
                                               12 - Benoa, Bali</strong></TD>
                               </TR>
                               <TR>
                                 <TD vAlign="top" width="100" height="72"><img src="ombak/sight7.jpg" alt="indonesien_liveaboard_tauchfahrten_ombak_biru_bali" width="100" height="70" border="1"></TD>
                                 <TD width="20" height="72">&nbsp;</TD>
-                                            <TD vAlign="top" align="left" height="72">03:00 
-                                              Fahrt zur&uuml;ck nach Bali. 09:00 
+                                            <TD vAlign="top" align="left" height="72">03:00
+                                              Fahrt zur&uuml;ck nach Bali. 09:00
                                               - Ankunft Benoa<br></TD>
                               </TR>
                               <TR>
                                 <TD colSpan="3">&nbsp;</TD>
                               </TR>
                               <TR>
-                                            <TD colSpan="3"><div align="center"><em>Wir 
-                                                behalten uns das Recht vor, den 
-                                                Tauchfahrtablauf aufgrund von 
-                                                Wetterbedingungen, staatlichen 
-                                                Verordnungen, sicheren Ankerpl&auml;tzen 
-                                                und aus allen weiteren sicherheitsrelevanten 
+                                            <TD colSpan="3"><div align="center"><em>Wir
+                                                behalten uns das Recht vor, den
+                                                Tauchfahrtablauf aufgrund von
+                                                Wetterbedingungen, staatlichen
+                                                Verordnungen, sicheren Ankerpl&auml;tzen
+                                                und aus allen weiteren sicherheitsrelevanten
                                                 Konditionen jederzeit zu ver&auml;ndern.</em></div></TD>
                               </TR>
                             </table>
@@ -671,10 +671,10 @@ segeltouren,tauchen in raja ampat,tauchen komodo,komodo drachen,komodo national 
         </TR></TBODY></TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z4.gif" border=0>
           <TBODY>
-            <TR> 
+            <TR>
               <TD height="8"><img src="../images/spacer.gif" width="10" height="8"></TD>
             </TR>
             <TR>

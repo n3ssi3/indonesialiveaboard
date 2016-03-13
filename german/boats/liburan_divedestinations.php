@@ -90,44 +90,44 @@ A:hover {
 	color: #003399;
 }
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0" 
+<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0"
 marginheight="0">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="194" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="../images/dotline.gif" 
+              <TD height="194" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="../images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="../images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="../images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td width="329" height="171" valign="bottom" background="../images/z1.jpg">
-<TABLE width="180" height=40 
+<TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
-                          <TR> 
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m3.jpg" alt="indonesien_liveaboard_sport_tauchen_schiffe" 
+                          <TR>
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m3.jpg" alt="indonesien_liveaboard_sport_tauchen_schiffe"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m4.jpg" alt="indonesien_liveaboard_sport_tauchen_schiffe" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m4.jpg" alt="indonesien_liveaboard_sport_tauchen_schiffe"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m2.jpg" alt="indonesien_liveaboard_sport_tauchen_schiffe" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m2.jpg" alt="indonesien_liveaboard_sport_tauchen_schiffe"
                                 width=67 height=40></TD>
                           </TR>
-                          <TR> 
+                          <TR>
                             <TD colspan="3"><img src="../images/spacer.gif" width="10" height="67"></TD>
                           </TR>
                         </TBODY>
@@ -138,15 +138,15 @@ marginheight="0">
                         <tr>
                           <td><img src="../images/spacer.gif" width="10" height="45"></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td height="22" valign="top">&nbsp;&nbsp;<span class="style3"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><strong>&nbsp;<span class="style9"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href="../index.php">Hauptseite</a> | <a href="contactus.php">Kontaktadressen</a></font></font></span></strong></font></span></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td><img src="../images/m1.jpg" alt="indonesien_liveaboard_sport_tauchen_schiffe" width="325" height="104"></td>
                         </tr>
                       </table></td>
                   </tr>
-                  <tr> 
+                  <tr>
                     <td height="20" colspan="3" bgcolor="#006699"> <div align="right"><strong></strong></div></td>
                   </tr>
                 </table></TD></TR></TBODY></TABLE></TD></TR>
@@ -156,16 +156,16 @@ marginheight="0">
         <TBODY>
         <TR>
               <TD width=291 align=middle vAlign=top bgcolor="#4DCEE3"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgsearch.jpg">
-                            
+
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tr> 
+              <tr>
                 <td height="42">&nbsp;</td>
               </tr>
-              <tr> 
+              <tr>
                 <td><?php define( '_VALID_MOS', 1 );  include "../mod/mod_search.php"; ?></td>
               </tr>
             </table></td>
@@ -174,7 +174,7 @@ marginheight="0">
                   </tr>
                   <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgdestination.jpg"><table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
                             <tr>
                               <td height="33" colspan="2">&nbsp;</td>
@@ -302,7 +302,7 @@ marginheight="0">
                 <p align="center">&nbsp;</p>
                 <p align="center">&nbsp;</p>
                 <p align="center"><br>
-                </p>                
+                </p>
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
                 <p>&nbsp;</p>
@@ -325,8 +325,8 @@ marginheight="0">
                 <p align="center">&nbsp;</p>
                 <p align="center">&nbsp;</p>
                 <p align="center">&nbsp;</p>              </TD>
-          <TD vAlign=top width=10 
-          background="../images/z6.jpg"><IMG height=4 
+          <TD vAlign=top width=10
+          background="../images/z6.jpg"><IMG height=4
             src="../images/z6.jpg" width=5></TD>
           <TD width="464" vAlign=top><table width="100%"  border="0" align="center" cellpadding="0" cellspacing="0">
             <tr>
@@ -369,7 +369,7 @@ marginheight="0">
                               </p>
                               <div align="center">
                                 <p class="style31"><strong><span class="style15">MS Liburan <br>
-                                  Tauchgebiet - 
+                                  Tauchgebiet -
                                   Saison 2015</span></strong></p>
                                 <p align="center">Die Tauchgebiete der MS Liburan fuer die Saison 2015 sind ausschliesslich die Weltklasse-Tauchpl&auml;tze von Halmahera / Sued Molukken. Abfahrt-Hafen und Ankunftshafen ist ausschlie&szlig;lich Ternate - eine Insel in der N&auml;he von Halmahera inden suedlichen Molukken.</p>
                                 <p align="center"><strong><a href="msliburanboats/liburan_divesite_halmahera.jpg" target="_blank"><img src="msliburanboats/liburan_divesite_halmahera.jpg" alt="liburan liveaboard divedestination halmahera" width="376" height="279" border="0"></a></strong></p>
@@ -407,10 +407,10 @@ Diese Insel liegt &ouml;stlich von Ternate, die nur durch eine schmale Meerenge 
         </TBODY></TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z4.gif" border=0>
           <TBODY>
-            <TR> 
+            <TR>
               <TD height="8"><img src="../images/spacer.gif" width="10" height="8"></TD>
             </TR>
             <TR>

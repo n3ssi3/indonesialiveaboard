@@ -66,45 +66,45 @@ A:hover {
 .style83 {font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
 .style86 {color: #007777}
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
 <?php	                                       			 define( '_VALID_MOS', 1 ); ?>
-<BODY bottomMargin=0 bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 
+<BODY bottomMargin=0 bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0
 marginheight="0" marginwidth="0">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%"
       background="images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="194" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="images/dotline.gif" 
+              <TD height="194" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td width="332" height="171" valign="bottom" background="images/z1.jpg">
-<TABLE width="180" height=40 
+<TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
-                          <TR> 
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="images/m3.jpg" alt="indonesian_liveaboard_scuba_diving_cruises" 
+                          <TR>
+                            <TD bgcolor="#ffffff"><IMG
+                                src="images/m3.jpg" alt="indonesian_liveaboard_scuba_diving_cruises"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="images/m4.jpg" alt="indonesian_liveaboard_scuba_diving_cruises" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="images/m4.jpg" alt="indonesian_liveaboard_scuba_diving_cruises"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="images/m2.jpg" alt="indonesian_liveaboard_scuba_diving" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="images/m2.jpg" alt="indonesian_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
                           </TR>
-                          <TR> 
+                          <TR>
                             <TD colspan="3"><img src="images/spacer.gif" width="10" height="67"></TD>
                           </TR>
                         </TBODY>
@@ -124,7 +124,7 @@ marginheight="0" marginwidth="0">
                             <td><div align="center"><img src="images/germanflag.gif" width="43" height="30" border="0" usemap="#MapMap"><br>
                                   <strong>Deutsche Webseite </strong>
                                   <map name="MapMap">
-                                    
+
                                   <area shape="rect" coords="0,-14,41,26" href="german/index.php">
                                 </map>
                             </div></td>
@@ -134,18 +134,18 @@ marginheight="0" marginwidth="0">
                     <td width="123" background="images/z2.jpg">&nbsp;</td>
                     <td width="320" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                         <tr>
-                          <td><div align="center"><img src="images/spacer.gif" width="10" height="45"><span class="style5"><br> 
+                          <td><div align="center"><img src="images/spacer.gif" width="10" height="45"><span class="style5"><br>
                           </span></div></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td height="22" valign="top">&nbsp;&nbsp;<span class="style19"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href="index.php"><strong>Home </strong></a></font></span><span class="style25">|</span> <a href="boats/contactus.php" class="style19"><strong>Contact Us </strong></a><span class="style25"><strong>|</strong></span><a href="partner_links.php" class="style19"><strong> Partner Links</strong></a><a href="boats/contactus.php" class="style19"><strong> </strong></a></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td><img src="images/m1.jpg" alt="indonesian_liveaboard_scuba_diving_cruises" width="325" height="104"></td>
                         </tr>
                       </table></td>
                   </tr>
-                  <tr> 
+                  <tr>
                     <td colspan="3" bgcolor="#006699"><div align="center"><span class="style5"></span></div> <div align="right"><strong><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;</font></strong></div></td>
                   </tr>
                 </table></TD></TR></TBODY></TABLE></TD></TR>
@@ -155,16 +155,16 @@ marginheight="0" marginwidth="0">
         <TBODY>
         <TR>
               <TD width=330 rowspan="2" align=middle vAlign=top bgcolor="#5BD5E1"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="images/bgsearch.jpg">
-                            
+
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tr> 
+              <tr>
                 <td height="42">&nbsp;</td>
               </tr>
-              <tr> 
+              <tr>
                 <td><?php include "mod/mod_search.php"; ?></td>
               </tr>
             </table></td>
@@ -173,7 +173,7 @@ marginheight="0" marginwidth="0">
                   </tr>
                   <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="images/bgdestination.jpg"><table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
                             <tr>
                               <td height="33" colspan="2">&nbsp;</td>
@@ -231,7 +231,7 @@ marginheight="0" marginwidth="0">
                             </tr>
                             <tr>
                               <td><div align="center"><strong><img src="images/dot.gif" width="4" height="4"></strong></div></td>
-                              <td height="18" class="style83"><div align="center"><a href="../boats/katharina_index.php" class="style83">Bali-Flores-Bali 
+                              <td height="18" class="style83"><div align="center"><a href="../boats/katharina_index.php" class="style83">Bali-Flores-Bali
                                 &quot;
                                 Exploration Cruises&quot;</a></div></td>
                             </tr>
@@ -271,7 +271,7 @@ marginheight="0" marginwidth="0">
                               <td height="18" class="style83"><div align="center"><a href="../boats/ondina_index.php" class="style83">Maluku, Bira, Selayar, Irian Jaya</a></div></td>
                             </tr>
                             <tr>
-                              <td height="18" colspan="2"><div align="center"><br>  
+                              <td height="18" colspan="2"><div align="center"><br>
                                   <br>
                                 <img src="images/hot-deals.jpg" width="103" height="24" border="2" usemap="#Map2"></div></td>
                             </tr>
@@ -297,14 +297,14 @@ marginheight="0" marginwidth="0">
               banta,dive sailing trip,sulawesi dive cruises,diving lombok,dive nusa penida,boat,vessel,indonesian island cruises, indonesian dive destinations,indonesian archipelago dive adventures,exclusive luxury liveaboard,bali dive resort,dive exploration sailing safaris,</span><span class="style47"><br>
               </span><br>
               </p></TD>
-          <TD vAlign=top width=5 
-          background="images/z6.jpg"><IMG height=4 
+          <TD vAlign=top width=5
+          background="images/z6.jpg"><IMG height=4
             src="images/z6.jpg" width=5></TD>
           <TD vAlign=top>            <div align="center">
               <p class="style14">&nbsp;</p>
               <table width="98%" border="0">
                 <tr>
-                  <td><p align="center" class="style14"><span class="style22">Welcome to 
+                  <td><p align="center" class="style14"><span class="style22">Welcome to
                     Indonesia Liveaboard <br>
                     Diving, Sailing and Cruising Service </span></p>
                     <p align="center" class="style19">Indonesian liveaboard exploration &amp; scuba diving cruises provides professional liveaboards boat trips around the entire indonesian island archipelago.<br>
@@ -366,7 +366,7 @@ Rinca, Sulawesi, Banggka Islands, Gangga Islands, Togian Islands, New Guinea,  R
               </div></TD>
         </TR>
         <TR>
-          <TD vAlign=top 
+          <TD vAlign=top
           background="images/z6.jpg">&nbsp;</TD>
           <TD vAlign=top><div align="center">
             <p align="left" class="style36"><span class="style44">indonesian liveaboard scuba diving cruises,diving cruises, exploration cruises,sailing journey,sailing cruises, indonesian archipelago sailing diving cruises,dive bali,bali diving,dive resort,wreck diving,diving komodo,komodo marine park diving,dive komodo national park diving,komodo national park sailing exploration,komodo dragon exploration,dive flores,diving alor,dive
@@ -376,13 +376,13 @@ Rinca, Sulawesi, Banggka Islands, Gangga Islands, Togian Islands, New Guinea,  R
         </TBODY></TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="images/z4.gif" border=0>
-        <TBODY> 
-        <TR> 
+        <TBODY>
+        <TR>
           <TD height="8"><img src="images/spacer.gif" width="10" height="8"></TD>
         </TR>
-        <tr> 
+        <tr>
           <td height="18" bgcolor="#FFFFFF">
             <div align="center">
               <p><strong><br>
@@ -399,7 +399,7 @@ Rinca, Sulawesi, Banggka Islands, Gangga Islands, Togian Islands, New Guinea,  R
                             </strong></p>
             </div>          </td>
         </tr>
-        </TBODY> 
+        </TBODY>
     </TABLE>    </TD></TR></TBODY></TABLE>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

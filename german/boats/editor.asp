@@ -66,6 +66,6 @@ A:hover {
 .style83 {font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
 .style86 {color: #007777}
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 <!-- #include virtual ="\database/banner.gif"-->
-</HEAD>
+</HEAD>

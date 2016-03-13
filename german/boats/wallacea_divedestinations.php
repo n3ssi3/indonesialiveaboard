@@ -110,44 +110,44 @@ A:hover {
 }
 .style86 {font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0" 
+<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0"
 marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=188 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=188 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="188" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="../images/dotline.gif" 
+              <TD height="188" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="../images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="../images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="../images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td width="332" height="171" valign="bottom" background="../images/z1.jpg">
-<TABLE width="180" height=40 
+<TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
-                          <TR> 
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m3.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten" 
+                          <TR>
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m3.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m4.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m4.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m2.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m2.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten"
                                 width=67 height=40></TD>
                           </TR>
-                          <TR> 
+                          <TR>
                             <TD colspan="3"><img src="../images/spacer.gif" width="10" height="67"></TD>
                           </TR>
                         </TBODY>
@@ -158,15 +158,15 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
                         <tr>
                           <td><img src="../images/spacer.gif" width="10" height="45"></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td height="22" valign="top">&nbsp;&nbsp;<span class="style9"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href="../index.php">Hauptseite</a> | <a href="contactus.php">Kontaktadressen</a></font></font></span></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td><img src="../images/m1.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten" width="325" height="104"></td>
                         </tr>
                       </table></td>
                   </tr>
-                  <tr bgcolor="#006699"> 
+                  <tr bgcolor="#006699">
                     <td colspan="3"> <div align="right"><strong><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></strong></div></td>
                   </tr>
                 </table></TD></TR></TBODY></TABLE></TD></TR>
@@ -176,16 +176,16 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
         <TBODY>
         <TR>
               <TD width=291 height="881" align=middle vAlign=top bgcolor="#4DCEE3"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgsearch.jpg">
-                            
+
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tr> 
+              <tr>
                 <td height="42">&nbsp;</td>
               </tr>
-              <tr> 
+              <tr>
                 <td><?php define( '_VALID_MOS', 1 );  include "../mod/mod_search.php"; ?></td>
               </tr>
             </table></td>
@@ -194,7 +194,7 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
                   </tr>
                   <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgdestination.jpg"><table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
                             <tr>
                               <td height="33" colspan="2">&nbsp;</td>
@@ -329,8 +329,8 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
                 <p align="center">&nbsp;</p>
                 <p align="center"><img src="wallaceaboats/banggaifisherman.jpg" alt="paisubatu sangihe liveaboard dive cruises" width="244" height="158" border="1"><br>
                 <span class="style11">Banggai Fisherman</span></p>              </TD>
-          <TD vAlign=top width=10 
-          background="../images/z6.jpg"><IMG height=4 
+          <TD vAlign=top width=10
+          background="../images/z6.jpg"><IMG height=4
             src="../images/z6.jpg" width=5></TD>
           <TD width="474" vAlign=top><table width="96%"  border="0" align="center" cellpadding="0" cellspacing="0">
             <tr>
@@ -388,16 +388,16 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
                             <p class="tdinhalt style3"><span class="style7">Die Gew&auml;sser rund um Sulawesi und seiner Inseln wurden als eine der reichsten Gew&auml;sser auf der Erde an marinem Leben und Vielfalt erkannt. </span></p>
                             <p class="tdinhalt style3"><span class="style7"> Tauchgebiete wie Bunaken und  Lembeh Strait (Nord Sulawesi, Manado) haben schon seit langem einen guten Ruf bei etablierten Tauchern. Unsere Tauchfahrten zu den <B>Banggai</B> oder <B>Togian Inseln</B> - je nach Saison, sind eine gute Option um Erfahrungen in den pr&auml;chtigen Gew&auml;ssern von Sulawesi zu sammeln. </span>  <BR>
                                   <BR>
-                                  <IMG 
-            style="MARGIN-TOP: 5px; MARGIN-RIGHT: 10px" height=225 
-            alt="paisubatu sulawesi liveaboard dive cruises" 
-            src="wallaceaboats/sulawesimap.gif" 
+                                  <IMG
+            style="MARGIN-TOP: 5px; MARGIN-RIGHT: 10px" height=225
+            alt="paisubatu sulawesi liveaboard dive cruises"
+            src="wallaceaboats/sulawesimap.gif"
             width=163 align=left border=1> <span class="style7">An der s&uuml;dlichen Seite von Sulawesi, bieten diese beiden Tauchgebiete mit ihren zahllosen Korallenriffen eine gro&szlig;artige Variation von spektakul&auml;ren Tauchpl&auml;tzen und Unterwasserszenerien. &Uuml;ber Wasser entdecken sie hunderte von Inseln, mit Korallenbuchten, wei&szlig;en Sandstr&auml;nden und &uuml;ppiger tropischer Vegetation. <B><br>
               Ein Traum f&uuml;r eine 8t&auml;gige Kreuzfahrt mit unbegrenzten Tauchg&auml;ngen - fernab von den belebten Pl&auml;tzen der indonesischen Tauchindustrie. </B></span><BR>
               <BR>
               <span class="style8">Der Zugang zu diesen fantastischen Tauchgr<span class="style7">&uuml;</span>nden ist relativ einfach: <B>Maleo <br>
               Cottages</B>, unsere Operationsbasis bei <br>
-              Luwuk, ist nur  1 1/2 Stunden vom Flughafen  Manado entfernt und an internationale Fl<span class="style7">&uuml;</span>ge von und nach Singapore angeschlossen.  Wir arrangieren ihren Trip von ihrer Ankunft in Indonesien: Empfang am Flughafen in Manado, 
+              Luwuk, ist nur  1 1/2 Stunden vom Flughafen  Manado entfernt und an internationale Fl<span class="style7">&uuml;</span>ge von und nach Singapore angeschlossen.  Wir arrangieren ihren Trip von ihrer Ankunft in Indonesien: Empfang am Flughafen in Manado,
               Transfers und lokale Flugbuchungen werden von uns im voraus bezahlt. </span></p>
                             <p align="left" class="tdinhalt style3 style11">- <a href="wallacea_togian.php">Tauchgebiet Togian Inseln</a></p>
                             <p align="left" class="style3 tdinhalt"><strong> - <a href="wallacea_banggai.php">Tauchgebiet Banggai Inseln</a> </strong></p>                            <p class="tdinhalt style3">&nbsp;</p></td>
@@ -420,10 +420,10 @@ tauchen indonesien,steilwandtauchen,rifftauchen,tauchen togian inseln,tauchen ba
         </TR></TBODY></TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z4.gif" border=0>
           <TBODY>
-            <TR> 
+            <TR>
               <TD height="8"><img src="../images/spacer.gif" width="10" height="8"></TD>
             </TR>
             <TR>

@@ -89,41 +89,41 @@ A:hover {
 	font-weight: bold;
 }
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0" 
+<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0"
 marginheight="0">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="194" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="../images/dotline.gif" 
+              <TD height="194" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="../images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="../images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="../images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
                     <td width="332" height="171" valign="bottom" background="../images/z1.jpg">
-                      <TABLE width="180" height=40 
+                      <TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
                           <TR>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m3.jpg" alt="indonesien_liveaboard_tauchfahrten_schiffe" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m3.jpg" alt="indonesien_liveaboard_tauchfahrten_schiffe"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m4.jpg" alt="indonesien_liveaboard_tauchfahrten_schiffe" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m4.jpg" alt="indonesien_liveaboard_tauchfahrten_schiffe"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m2.jpg" alt="indonesien_liveaboard_tauchfahrten_schiffe" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m2.jpg" alt="indonesien_liveaboard_tauchfahrten_schiffe"
                                 width=67 height=40></TD>
                           </TR>
                           <TR>
@@ -138,7 +138,7 @@ marginheight="0">
                           <td><img src="../images/spacer.gif" width="10" height="45"></td>
                         </tr>
                         <tr>
-                          <td height="22" valign="top">&nbsp;&nbsp;<span class="style9"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href="../index.php">Home</a> 
+                          <td height="22" valign="top">&nbsp;&nbsp;<span class="style9"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href="../index.php">Home</a>
                             | <a href="contactus.php">Kontaktadresse</a></font></span></td>
                         </tr>
                         <tr>
@@ -157,16 +157,16 @@ marginheight="0">
         <TBODY>
         <TR>
               <TD width=291 height="961" align=middle vAlign=top bgcolor="#4DCEE3"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgsearch.jpg">
-                            
+
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tr> 
+              <tr>
                 <td height="42">&nbsp;</td>
               </tr>
-              <tr> 
+              <tr>
                 <td><?php define( '_VALID_MOS', 1 );  include "../mod/mod_search.php"; ?></td>
               </tr>
             </table></td>
@@ -175,7 +175,7 @@ marginheight="0">
                   </tr>
                   <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgdestination.jpg"><table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
                             <tr>
                               <td height="33" colspan="2">&nbsp;</td>
@@ -298,8 +298,8 @@ segeltouren,tauchen in raja ampat,tauchen komodo,komodo drachen,komodo national 
                     <area shape="rect" coords="0,0,303,88" href="dive_resort_tulamben/index.php" target="_blank" alt="Bali Tauch Hotel Resort mit moderner Tauchbasis &amp; Schiffwrack">
                   </map>
                 </p></TD>
-              <TD vAlign=top width=10 
-          background="../images/z6.jpg"><IMG height=4 
+              <TD vAlign=top width=10
+          background="../images/z6.jpg"><IMG height=4
             src="../images/z6.jpg" width=5></TD>
           <TD width="474" vAlign=top><div align="center">
             <table width="96%"  border="0" align="center" cellpadding="0" cellspacing="0">
@@ -311,7 +311,7 @@ segeltouren,tauchen in raja ampat,tauchen komodo,komodo drachen,komodo national 
                     <tr>
                       <td bgcolor="#2E3C9D"><table width="100%"  border="0" cellpadding="1" cellspacing="1">
                         <tr>
-                                  <td height="18" bgcolor="#006699"><span class="style1">&nbsp;&nbsp;<strong>Ombak 
+                                  <td height="18" bgcolor="#006699"><span class="style1">&nbsp;&nbsp;<strong>Ombak
                                     Biru - Termine &amp; Preise</strong></span></td>
                         </tr>
                         <tr>
@@ -325,26 +325,26 @@ segeltouren,tauchen in raja ampat,tauchen komodo,komodo drachen,komodo national 
                                       <td bgcolor="#006699"><table width="182" border="0" align="center" cellpadding="0" cellspacing="0">
                                         <tr>
                                           <td bgcolor="#006699"><table width="100%"  border="0" cellpadding="1" cellspacing="1">
-                                                              <tr> 
-                                                                <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_index.php">Die 
+                                                              <tr>
+                                                                <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_index.php">Die
                                                                   Ombak Biru </a></strong></td>
                                                               </tr>
-                                                              <tr> 
-                                                                <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_boatdetails.php">Ombak 
-                                                                  Biru </a><a href="ombak_boatdetails.php"> 
-                                                                  Boot Details 
+                                                              <tr>
+                                                                <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_boatdetails.php">Ombak
+                                                                  Biru </a><a href="ombak_boatdetails.php">
+                                                                  Boot Details
                                                                   </a></strong></td>
                                                               </tr>
-                                                              <tr> 
+                                                              <tr>
                                                                 <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_itinerary.php">Tauchfahrtablauf</a><a href="felicia_divedestinations.php"></a></strong></td>
                                                               </tr>
-                                                              <tr> 
-                                                                <td height="18" bgcolor="#D9F2FF">&nbsp;<strong><a href="ombak_divedestinations.php"> 
-                                                                  Tauch &amp; 
+                                                              <tr>
+                                                                <td height="18" bgcolor="#D9F2FF">&nbsp;<strong><a href="ombak_divedestinations.php">
+                                                                  Tauch &amp;
                                                                   Cruise Gebiete</a></strong></td>
                                                               </tr>
-                                                              <tr> 
-                                                                <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_schedule&rates.php">Termine 
+                                                              <tr>
+                                                                <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_schedule&rates.php">Termine
                                                                   &amp; Preise</a><a href="felicia_divedestinations.php"></a></strong></td>
                                                               </tr>
                                                             </table></td>
@@ -581,7 +581,7 @@ Guests will require one hotel night prior to boarding that we will gladly arrang
 Inclusions: Seven or eleven nights on board the Komodo Dancer, all meals and beverages (including alcohol), transfers at Denpasar airport in Bali, nine and 1/2 days of diving usually four or five dives per day, shore excursions during the charter, other standard Dancer Fleet services and amenities . . . <a href="http://www.komododancer.com/dive_cruises_komodo_rates.html#"> Terms &amp; Conditions</a><br>
 <br>
 * Fuel surcharges are dependent upon the price of fuel and are subject to change up until the date of travel. Cruise prices shown above are valid thru Jan. 1- Dec. 31, 2008  </p>
-                                          <h1 align="center" class="style2 style3"><span class="style32"><a href="#">- 
+                                          <h1 align="center" class="style2 style3"><span class="style32"><a href="#">-
                                             Back to Top</a></span></h1>
                                 </td>
                               </tr>
@@ -604,10 +604,10 @@ Inclusions: Seven or eleven nights on board the Komodo Dancer, all meals and bev
         </TR></TBODY></TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z4.gif" border=0>
           <TBODY>
-            <TR> 
+            <TR>
               <TD height="8"><img src="../images/spacer.gif" width="10" height="8"></TD>
             </TR>
             <TR>

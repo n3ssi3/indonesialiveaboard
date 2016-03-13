@@ -105,44 +105,44 @@ A:hover {
 }
 .style86 {font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0" 
+<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0"
 marginheight="0">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=188 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=188 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="188" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="../images/dotline.gif" 
+              <TD height="188" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="../images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="../images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="../images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td width="332" height="171" valign="bottom" background="../images/z1.jpg">
-<TABLE width="180" height=40 
+<TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
-                          <TR> 
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m3.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten" 
+                          <TR>
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m3.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m4.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m4.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m2.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m2.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten"
                                 width=67 height=40></TD>
                           </TR>
-                          <TR> 
+                          <TR>
                             <TD colspan="3"><img src="../images/spacer.gif" width="10" height="67"></TD>
                           </TR>
                         </TBODY>
@@ -153,15 +153,15 @@ marginheight="0">
                         <tr>
                           <td><img src="../images/spacer.gif" width="10" height="45"></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td height="22" valign="top">&nbsp;&nbsp;<span class="style9"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href="contact%20us.php"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href="../index.php">Hauptseite</a> | <a href="contactus.php">Kontaktadressen</a></font></span></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td><img src="../images/m1.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten" width="325" height="104"></td>
                         </tr>
                       </table></td>
                   </tr>
-                  <tr bgcolor="#006699"> 
+                  <tr bgcolor="#006699">
                     <td colspan="3"> <div align="right"><strong><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></strong></div></td>
                   </tr>
                 </table></TD></TR></TBODY></TABLE></TD></TR>
@@ -171,16 +171,16 @@ marginheight="0">
         <TBODY>
         <TR>
               <TD width=291 align=middle vAlign=top bgcolor="#4DCEE3"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgsearch.jpg">
-                            
+
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tr> 
+              <tr>
                 <td height="42">&nbsp;</td>
               </tr>
-              <tr> 
+              <tr>
                 <td><?php define( '_VALID_MOS', 1 );  include "../mod/mod_search.php"; ?></td>
               </tr>
             </table></td>
@@ -189,7 +189,7 @@ marginheight="0">
                   </tr>
                   <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgdestination.jpg"><table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
                             <tr>
                               <td height="33" colspan="2">&nbsp;</td>
@@ -320,8 +320,8 @@ marginheight="0">
                 <p align="center"><img src="wallaceaboats/wideanglesoftcoralandsunanddiver2.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten_wallacea_sulawesi" width="247" height="177" border="1"><br>
                 <strong>Taucher</strong></p>
               </TD>
-          <TD vAlign=top width=10 
-          background="../images/z6.jpg"><IMG height=4 
+          <TD vAlign=top width=10
+          background="../images/z6.jpg"><IMG height=4
             src="../images/z6.jpg" width=5></TD>
           <TD width="474" vAlign=top><table width="96%"  border="0" align="center" cellpadding="0" cellspacing="0">
             <tr>
@@ -398,7 +398,7 @@ Black Forrest: </strong> Ein weiteres Riff zum betauchen - Unmegen von schwarzen
  Ein weiteres Atoll bei Pasir Tengah. Steilwand mit wundersch&ouml;nen H&ouml;hlen in einer Tiefe von ca. 20 Metern. <br>
 
   <strong>Lampu Wall :</strong> Ein weiteres Atoll bei Pasir Tengah.<br>
-  <strong>Kanau:</strong> Nachttauchgang - 
+  <strong>Kanau:</strong> Nachttauchgang -
 
 
  Ankern in der Bucht von Kanau , 45 Minuten von Pasir Tengah. <br>
@@ -418,7 +418,7 @@ Black Forrest: </strong> Ein weiteres Riff zum betauchen - Unmegen von schwarzen
                                 <strong> Gunung Laut 2:</strong> Ein Riff in 28 Meter Tiefe mitten im Niemandsland von S&uuml;d-Togian. 3,5 Stunden vom Ankerplatz.<br>
                                     <strong>Gunung Laut:</strong> Der gleiche Tauchgang wie am Anfang unserer Kreuzfahrt, nur f&uuml;r G&auml;ste die nicht am n&auml;chsten Morgen abreisen m&uuml;&szlig;en. Zur&uuml;ck zum Hafen von Pagimana  (5 Stunden), dann nach Luwuk. &Uuml;bernachtung in Maleo Cottages inklusive. <br>
     <br>
-    <span class="style8">            </span></p>                            
+    <span class="style8">            </span></p>
                             <p class="tdinhalt style3"><span class="tdinhalt style3 style11"><a href="wallacea_itenarybanggai.php">- Tauchfahrtablauf Banggai Inseln</a></span></p>
                             <p align="left" class="tdinhalt style3 style11"> <a href="wallacea_togian.php">- Tauchgebiet Togia Inseln<br>
                               <br>
@@ -448,10 +448,10 @@ Black Forrest: </strong> Ein weiteres Riff zum betauchen - Unmegen von schwarzen
         </TBODY></TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z4.gif" border=0>
           <TBODY>
-            <TR> 
+            <TR>
               <TD height="8"><img src="../images/spacer.gif" width="10" height="8"></TD>
             </TR>
             <TR>

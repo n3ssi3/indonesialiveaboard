@@ -101,41 +101,41 @@ A:hover {
 }
 .style86 {color: #FF6600}
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0" 
+<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0"
 marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="194" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="../images/dotline.gif" 
+              <TD height="194" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="../images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="../images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="../images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
                     <td width="332" height="171" valign="bottom" background="../images/z1.jpg">
-                      <TABLE width="180" height=40 
+                      <TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
                           <TR>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m3.jpg" alt="indonesien_liveaboard_sport_tauchen_schiffe" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m3.jpg" alt="indonesien_liveaboard_sport_tauchen_schiffe"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m4.jpg" alt="indonesien_liveaboard_sport_tauchen_schiffe" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m4.jpg" alt="indonesien_liveaboard_sport_tauchen_schiffe"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m2.jpg" alt="indonesien_liveaboard_sport_tauchen_schiffe" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m2.jpg" alt="indonesien_liveaboard_sport_tauchen_schiffe"
                                 width=67 height=40></TD>
                           </TR>
                           <TR>
@@ -168,16 +168,16 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
         <TBODY>
         <TR>
               <TD width=291 align=middle vAlign=top bgcolor="#4DCEE3"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgsearch.jpg">
-                            
+
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tr> 
+              <tr>
                 <td height="42">&nbsp;</td>
               </tr>
-              <tr> 
+              <tr>
                 <td><?php define( '_VALID_MOS', 1 );  include "../mod/mod_search.php"; ?></td>
               </tr>
             </table></td>
@@ -186,7 +186,7 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
                   </tr>
                   <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgdestination.jpg"><table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
                             <tr>
                               <td height="33" colspan="2">&nbsp;</td>
@@ -311,8 +311,8 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
                 <div align="center">
                   <p><img src="msliburanboats/libdive.jpg" alt="indonesien_liveaboard_sulawesi_liburan" width="178" height="233" border="2"></p>
                 </div></TD>
-          <TD vAlign=top width=10 
-          background="../images/z6.jpg"><IMG height=4 
+          <TD vAlign=top width=10
+          background="../images/z6.jpg"><IMG height=4
             src="../images/z6.jpg" width=5></TD>
           <TD width="474" vAlign=top><table width="96%"  border="0" align="center" cellpadding="0" cellspacing="0">
             <tr>
@@ -353,7 +353,7 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
                             Die MS Liburan wurde im Jahre 2006 neu gebaut und ist 28 m lang - bewusst f&uuml;r gehobenen Komfort - f&uuml;r alle Taucher. In diesem Sinne hat jede Kabine ein Klimaanlage, WC und Dusche.
                             <p>Als eine der bekanntesten Liveaboard-Unternehmen in Nord-Sulawesi, wissen wir, dass die Suche nach dem perfekten Liveaboard-Urlaub sehr strapazi&ouml;s sein kann. Die Wahl des richtigen Tauchgebietes und die Entscheidung f&uuml;r den richtigen Tauchveranstalter, kann schon alleine einen Urlaub f&uuml;r sich beanspruchen! <br>
                     <br>
-                    Aber wenn Du das richtige Tauchschiff, eine erfahrene Mannschaft und herrliche Tauchpl&auml;tze gefunden hast, dann hast Du die ideale Kombination - der richtige Liveaboard-Urlaub ist der sch&ouml;nste Tauchurlaub schlechthin - ausgelegt auf Komfort und ohne die Annehmlichkeiten eines Tauch-Resorts missen zu m&uuml;ssen.                  
+                    Aber wenn Du das richtige Tauchschiff, eine erfahrene Mannschaft und herrliche Tauchpl&auml;tze gefunden hast, dann hast Du die ideale Kombination - der richtige Liveaboard-Urlaub ist der sch&ouml;nste Tauchurlaub schlechthin - ausgelegt auf Komfort und ohne die Annehmlichkeiten eines Tauch-Resorts missen zu m&uuml;ssen.
                             <table width="200" border="0" align="center">
                               <tr>
                                 <td><a href="../../boats/msliburanboats/liveaboard_halmahera_molucca_divesites_liburan.jpg" target="_blank"><img src="../../boats/msliburanboats/liveaboard_halmahera_molucca_divesites_liburan.jpg" alt="halmahera liveaboard divesites" width="200" height="142" border="0"></a></td>
@@ -361,8 +361,8 @@ marginheight="0" onLoad="MM_preloadimages('mvanggun/deatils2.gif')">
                               </tr>
                             </table>
                             <p>Vom Neuling bis zum Spezialisten - ALLE sind willkommen! Komm und tauche mit uns an den gro&szlig;en Steilw&auml;nden der Bunaken, bei den unber&uuml;hrten Riffen und dem Makroleben in der Lembeh Strait. Erforsche die bezaubernden Riffe bei der Sangihe Insel, Siau Insel und den beeindruckenden UW-Vulkan der Mangahetang Insel. Das sind nur einige der Tauchpl&auml;tze die Du kennen lernen wirst.
-                            
-                            <P 
+
+                            <P
                   class=MsoBodyText>Unsere Aufgabe ist es, Dir den Aufenthalt auf der MY Liburan so angenehm wie m&ouml;glich zu gestallten. Dazu geh&ouml;rt eine ausgezeichnete Indonesische / Chinesische K&uuml;che, komfortable Kabinen, beste Betreuung - nicht nur an Bord, sonder auch UW, und vor allem unvergessliche Tauchg&auml;nge! W&auml;hrend sich unser erfahrenes Team um den t&auml;glichen Ablauf , um die Sicherheit und um die Qualit&auml;t der Tauchg&auml;nge k&uuml;mmert, geniesst Du den Urlaub. </P>
                   <p align="center"><span class="style29"><span class="style28">                              </span></span><span class="style2"><img src="msliburanboats/manadoliveaboard.gif" width="400" height="27"><br>
                               </span>
@@ -387,10 +387,10 @@ boot tauchen,tauchen in Sulawesi,tauchen im Bunaken Marine Park,halmahera tauche
         </TR></TBODY></TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z4.gif" border=0>
           <TBODY>
-            <TR> 
+            <TR>
               <TD height="8"><img src="../images/spacer.gif" width="10" height="8"></TD>
             </TR>
             <TR>

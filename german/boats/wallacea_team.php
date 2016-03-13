@@ -94,44 +94,44 @@ A:hover {
 	font-weight: bold;
 }
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0" 
+<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0"
 marginheight="0">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="194" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="../images/dotline.gif" 
+              <TD height="194" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="../images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="../images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="../images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td width="332" height="171" valign="bottom" background="../images/z1.jpg">
-<TABLE width="180" height=40 
+<TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
-                          <TR> 
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m3.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten" 
+                          <TR>
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m3.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m4.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m4.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m2.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m2.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten"
                                 width=67 height=40></TD>
                           </TR>
-                          <TR> 
+                          <TR>
                             <TD colspan="3"><img src="../images/spacer.gif" width="10" height="67"></TD>
                           </TR>
                         </TBODY>
@@ -142,15 +142,15 @@ marginheight="0">
                         <tr>
                           <td><img src="../images/spacer.gif" width="10" height="45"></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td height="22" valign="top">&nbsp;&nbsp;<span class="style9"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href="../index.php">Hauptseite</a> | <a href="contactus.php">Kontaktadressen</a></font></font></span></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td><img src="../images/m1.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten" width="325" height="104"></td>
                         </tr>
                       </table></td>
                   </tr>
-                  <tr> 
+                  <tr>
                     <td background="../images/l1.jpg" bgcolor="#FFFFFF">&nbsp;</td>
                     <td height="20" colspan="2" bgcolor="#006699"> <div align="right"><strong><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></strong></div></td>
                   </tr>
@@ -161,16 +161,16 @@ marginheight="0">
         <TBODY>
         <TR>
               <TD width=291 align=middle vAlign=top bgcolor="#4DCEE3"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgsearch.jpg">
-                            
+
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tr> 
+              <tr>
                 <td height="42">&nbsp;</td>
               </tr>
-              <tr> 
+              <tr>
                 <td><?php define( '_VALID_MOS', 1 );  include "../mod/mod_search.php"; ?></td>
               </tr>
             </table></td>
@@ -179,7 +179,7 @@ marginheight="0">
                   </tr>
                   <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgdestination.jpg"><table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
                             <tr>
                               <td height="33" colspan="2">&nbsp;</td>
@@ -300,8 +300,8 @@ marginheight="0">
                       <area shape="rect" coords="0,0,303,88" href="dive_resort_tulamben/index.php" target="_blank" alt="Bali Tauch Hotel Resort mit moderner Tauchbasis &amp; Schiffwrack">
                     </map>
                 </p></TD>
-          <TD vAlign=top width=10 
-          background="../images/z6.jpg"><IMG height=4 
+          <TD vAlign=top width=10
+          background="../images/z6.jpg"><IMG height=4
             src="../images/z6.jpg" width=5></TD>
           <TD width="474" vAlign=top><table width="96%"  border="0" align="center" cellpadding="0" cellspacing="0">
             <tr>
@@ -351,22 +351,22 @@ marginheight="0">
                         <tr>
                           <td colspan="2"><div align="center">
                             <p><br>
-                                    <IMG height=21 alt="Wallacea Dive Cruise - The team" 
-            src="wallaceaboats/teamtitle.gif" 
+                                    <IMG height=21 alt="Wallacea Dive Cruise - The team"
+            src="wallaceaboats/teamtitle.gif"
             width=150 border=0>                                      </p>
-                            <p align="left">                                        <IMG 
-            style="MARGIN-TOP: 3px; MARGIN-RIGHT: 10px" height=179 
-            alt="indonesien_liveaboard_sporttauchten_tauchfahrten_wallacea_sulawesi" 
-            src="wallaceaboats/jerome.jpg" 
+                            <p align="left">                                        <IMG
+            style="MARGIN-TOP: 3px; MARGIN-RIGHT: 10px" height=179
+            alt="indonesien_liveaboard_sporttauchten_tauchfahrten_wallacea_sulawesi"
+            src="wallaceaboats/jerome.jpg"
             width=145 align=left border=1> <B>Jerome Doucet</B>, der franzoesische Besitzer und Manager ist Meeresbiologe und Tauchlehrer. Jerome lebt seit 1991 in Sulawesi, damals startete und managte er ein Aquakulturprojekt. Jerome spricht als Fremdsprachen noch Englisch und Spanisch.  <BR>
                                         <BR>
                                         <B>Suryani</B>, seine Frau, ist urspr&uuml;nglich aus Luwuk/Sulawesi und unterst&uuml;tzt Jerome in der Verwaltung des Unternehmens und begr&uuml;sst auch gerne unsere G&auml;ste. Sie ist ebenfalls der Direktor der Stiftung "Yayasan Pemerhati Lingkugan", eine nationale geografische Einrichtung zum Schutze des Lebens und der Riffe in dieser Region. <BR>
                                         <BR>
                                         <BR>
-                                        <IMG 
-            style="MARGIN-TOP: 3px; MARGIN-LEFT: 10px" height=114 
-            alt="indonesien_liveaboard_sporttauchten_tauchfahrten_wallacea_sulawesi" 
-            src="wallaceaboats/raphael.jpg" 
+                                        <IMG
+            style="MARGIN-TOP: 3px; MARGIN-LEFT: 10px" height=114
+            alt="indonesien_liveaboard_sporttauchten_tauchfahrten_wallacea_sulawesi"
+            src="wallaceaboats/raphael.jpg"
             width=158 align=right border=1><BR>
                                         <BR>
                                         <BR>
@@ -382,7 +382,7 @@ marginheight="0">
                             </table>
                             <p align="left"><BR>
                               <BR>
-                              Das Tauchboot selbst hat   3 Crews, die mit dem Auff&uuml;llen der Tanks, dem Vorbereiten ihrer Ausr&uuml;stung und dem assistieren f&uuml;r ihre Tauchg&auml;nge besch&auml;ftigt sind. <BR>            
+                              Das Tauchboot selbst hat   3 Crews, die mit dem Auff&uuml;llen der Tanks, dem Vorbereiten ihrer Ausr&uuml;stung und dem assistieren f&uuml;r ihre Tauchg&auml;nge besch&auml;ftigt sind. <BR>
                             </p>
                           </div></td>
                           </tr>
@@ -404,10 +404,10 @@ marginheight="0">
         </TR></TBODY></TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z4.gif" border=0>
           <TBODY>
-            <TR> 
+            <TR>
               <TD height="8"><img src="../images/spacer.gif" width="10" height="8"></TD>
             </TR>
             <TR>

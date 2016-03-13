@@ -110,41 +110,41 @@ A:hover {
 }
 .style88 {font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0" 
+<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0"
 marginheight="0">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="194" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="../images/dotline.gif" 
+              <TD height="194" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="../images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="../images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="../images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
                     <td width="332" height="171" valign="bottom" background="../images/z1.jpg">
-                      <TABLE width="180" height=40 
+                      <TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
                           <TR>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m3.jpg" alt="indonesien_liveaboard_sport_tauchen_tauchfahrten_schiffe" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m3.jpg" alt="indonesien_liveaboard_sport_tauchen_tauchfahrten_schiffe"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m4.jpg" alt="indonesien_liveaboard_sport_tauchen_tauchfahrten_schiffe" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m4.jpg" alt="indonesien_liveaboard_sport_tauchen_tauchfahrten_schiffe"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m2.jpg" alt="indonesien_liveaboard_sport_tauchen_tauchfahrten_schiffe" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m2.jpg" alt="indonesien_liveaboard_sport_tauchen_tauchfahrten_schiffe"
                                 width=67 height=40></TD>
                           </TR>
                           <TR>
@@ -177,16 +177,16 @@ marginheight="0">
         <TBODY>
         <TR>
               <TD width=291 align=middle vAlign=top bgcolor="#4DCEE3"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgsearch.jpg">
-                            
+
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tr> 
+              <tr>
                 <td height="42">&nbsp;</td>
               </tr>
-              <tr> 
+              <tr>
                 <td><?php define( '_VALID_MOS', 1 );  include "../mod/mod_search.php"; ?></td>
               </tr>
             </table></td>
@@ -195,7 +195,7 @@ marginheight="0">
                   </tr>
                   <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgdestination.jpg"><table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
                             <tr>
                               <td height="33" colspan="2">&nbsp;</td>
@@ -336,7 +336,7 @@ marginheight="0">
                 <p align="center">&nbsp;</p>
                 <p align="center">&nbsp;</p>
                 <p align="center">&nbsp;</p>
-                <p align="center">&nbsp;</p>                
+                <p align="center">&nbsp;</p>
                 <p align="center">&nbsp;</p>
                 <p align="center">&nbsp;</p>
                 <p align="center"><img src="moanaboats/deck.jpg" alt="indonesien_liveaboard_sport_tauchen_tauchfahrten_moana" width="146" height="218" border="1"></p>
@@ -393,10 +393,10 @@ marginheight="0">
                 <p align="center"><img src="moanaboats/deck2.jpg" alt="indonesien_liveaboard_sport_tauchen_tauchfahrten_moana" width="250" height="177" border="1"></p>
                 <p align="center">&nbsp;</p>
                 <p align="center">&nbsp;</p>
-                <p align="center">&nbsp;</p>                
+                <p align="center">&nbsp;</p>
               </TD>
-          <TD vAlign=top width=10 
-          background="../images/z6.jpg"><IMG height=4 
+          <TD vAlign=top width=10
+          background="../images/z6.jpg"><IMG height=4
             src="../images/z6.jpg" width=5></TD>
           <TD width="474" vAlign=top><table width="96%"  border="0" align="center" cellpadding="0" cellspacing="0">
             <tr>
@@ -446,7 +446,7 @@ marginheight="0">
                             <p align="left" style="margin-top: 0px; font-weight: bold;"><a href="#++10Days">++ 4 Tage/3 N<strong>&auml;</strong>chte </a>"BALI - LOMBOK - NUSA PENIDA - BALI"<br>
                               Preis US$ 810 / Person&nbsp;- <span class="style39">Trips auf Anfrage organisierbar!! </span></p>
                             <p align="left" style="margin-top: 0px;"><strong><em>100.000m 2 Korallenriffe  und damit rund 25%  des weltweiten Bestandes  liegen in indonesischen Gew&auml;ssern. Die s&uuml;dlichen Philippinen, Bali &amp; West-Neu Guinea bilden ein Dreieck, welches das biologisch reichste Meeresgebiet der Erde und gleichzeitig das am wenigsten erforschte ist. Viele Riffe haben noch nie einen Taucher gesehen. </em></strong></p>
-                            <p align="center"><strong><em>Tauchen Sie ein und lassen Sie sich faszinieren! </em></strong><em></em></p>                            
+                            <p align="center"><strong><em>Tauchen Sie ein und lassen Sie sich faszinieren! </em></strong><em></em></p>
                             <table width="100%"  border="0" cellspacing="0" cellpadding="0">
                               <tr>
                                 <td><p><strong>1 </strong><strong>. Tag: </strong><strong>Boarding </strong><strong>21:00h Serangan/Bali <br>
@@ -559,124 +559,124 @@ Nach einem Erfrischungsdrink setzen wir <strong>Segel </strong> in Richtung Oste
   </tr>
 </table>
 <p><strong>Tourablauf:</strong><br>
-  Die Inseln liegen sehr nahe beieinander und wir planen keine langen Routen zu fahren, sondern das Boot immer fuer einige Tage an den Tauchplaetzen zu belassen um je nach Stroemung, Sonnenstand und Tageszeit die besten Fotoaufnahmen voraussetzen zu koennen. Wir sind nicht unterwegs um Ozeane zu ueberqueren sonderen um 
+  Die Inseln liegen sehr nahe beieinander und wir planen keine langen Routen zu fahren, sondern das Boot immer fuer einige Tage an den Tauchplaetzen zu belassen um je nach Stroemung, Sonnenstand und Tageszeit die besten Fotoaufnahmen voraussetzen zu koennen. Wir sind nicht unterwegs um Ozeane zu ueberqueren sonderen um
   das marine Leben zu beobachten und die bestmoeglichen Fotoaufnahmen zu machen. Die Wassertemperatur liegt bei 28-30C und wir empfehlen 1mm Neoprene oder Polartec-Anzuege.<br>
-                                                  <strong>1. Tag: Ankunft Sorong 
+                                                  <strong>1. Tag: Ankunft Sorong
                                                     Airport</strong><br>
-  Moana&#8217;s crew will meet you 
-  at the airport and you will be 
-  escorted to the ship for immediate 
-  boarding. Cabin allocation and 
-  ship orientation will take place 
-  before departure at 3:00 PM. Take 
-  this opportunity to familiarize 
-  yourselves with the vessel, make 
-  yourself comfortable. Dinner will 
-  be served while sailing towards 
+  Moana&#8217;s crew will meet you
+  at the airport and you will be
+  escorted to the ship for immediate
+  boarding. Cabin allocation and
+  ship orientation will take place
+  before departure at 3:00 PM. Take
+  this opportunity to familiarize
+  yourselves with the vessel, make
+  yourself comfortable. Dinner will
+  be served while sailing towards
   our first destination.<br>
                                                   <strong>2. Tag : Kri Island</strong><br>
-  Kri is a great start for the cruise 
-  with the most fish and coral species 
-  accounted on a single divesite. 
-  Truly pristine reefs, you will 
-  want to dive these sites around 
-  this island again and again. A 
+  Kri is a great start for the cruise
+  with the most fish and coral species
+  accounted on a single divesite.
+  Truly pristine reefs, you will
+  want to dive these sites around
+  this island again and again. A
   night dive will be offered.<br>
-                                                  <strong>3. &amp; 4. Tag: Waigeo 
+                                                  <strong>3. &amp; 4. Tag: Waigeo
                                                     Inselgruppe</strong><br>
-  Welcome to the incredible Waigeo 
-  Island group. You will be in awe 
-  at the beauty of yellow Wall boasting 
-  a very large amount of yellow 
-  soft coral. In the afternoon a 
-  dive on the sheer wall undercut 
-  at the edge from millions of years 
-  of oceanic erosion will truly 
-  amaze. An interesting pearl farm 
-  is nearby (the 5th biggest in 
-  Asia) and can be visited upon 
-  request. The night dive here is 
-  not to be missed! The chances 
-  to see bigger animals including 
+  Welcome to the incredible Waigeo
+  Island group. You will be in awe
+  at the beauty of yellow Wall boasting
+  a very large amount of yellow
+  soft coral. In the afternoon a
+  dive on the sheer wall undercut
+  at the edge from millions of years
+  of oceanic erosion will truly
+  amaze. An interesting pearl farm
+  is nearby (the 5th biggest in
+  Asia) and can be visited upon
+  request. The night dive here is
+  not to be missed! The chances
+  to see bigger animals including
   mantas are high in this area.<br>
                                                   <strong>5. Tag: Kawe Island</strong><br>
-  Draping directly over the equator 
-  lies Kawe Island. Moana will arrive 
-  early morning and anchor right 
-  on the equator. Enjoy breakfast 
-  while watching the stunning scenery. 
-  You will be offered up to five 
-  dives today to take advantage 
+  Draping directly over the equator
+  lies Kawe Island. Moana will arrive
+  early morning and anchor right
+  on the equator. Enjoy breakfast
+  while watching the stunning scenery.
+  You will be offered up to five
+  dives today to take advantage
   of this world-class dive region.<br>
-  You will be treated to an enormous 
-  array of fish life as well as 
+  You will be treated to an enormous
+  array of fish life as well as
   stunning above water scenery.<br>
-                                                  <strong>6. &amp; 7. Tag: Waiag 
+                                                  <strong>6. &amp; 7. Tag: Waiag
                                                     und Southern Islands</strong><br>
-  You will move on to our most northerly 
-  area of Irian Jaya with many unnamed 
-  groups of islets. From mild sloping 
-  coral gardens with huge coral 
-  rocks and colorful soft corals, 
-  to steep walls and schooling fish, 
-  this region is truly spectacular. 
-  Here you can make the famous &#8216;hike&#8221; 
-  to view the breath taking scenery 
-  over the island group here. Fantastic 
-  night dives with rare wobbygong 
-  shark spottings are also on the 
+  You will move on to our most northerly
+  area of Irian Jaya with many unnamed
+  groups of islets. From mild sloping
+  coral gardens with huge coral
+  rocks and colorful soft corals,
+  to steep walls and schooling fish,
+  this region is truly spectacular.
+  Here you can make the famous &#8216;hike&#8221;
+  to view the breath taking scenery
+  over the island group here. Fantastic
+  night dives with rare wobbygong
+  shark spottings are also on the
   agenda.<br>
-                                                  <strong>8. &amp; 9. Tag: Manosuar 
+                                                  <strong>8. &amp; 9. Tag: Manosuar
                                                     Island</strong><br>
-  Arriving early morning in Manosuar, 
-  you can expect to dive the famous 
-  sardine reef as well as 3 other 
-  incredible sites. The fish life 
-  is prolific and the topside scenery 
-  will truly astound. Two full days 
-  diving will be offered in this 
-  amazing region as well as a great 
-  barbeque to satisfy those hungry 
+  Arriving early morning in Manosuar,
+  you can expect to dive the famous
+  sardine reef as well as 3 other
+  incredible sites. The fish life
+  is prolific and the topside scenery
+  will truly astound. Two full days
+  diving will be offered in this
+  amazing region as well as a great
+  barbeque to satisfy those hungry
   divers.<br>
                                                   <strong>10. Day: Batanta Island </strong><br>
-  To start your day, you will take 
-  a two hour morning hike in search 
-  of the Red Bird of Paradise. A 
-  true jungle trek, you will hear 
-  giant hornbills, cockatoos flying 
-  by and perhaps if lucky, the mesmerizing 
-  song of the bird of Paradise. 
-  Today&#8217;s diving day can host 
-  anything form wobbygong sharks 
+  To start your day, you will take
+  a two hour morning hike in search
+  of the Red Bird of Paradise. A
+  true jungle trek, you will hear
+  giant hornbills, cockatoos flying
+  by and perhaps if lucky, the mesmerizing
+  song of the bird of Paradise.
+  Today&#8217;s diving day can host
+  anything form wobbygong sharks
   to pigmy seahorses.<br>
                                                   <strong>11. Tag: Wai Island</strong><br>
-  After a light breakfast, a beautiful 
-  dive will be offered at the American 
-  plane wreck that crashed in these 
-  waters in the 1940&#8217;s. The 
-  wreck is upside down and between 
-  24 &#8211; 34 m (90-115&#8217;) 
-  deep. The wreck is fairly intact 
-  with excellent coral covering 
-  it especially on the lower side 
-  of the tail section. The guns 
-  are also visible on this truly 
-  great dive. The rest of the day 
-  will be spent around the incredible 
-  sites of Wai Island. If desired, 
-  you may take a short trip on shore 
-  to see the resident cassowary 
+  After a light breakfast, a beautiful
+  dive will be offered at the American
+  plane wreck that crashed in these
+  waters in the 1940&#8217;s. The
+  wreck is upside down and between
+  24 &#8211; 34 m (90-115&#8217;)
+  deep. The wreck is fairly intact
+  with excellent coral covering
+  it especially on the lower side
+  of the tail section. The guns
+  are also visible on this truly
+  great dive. The rest of the day
+  will be spent around the incredible
+  sites of Wai Island. If desired,
+  you may take a short trip on shore
+  to see the resident cassowary
   bird.<br>
                                                   <strong>12. Tag: Ankunft in Sorong</strong><br>
   Unser Boot erreicht Sorong um 6:00 Uhr morgens. Wir servieren ihnen Fruehstueck bevor sie von Bord gehen und transportieren sie anschliessend zum Flughafen.<br>
   -----------------<br>
   <strong>Wie sie dorthin kommen:</strong><br>
-  Es gibt internationale Fl&uuml;ge nach Bali, Manado und Ujung Pandang 
-  in Indonesien &uuml;ber 
+  Es gibt internationale Fl&uuml;ge nach Bali, Manado und Ujung Pandang
+  in Indonesien &uuml;ber
   Singapore, Hong Kong, Bangkok und andere L&auml;nder. Es kann je nach Flugplan vorkommen, das sie evtl. eine Nacht Aufenthalt haben. <br>
-  Der 2 Stunden Flug von Manado 
+  Der 2 Stunden Flug von Manado
   oder Ujung Pandang nach Sorong ist auch mit Uebergep&auml;ck zu einem angemessenen Preis kein Problem.<br>
-  Wir empfangen sie am Flughafen Sorong und begleiten sie direkt zur KLM Moana. In Manado/Ujung 
+  Wir empfangen sie am Flughafen Sorong und begleiten sie direkt zur KLM Moana. In Manado/Ujung
   Pandang empfangen wir sie ebenfalls am Airport, und bringen sie in ihr Hotel und zur&uuml;ck. W&auml;hrend ihrer Uebernachtung werden ihre n&ouml;tigen Papiere f&uuml;r Papua vorbereitet. Bitte beachten sie das Hotelunterkunft und Flugtikets nicht im Preis enthalten sind. <br>
   Wir sind zwar kein Reiseb&uuml;ro, aber wir unterst&uuml;tzen sie trotzdem gerne kostenlos bei der Organisation ihrer Reiseunternehmungen in Indonesien. <br>
   Sollten sie sich f&uuml;r eine solche Tour entscheiden, ist es unbedingt erforderlich, das wir vorher miteinander telefonisch kommunizieren, um die speziellen Details einer solchen Reise zusammen zu besprechen. Bitte rufen sie uns  an, oder bitten sie per email um einen Anruf von uns. </p></td>
@@ -709,10 +709,10 @@ Nach einem Erfrischungsdrink setzen wir <strong>Segel </strong> in Richtung Oste
         </TR></TBODY></TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z4.gif" border=0>
           <TBODY>
-            <TR> 
+            <TR>
               <TD height="8"><img src="../images/spacer.gif" width="10" height="8"></TD>
             </TR>
             <TR>

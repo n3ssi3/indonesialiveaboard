@@ -102,41 +102,41 @@ A:hover {
 }
 .style86 {font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0" 
+<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0"
 marginheight="0">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="194" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="../images/dotline.gif" 
+              <TD height="194" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="../images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="../images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="../images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
                     <td width="332" height="171" valign="bottom" background="../images/z1.jpg">
-                      <TABLE width="180" height=40 
+                      <TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
                           <TR>
-                            <TD bgcolor="#ffffff"><IMG height=40 
-                                src="../images/m3.jpg" 
+                            <TD bgcolor="#ffffff"><IMG height=40
+                                src="../images/m3.jpg"
                                 width=67></TD>
-                            <TD bgcolor="#ffffff"><IMG height=40 
-                                src="../images/m4.jpg" 
+                            <TD bgcolor="#ffffff"><IMG height=40
+                                src="../images/m4.jpg"
                                 width=67></TD>
-                            <TD bgcolor="#ffffff"><IMG height=40 
-                                src="../images/m2.jpg" 
+                            <TD bgcolor="#ffffff"><IMG height=40
+                                src="../images/m2.jpg"
                                 width=67></TD>
                           </TR>
                           <TR>
@@ -151,7 +151,7 @@ marginheight="0">
                           <td><img src="../images/spacer.gif" width="10" height="45"></td>
                         </tr>
                         <tr>
-                          <td height="22" valign="top">&nbsp;&nbsp;<span class="style10"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href="../index.php">Home</a> 
+                          <td height="22" valign="top">&nbsp;&nbsp;<span class="style10"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href="../index.php">Home</a>
                             | <a href="contactus.php">Kontaktadresse</a></font></span></td>
                         </tr>
                         <tr>
@@ -170,16 +170,16 @@ marginheight="0">
         <TBODY>
         <TR>
               <TD width=291 align=middle vAlign=top bgcolor="#4DCEE3"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgsearch.jpg">
-                            
+
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tr> 
+              <tr>
                 <td height="42">&nbsp;</td>
               </tr>
-              <tr> 
+              <tr>
                 <td><?php define( '_VALID_MOS', 1 );  include "../mod/mod_search.php"; ?></td>
               </tr>
             </table></td>
@@ -311,8 +311,8 @@ marginheight="0">
                 <img src="ombak/pic167-96.jpg" alt="" width="169" height="169" border="1">                </p>
                 <p align="center">&nbsp;</p>
               <p align="center"><img src="ombak/pic167-98.jpg" alt="indonesien_liveaboard_tauchfahrten_ombak_putih" width="167" height="167" border="1"></p></TD>
-          <TD vAlign=top width=10 
-          background="../images/z6.jpg"><IMG height=4 
+          <TD vAlign=top width=10
+          background="../images/z6.jpg"><IMG height=4
             src="../images/z6.jpg" width=5></TD>
           <TD width="474" vAlign=top><table width="96%"  border="0" align="center" cellpadding="0" cellspacing="0">
             <tr>
@@ -326,7 +326,7 @@ marginheight="0">
                 <tr>
                   <td bgcolor="#2E3C9D"><table width="100%"  border="0" cellpadding="1" cellspacing="1">
                     <tr>
-                                <td height="18" bgcolor="#006699"><span class="style1">&nbsp;&nbsp;<strong> 
+                                <td height="18" bgcolor="#006699"><span class="style1">&nbsp;&nbsp;<strong>
                                   Ombak Biru - Boot Spezifikationen</strong></span></td>
                     </tr>
                     <tr>
@@ -336,24 +336,24 @@ marginheight="0">
                           <td width="49%"> <table width="182" border="0" align="center" cellpadding="0" cellspacing="0">
                             <tr>
                               <td bgcolor="#006699"><table width="100%"  border="0" cellpadding="1" cellspacing="1">
-                                                <tr> 
-                                                  <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_index.php">Die 
+                                                <tr>
+                                                  <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_index.php">Die
                                                     Ombak Biru </a></strong></td>
                                                 </tr>
-                                                <tr> 
-                                                  <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_boatdetails.php">Ombak 
-                                                    Biru </a><a href="ombak_boatdetails.php"> 
+                                                <tr>
+                                                  <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_boatdetails.php">Ombak
+                                                    Biru </a><a href="ombak_boatdetails.php">
                                                     Boot Details </a></strong></td>
                                                 </tr>
-                                                <tr> 
+                                                <tr>
                                                   <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_itinerary.php">Tauchfahrtablauf</a><a href="felicia_divedestinations.php"></a></strong></td>
                                                 </tr>
-                                                <tr> 
-                                                  <td height="18" bgcolor="#D9F2FF">&nbsp;<strong><a href="ombak_divedestinations.php"> 
+                                                <tr>
+                                                  <td height="18" bgcolor="#D9F2FF">&nbsp;<strong><a href="ombak_divedestinations.php">
                                                     Tauch &amp; Cruise Gebiete</a></strong></td>
                                                 </tr>
-                                                <tr> 
-                                                  <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_schedule&rates.php">Termine 
+                                                <tr>
+                                                  <td height="18" bgcolor="#D9F2FF">&nbsp;&nbsp;<strong><a href="ombak_schedule&rates.php">Termine
                                                     &amp; Preise</a><a href="felicia_divedestinations.php"></a></strong></td>
                                                 </tr>
                                               </table></td>
@@ -362,18 +362,18 @@ marginheight="0">
                         </tr>
                         <tr>
                           <td colspan="2"><p align="center" class="style3 style6 style9"><br>
-                                          <strong><font color="#000099" size="3" face="Verdana, Arial, Helvetica, sans-serif">Boot 
+                                          <strong><font color="#000099" size="3" face="Verdana, Arial, Helvetica, sans-serif">Boot
                                           Spezifikationen</font></strong></p>
-                                        <p><strong> </strong>Die Ombak Putih wurde 
-                                          2001 als traditioneller Bugis Schoner 
-                                          mit allen modernen Annehmlichkeiten 
-                                          gebaut, um ein sicheres und komfortables 
+                                        <p><strong> </strong>Die Ombak Putih wurde
+                                          2001 als traditioneller Bugis Schoner
+                                          mit allen modernen Annehmlichkeiten
+                                          gebaut, um ein sicheres und komfortables
                                           Liveaboard Kreuzfahrtschiff zu erhalten.<BR>
                                           <BR>
-                                          Es summieren sich eine Menge wichtiger 
-                                          Faktoren um ein wirklich erfolgreiches 
-                                          Tauch-Kreuzfahrtschiff zu konstruieren 
-                                          und bei unserer Ombak Biru ist uns das 
+                                          Es summieren sich eine Menge wichtiger
+                                          Faktoren um ein wirklich erfolgreiches
+                                          Tauch-Kreuzfahrtschiff zu konstruieren
+                                          und bei unserer Ombak Biru ist uns das
                                           exzellent gelungen.<BR>
                                         </p>
                             </td>
@@ -389,43 +389,43 @@ marginheight="0">
                           </blockquote></td>
                         </tr>
                         <tr>
-                          <td height="240" colspan="2"><p class="style8"><strong>Hafenregistrierung: 
+                          <td height="240" colspan="2"><p class="style8"><strong>Hafenregistrierung:
                                           </strong>Benoa, Bali<BR>
-                                          <strong>Gebaut:</strong> Sued Sulawesi, 
+                                          <strong>Gebaut:</strong> Sued Sulawesi,
                                           Indonesien 2000/2001<BR>
-                                          <strong>Type:</strong> Holz-Schoner, 
+                                          <strong>Type:</strong> Holz-Schoner,
                                           350 Tonnen<strong></strong><BR>
-                                          <strong>L&auml;nge:</strong> 98 feet 
+                                          <strong>L&auml;nge:</strong> 98 feet
                                           LOD, 125 feet LOA<BR>
-                                          <strong>Breite:</strong> 30 feet Draft: 
+                                          <strong>Breite:</strong> 30 feet Draft:
                                           7.7 feet<BR>
                                           <strong>Gaesteanzahl:</strong> 14<BR>
-                                          <strong>Unterk&uuml;nfte/Kabinen:</strong> 
+                                          <strong>Unterk&uuml;nfte/Kabinen:</strong>
                                           8 Doppelbettkabinen<BR>
-                                          <strong>Bootscrew:</strong> 14<strong> 
+                                          <strong>Bootscrew:</strong> 14<strong>
                                           </strong>Mann <strong><BR>
-                                          Antrieb: </strong>1 Mitsubishi/Hyundai 
+                                          Antrieb: </strong>1 Mitsubishi/Hyundai
                                           450 Hp<BR>
-                                          <strong>Geschwindikeit: </strong>8 - 
+                                          <strong>Geschwindikeit: </strong>8 -
                                           10 Knoten<BR>
                                           <strong>Reichweite: </strong>1,100 Seemeilen<BR>
-                                          <strong>Navigation:</strong> VHF, SSB, 
+                                          <strong>Navigation:</strong> VHF, SSB,
                                           Furuno 36 mile radar, 2 GPS<BR>
-                                          <strong>Kommunikation: </strong>SatPhone, 
+                                          <strong>Kommunikation: </strong>SatPhone,
                                           USB und VHF Radio <BR>
-                                          <strong>Elektrik:</strong> 1 Mitsubishi 
-                                          63 KVA, 1 Mitsubishi 50 KVA<strong> 
+                                          <strong>Elektrik:</strong> 1 Mitsubishi
+                                          63 KVA, 1 Mitsubishi 50 KVA<strong>
                                           Voltage:</strong> 220V</p>
-                                        <p class="style8">Mit 30 Metern Laenge und 9 Metern 
-                                          Breite hat die Ombak Putih drei Decks. 
-                                          Das Unterdeck beherbergt die Haupanzahl 
-                                          der Kabinen im vorderen Teil des Schiffes. 
-                                          Gegen&uuml;ber anderen Schiffsunterk&uuml;nften 
-                                          haben unsere Kabinen reichlich Platz 
-                                          um ihr Gep&auml;ck zu verstauen und 
-                                          trotzdem noch gen&uuml;gend Bewegungsfreiheit 
-                                          zu haben. Alle Kabinen sind klimatisiert 
-                                          und haben angeschlossene Badezimmer. 
+                                        <p class="style8">Mit 30 Metern Laenge und 9 Metern
+                                          Breite hat die Ombak Putih drei Decks.
+                                          Das Unterdeck beherbergt die Haupanzahl
+                                          der Kabinen im vorderen Teil des Schiffes.
+                                          Gegen&uuml;ber anderen Schiffsunterk&uuml;nften
+                                          haben unsere Kabinen reichlich Platz
+                                          um ihr Gep&auml;ck zu verstauen und
+                                          trotzdem noch gen&uuml;gend Bewegungsfreiheit
+                                          zu haben. Alle Kabinen sind klimatisiert
+                                          und haben angeschlossene Badezimmer.
                                         </p>
                             <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
                               <TBODY>
@@ -434,15 +434,15 @@ marginheight="0">
                                 </TR>
                               </TBODY>
                             </TABLE>
-                                        <p class="style8">Auf dem Hauptdeck finden haupts&auml;chlich 
-                                          die tauchrelevanten Aktivit&auml;ten 
-                                          statt. Auch das Tenderboot-Deck, unsere 
-                                          Lounge und die Galerie sind dort untergebracht. 
+                                        <p class="style8">Auf dem Hauptdeck finden haupts&auml;chlich
+                                          die tauchrelevanten Aktivit&auml;ten
+                                          statt. Auch das Tenderboot-Deck, unsere
+                                          Lounge und die Galerie sind dort untergebracht.
                                           <br>
-                                          Auf dem Oberdeck befindet sich das Steuerhaus, 
+                                          Auf dem Oberdeck befindet sich das Steuerhaus,
                                           die Kapitaenskaj&uuml;te und <br>
                                           2 Sonnendecks. <br>
-                                        </p> 
+                                        </p>
                                       </td>
                         </tr>
                       </table></td>
@@ -468,10 +468,10 @@ marginheight="0">
         </TBODY></TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z4.gif" border=0>
           <TBODY>
-            <TR> 
+            <TR>
               <TD height="8"><img src="../images/spacer.gif" width="10" height="8"></TD>
             </TR>
             <TR>

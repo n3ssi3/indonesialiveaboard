@@ -110,44 +110,44 @@ A:hover {
 }
 .style86 {font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0" 
+<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0"
 marginheight="0">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="194" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="../images/dotline.gif" 
+              <TD height="194" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="../images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="../images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="../images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td width="332" height="171" valign="bottom" background="../images/z1.jpg">
-<TABLE width="180" height=40 
+<TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
-                          <TR> 
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m3.jpg" alt="indonesien_liveaboard_sport_tauchen_schiffe" 
+                          <TR>
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m3.jpg" alt="indonesien_liveaboard_sport_tauchen_schiffe"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m4.jpg" alt="indonesien_liveaboard_sport_tauchen_schiffe" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m4.jpg" alt="indonesien_liveaboard_sport_tauchen_schiffe"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m2.jpg" alt="indonesien_liveaboard_sport_tauchen_schiffe" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m2.jpg" alt="indonesien_liveaboard_sport_tauchen_schiffe"
                                 width=67 height=40></TD>
                           </TR>
-                          <TR> 
+                          <TR>
                             <TD colspan="3"><img src="../images/spacer.gif" width="10" height="67"></TD>
                           </TR>
                         </TBODY>
@@ -158,15 +158,15 @@ marginheight="0">
                         <tr>
                           <td><img src="../images/spacer.gif" width="10" height="45"></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td height="22" valign="top">&nbsp;&nbsp;<span class="style9">&nbsp;<font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href="../index.php">Hauptseite</a> | <a href="contactus.php">Kontaktadressen</a></font> </span></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td><img src="../images/m1.jpg" alt="indonesien_liveaboard_sport_tauchen_schiffe" width="325" height="104"></td>
                         </tr>
                       </table></td>
                   </tr>
-                  <tr> 
+                  <tr>
                     <td colspan="3" bgcolor="#006699"> <div align="right"><strong><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></strong></div></td>
                   </tr>
                 </table></TD></TR></TBODY></TABLE></TD></TR>
@@ -176,16 +176,16 @@ marginheight="0">
         <TBODY>
         <TR>
               <TD width=291 align=middle vAlign=top bgcolor="#51CADD"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgsearch.jpg">
-                            
+
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tr> 
+              <tr>
                 <td height="42">&nbsp;</td>
               </tr>
-              <tr> 
+              <tr>
                 <td><?php define( '_VALID_MOS', 1 );  include "../mod/mod_search.php"; ?></td>
               </tr>
             </table></td>
@@ -194,7 +194,7 @@ marginheight="0">
                   </tr>
                   <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgdestination.jpg"><table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
                             <tr>
                               <td height="33" colspan="2">&nbsp;</td>
@@ -334,8 +334,8 @@ moderner Tauchbasis &amp; Schiffwrack</a>
                   <p><img src="kararu/cinema-room-&-wine-cellar.jpg" alt="indonesien_liveaboard_sport_tauchen_cheng_ho" width="220" height="146"><br>
                   <strong>B&uuml;uecherei </strong></p>
                 </div></TD>
-          <TD vAlign=top width=10 
-          background="../images/z6.jpg"><IMG height=4 
+          <TD vAlign=top width=10
+          background="../images/z6.jpg"><IMG height=4
             src="../images/z6.jpg" width=5></TD>
           <TD width="474" vAlign=top><table width="96%"  border="0" align="center" cellpadding="0" cellspacing="0">
             <tr>
@@ -373,104 +373,104 @@ moderner Tauchbasis &amp; Schiffwrack</a>
                         <tr>
                                       <td colspan="2"> <br>
                                         <div align="center">
-                                          <p align="center"><span class="style15">Die                                            &quot;Cheng Ho&quot; 
+                                          <p align="center"><span class="style15">Die                                            &quot;Cheng Ho&quot;
                                             </span></p>
-                                          <p align="left">Die Cheng Ho ist unser 
+                                          <p align="left">Die Cheng Ho ist unser
                                             neuestes und bisher gr&ouml;sstes Boot. Mit einer L&auml;nge von <br>
-                                            49 Metern, einer Breite von 11 
-                                            Metern, 3 Decks und 22 Kabinen 
+                                            49 Metern, einer Breite von 11
+                                            Metern, 3 Decks und 22 Kabinen
                                             bietet dieses Liveaboard enormen Komfort
                                             und  gen&uuml;gend Raum um sich nach den Tauchg&auml;ngen auf dem Schiff zu verlieren.<br>
-                                            Die Cheng Ho wurde nach dem ber&uuml;hmten chinesischen Seefahrer, Erkunder, Diplomat 
-                                            und Flottenadmiral benannt, der eine wichtige Rolle in Asiens mariner Historie gespielt hat. Jahre bevor Christopher Columbus 
+                                            Die Cheng Ho wurde nach dem ber&uuml;hmten chinesischen Seefahrer, Erkunder, Diplomat
+                                            und Flottenadmiral benannt, der eine wichtige Rolle in Asiens mariner Historie gespielt hat. Jahre bevor Christopher Columbus
                                             die Ozeane befahren hat,<br>
                                           um einen Weg nach Asien zu finden, hat Cheng Ho schon den indischen Ozean <br>
                                           und den westlichen Pazifik erkundet.</p>
                                           <p align="left"><strong>Ausstattung &amp;Services</strong><br>
-                                            Konstruiert mit 3 Decks bietet die Cheng 
+                                            Konstruiert mit 3 Decks bietet die Cheng
                                             Ho viel Platz f&uuml;r  komfortable und luxuri&ouml;se Liveaboard Safaris - egal ob sie den klimatisierten Komfort unseres Salons geniessen oder  unter den Schatten der grossen Segel auf Deck entspannen, sie werden sich rundum wohl f&uuml;hlen auf der Cheng Ho. <br>
                                           Zweimal t&auml;glich werden die Kabinen gereinigt und selbst Nachts steht ihnen unser Service zur Verf&uuml;gung. Durch eine hohe Anzahl an Crew Mitgliedern k&ouml;nnen sie <br>
                                           rund um die Uhr excellenten Service erwarten. An Bord wird: Deutsch, Franz&ouml;sisch, Spanisch, Italienisch, Indonesisch und Englisch gesprochen. </p>
                                           <p align="left"><strong>Boots-Spezifikationen</strong><br>
-                                            Die Cheng Ho ist ein modifizierter Pinisi 
-                                            (Bugis) Schoner gebaut 2002. 
+                                            Die Cheng Ho ist ein modifizierter Pinisi
+                                            (Bugis) Schoner gebaut 2002.
                                             Perfekt an seine Umwelt angepasst, z&auml;hlen diese Boote immer noch zu den beeindruckensten Holz-Segelschiffe auf diesem Planeten. <br>
-                                            Das Boot wurde Anfang 2007 im Trockendock komplett &uuml;berholt 
+                                            Das Boot wurde Anfang 2007 im Trockendock komplett &uuml;berholt
                                             und j&auml;hrlich finden mehrmals regul&auml;re Service statt, um sicher zu sein, das sich das Boot permanent <br>
                                             in Top-Zustand befindet. <br>
                                           </p>
-                                          <div align="center"> 
+                                          <div align="center">
                                             <table width="98%"  border="0" cellspacing="2" cellpadding="2">
-                                              <tr> 
+                                              <tr>
                                                 <td>Konstruktion</td>
-                                                <td>Traditional Phinisi Schooner 
+                                                <td>Traditional Phinisi Schooner
                                                   / Ulin Wood</td>
                                               </tr>
-                                              <tr> 
+                                              <tr>
                                                 <td>L&auml;nge</td>
                                                 <td>49 meter/160 feet</td>
                                               </tr>
-                                              <tr> 
+                                              <tr>
                                                 <td>Breite</td>
                                                 <td>11 meter/36 feet</td>
                                               </tr>
-                                              <tr> 
+                                              <tr>
                                                 <td>Tiefgang</td>
                                                 <td>3.5 metre/11.5 feet</td>
                                               </tr>
-                                              <tr> 
+                                              <tr>
                                                 <td>Geschwindigkeit</td>
                                                 <td>8 - 10 knoten</td>
                                               </tr>
-                                              <tr> 
+                                              <tr>
                                                 <td>Tonnage</td>
                                                 <td>253 GT</td>
                                               </tr>
-                                              <tr> 
+                                              <tr>
                                                 <td>Hauptmaschine</td>
-                                                <td>2 x Volvo TMD 100 - Ax 250 
+                                                <td>2 x Volvo TMD 100 - Ax 250
                                                   bhp </td>
                                               </tr>
-                                              <tr> 
+                                              <tr>
                                                 <td>Wasser Kapazit&auml;t </td>
                                                 <td>50 Tonnen</td>
                                               </tr>
-                                              <tr> 
+                                              <tr>
                                                 <td>Treibstoff Kapazit&auml;t </td>
                                                 <td>40 Tonnen</td>
                                               </tr>
-                                              <tr> 
+                                              <tr>
                                                 <td>Maschine</td>
                                                 <td>1 x 447 hp Yanmar Diesel</td>
                                               </tr>
-                                              <tr> 
+                                              <tr>
                                                 <td>Generator</td>
-                                                <td>1 x 25, 1 x 40 kw, 2 x 60 
+                                                <td>1 x 25, 1 x 40 kw, 2 x 60
                                                   kw </td>
                                               </tr>
-                                              <tr> 
+                                              <tr>
                                                 <td>Sicherheit</td>
                                                 <td>1 x 406 mhz EPIRB<br>
                                                   2 x Echo Sounder<br>
                                                   1 x Sonar <br>
                                                   5 x aufblasbare Rettungsboote</td>
                                               </tr>
-                                              <tr> 
+                                              <tr>
                                                 <td>Wasser Destillation</td>
                                                 <td>10 Tonnen am Tag </td>
                                               </tr>
                                             </table>
-                                            <p align="center">Kararu Dive Voyages 
+                                            <p align="center">Kararu Dive Voyages
                                               beh&auml;lt sich das Recht vor, das Boot durch ein anderes Schiff mit gleichem Ausstattungsstandard zu ersetzen, falls es die operativen Umst&auml;nde erfordern.                                               </p>
                                             <p align="center"><img src="kararu/Sea-Safari_deck_plan.jpg" alt="indonesien_liveaboard_sport_tauchen_cheng_ho" width="470" height="289"></p>
                                             <p align="left"><strong><em>Tauchausr&uuml;stungen</em></strong><br>
-                                              &#8226; Luft-Kompressor: 3 x Lenhardt 
+                                              &#8226; Luft-Kompressor: 3 x Lenhardt
                                               &amp; Wagner E 450 <br>
-                                              &#8226; 1 x Atlas Copco Nitrox blending 
+                                              &#8226; 1 x Atlas Copco Nitrox blending
                                               unit <br>
-                                              &#8226; 2 x Fiberglas Beiboot 
+                                              &#8226; 2 x Fiberglas Beiboot
                                               - 10 Personen - 2 x 40 Hp <br>
-                                              &#8226; 1 x Viking Beiboot - 
+                                              &#8226; 1 x Viking Beiboot -
                                               6 Personen - 1 x 60 hp <br>
                                               &#8226; 6-Zylinder air-bank system<br>
                                               <br>
@@ -484,23 +484,23 @@ moderner Tauchbasis &amp; Schiffwrack</a>
                                               &#8226; C02 &amp; Pulver-Feuerl&ouml;scher <br>
                                               <br>
                                               <em><strong>Navigation &amp; Kommunikation </strong></em><br>
-                                              &#8226; 1 x Faruno Chart Plotter 
+                                              &#8226; 1 x Faruno Chart Plotter
                                               mit GPS <br>
                                               &#8226; 1 x Magellan GPS <br>
                                               &#8226; 1 x Koden Radar <br>
                                               &#8226; 1 x Koden Echo Sounder <br>
-                                              &#8226; 1 x VHF + 1 x SSB Radio 
+                                              &#8226; 1 x VHF + 1 x SSB Radio
                                               <br>
                                               &#8226; 1 x Satelliten=-Telefon <br>
                                               <br>
                                               <strong><em>Unterk&uuml;nfte</em></strong><br>
-                                              &#8226; 3 x Top deck double stateroom 
+                                              &#8226; 3 x Top deck double stateroom
                                               cabins <br>
-                                              &#8226; 2 x Oberdeck Einzelkabine 
+                                              &#8226; 2 x Oberdeck Einzelkabine
                                               <br>
-                                              &#8226; 2 x Oberdeck 2 x Einzelbett-Kabinen  
+                                              &#8226; 2 x Oberdeck 2 x Einzelbett-Kabinen
                                               <br>
-                                              &#8226; 2 x Unterdeck Einzelkabine 
+                                              &#8226; 2 x Unterdeck Einzelkabine
                                               <br>
                                               &#8226; 2 x Unterdeck 2 x Einzelbett-Kabinen <br>
                                               &#8226; 2 x Unterdeck Doppelkabine                                            </p>
@@ -511,7 +511,7 @@ moderner Tauchbasis &amp; Schiffwrack</a>
                           </tr>
                         <tr>
                           <td colspan="2"><blockquote>
-                                          <div align="center"><span class="style12"><a href="#">- 
+                                          <div align="center"><span class="style12"><a href="#">-
                                             Back to Top</a></span> <br>
                               </div>
                             </blockquote></td>
@@ -536,10 +536,10 @@ Resort,exklusives Liveaboard in Indonesien</span>x gratis</span></td>
         </TR></TBODY></TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z4.gif" border=0>
           <TBODY>
-            <TR> 
+            <TR>
               <TD height="8"><img src="../images/spacer.gif" width="10" height="8"></TD>
             </TR>
             <TR>

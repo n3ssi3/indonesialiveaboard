@@ -110,44 +110,44 @@ A:hover {
 }
 .style88 {font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0" 
+<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0"
 marginheight="0">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=194 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="194" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="../images/dotline.gif" 
+              <TD height="194" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="../images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="../images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="../images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td width="332" height="171" valign="bottom" background="../images/z1.jpg">
-<TABLE width="180" height=40 
+<TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
-                          <TR> 
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m3.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten" 
+                          <TR>
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m3.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m4.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m4.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m2.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m2.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten"
                                 width=67 height=40></TD>
                           </TR>
-                          <TR> 
+                          <TR>
                             <TD colspan="3"><img src="../images/spacer.gif" width="10" height="67"></TD>
                           </TR>
                         </TBODY>
@@ -158,15 +158,15 @@ marginheight="0">
                         <tr>
                           <td><img src="../images/spacer.gif" width="10" height="45"></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td height="22" valign="top">&nbsp;&nbsp;<font color="#FFFFFF" size="1" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;<span class="style9"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href="contactus.php"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"></a></font></font><span class="style9"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href="../index.php">Hauptseite</a> | <a href="contactus.php">Kontaktadressen</a></font></font></span></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td><img src="../images/m1.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten" width="325" height="104"></td>
                         </tr>
                       </table></td>
                   </tr>
-                  <tr> 
+                  <tr>
                     <td background="../images/l1.jpg" bgcolor="#FFFFFF">&nbsp;</td>
                     <td height="20" colspan="2" bgcolor="#006699"> <div align="right"><strong><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></strong></div></td>
                   </tr>
@@ -177,16 +177,16 @@ marginheight="0">
         <TBODY>
         <TR>
               <TD width=291 align=middle vAlign=top bgcolor="#4DCEE3"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgsearch.jpg">
-                            
+
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tr> 
+              <tr>
                 <td height="42">&nbsp;</td>
               </tr>
-              <tr> 
+              <tr>
                 <td><?php define( '_VALID_MOS', 1 );  include "../mod/mod_search.php"; ?></td>
               </tr>
             </table></td>
@@ -195,7 +195,7 @@ marginheight="0">
                   </tr>
                   <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgdestination.jpg"><table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
                             <tr>
                               <td height="33" colspan="2">&nbsp;</td>
@@ -324,7 +324,7 @@ moderner Tauchbasis &amp; Schiffwrack</a>
               <p align="center">&nbsp;</p>
               <p align="center">&nbsp;</p>
               <p align="center">&nbsp;</p>
-              <p align="center">&nbsp;</p>              <p align="center"><img src="wallaceaboats/togian2.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten_wallacea_sulawesi" width="250" height="180" border="1"></p>              
+              <p align="center">&nbsp;</p>              <p align="center"><img src="wallaceaboats/togian2.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten_wallacea_sulawesi" width="250" height="180" border="1"></p>
               <p>&nbsp;</p>
               <p>&nbsp;</p>
               <p>&nbsp;</p>
@@ -332,15 +332,15 @@ moderner Tauchbasis &amp; Schiffwrack</a>
               <p>&nbsp;</p>
               <p>&nbsp;</p>
               <p>&nbsp;</p>
-              <p align="center"><img src="wallaceaboats/togian1.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten_wallacea_sulawesi" width="250" height="180" border="1"></p>              
+              <p align="center"><img src="wallaceaboats/togian1.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten_wallacea_sulawesi" width="250" height="180" border="1"></p>
               <p>&nbsp;</p>
               <p>&nbsp;</p>
               <p align="center">&nbsp;</p>
               <p align="center">&nbsp;</p>
               <p align="center">&nbsp;</p>
               <p align="center">&nbsp;                   </p></TD>
-          <TD vAlign=top width=10 
-          background="../images/z6.jpg"><IMG height=4 
+          <TD vAlign=top width=10
+          background="../images/z6.jpg"><IMG height=4
             src="../images/z6.jpg" width=5></TD>
           <TD width="474" vAlign=top><table width="96%"  border="0" align="center" cellpadding="0" cellspacing="0">
             <tr>
@@ -396,7 +396,7 @@ moderner Tauchbasis &amp; Schiffwrack</a>
                                 <br>
                                 Auf unserer Tauchfahrt werden wir ebenfalls ein Flugzeugwrack B24 aus dem 2ten Weltkrieg besuchen, das in 18 Meter Tiefe liegt. <BR>
                                   <BR>
-                                  Unsere 12t<span class="style11">&auml;</span>gige Tauchfahrt &quot;EXT TOG&quot; deckt sich mit unserer 8t<span class="style11">&auml;</span>gigen Tauchfahrt und endet in Luwuk, wo wir dann 4 weitere Tauchtage bei einer <span class="style11">&ouml;</span>stlich gelegenen Halbinsel verbringen, die wir neu erkundet haben. <BR>            
+                                  Unsere 12t<span class="style11">&auml;</span>gige Tauchfahrt &quot;EXT TOG&quot; deckt sich mit unserer 8t<span class="style11">&auml;</span>gigen Tauchfahrt und endet in Luwuk, wo wir dann 4 weitere Tauchtage bei einer <span class="style11">&ouml;</span>stlich gelegenen Halbinsel verbringen, die wir neu erkundet haben. <BR>
                     <BR>
                     <B>Einige Beispiele von Tauchpl<span class="style11">&auml;</span>tzen die wir w<span class="style11">&auml;</span>hrend unser Togian Tauchfahrt besuchen: </B><BR>
                     Die meisten dieser Tauchpl<span class="style11">&auml;</span>tze sind Unterwassersteilw<span class="style11">&auml;</span>nde und H<span class="style11">&auml;</span>nge, die in verschiedenen Tiefen betaucht werden k<span class="style11">&ouml;</span>nnen - je nach Wunsch und Ausbildung des Tauchers. </p>
@@ -433,7 +433,7 @@ moderner Tauchbasis &amp; Schiffwrack</a>
                 ca. 27 Metern - diese Bergspitze wird von zahllosen Fischarten bev<span class="style11">&ouml;</span>lkert. Graue und wei<span class="style11">&szlig;</span>e Riffhaie, Thunfische, ect plus wundersch<span class="style11">&ouml;</span>n gewachsenen Weichkorallen, begeistern jeden Taucher. <br>
                 <br>
                   <B>B24 Liberator, Sued Togian, Tiefe 60 Fu<span class="style11">&szlig;</span></B><BR>
-                  DasWrack ist ein amerikanischer B24 Liberator Bomber aus dem 2ten Weltkrieg. Das Wrack liegt in ca. 18 Meter Tiefe und ist in relativ gutem Zustand. Der Bomber war damals zur<span class="style11">&uuml;</span>ck auf dem Weg zu seiner Marinebasis  Morotai 
+                  DasWrack ist ein amerikanischer B24 Liberator Bomber aus dem 2ten Weltkrieg. Das Wrack liegt in ca. 18 Meter Tiefe und ist in relativ gutem Zustand. Der Bomber war damals zur<span class="style11">&uuml;</span>ck auf dem Weg zu seiner Marinebasis  Morotai
                   Island (Nord Molukken), als ein Motor in Brand geriet. Der Pilot brachte eine Notlandung auf dem Wasser Zustande und die gesamte Bordcrew wurde lebend von den Einheimischen gerettet. </p>
               <p align="center"><img src="wallaceaboats/wallacea2.jpg" alt="indonesien_liveaboard_sporttauchten_tauchfahrten_wallacea_sulawesi" width="230" height="150" border="1"></p>
               <p align="center">                  <span class="style3 tdinhalt"><strong><a href="wallacea_banggai.php">- Tauchgebiet Banggai Inseln</a></strong></span>                </p>
@@ -461,10 +461,10 @@ moderner Tauchbasis &amp; Schiffwrack</a>
         </TR></TBODY></TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z4.gif" border=0>
           <TBODY>
-            <TR> 
+            <TR>
               <TD height="8"><img src="../images/spacer.gif" width="10" height="8"></TD>
             </TR>
             <TR>

