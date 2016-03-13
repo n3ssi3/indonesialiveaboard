@@ -1,16 +1,12 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML><HEAD><TITLE>Indonesian Liveaboard Scuba Diving Cruises</TITLE>
 <META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
-<meta name="keywords" content="moana komodo liveaboard scuba diving cruises,moana raja ampat diving cruises,moana dive & cruise schedule,live a board diving,komodo liveaboard dive cruises,dive resort aboard,wreck diving,komodo dragon,raja ampat dive cruises,dive cruise boat,liveaboard vessel,komodo island cruises,komodo national park diveing,live a board dive adventure,luxury liveaboard,exclusive liveaboard,komodo dive safaris,">
+<meta name="keywords" content="moana komodo liveaboard scuba diving cruises,moana raja ampat diving cruises,moana dive &amp; cruise schedule,live a board diving,komodo liveaboard dive cruises,dive resort aboard,wreck diving,komodo dragon,raja ampat dive cruises,dive cruise boat,liveaboard vessel,komodo island cruises,komodo national park diveing,live a board dive adventure,luxury liveaboard,exclusive liveaboard,komodo dive safaris,">
 <STYLE type=text/css></STYLE>
 
 <META content="MSHTML 6.00.2800.1476" name=GENERATOR>
 <script language="JavaScript" type="text/JavaScript">
 <!--
-
-
-
-
 function MM_jumpMenu(targ,selObj,restore){ //v3.0
   eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
   if (restore) selObj.selectedIndex=0;

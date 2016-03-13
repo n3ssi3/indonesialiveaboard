@@ -1,5 +1,5 @@
-<HTML><HEAD><TITLE>indonesian liveaboard komodo scuba diving & exploration cruises</TITLE>
-<meta name="description" content="indonesian liveaboard scuba diving & exploration cruises,professional liveaboard boat trips around the entire indonesian island archipelago">
+<HTML><HEAD><TITLE>indonesian liveaboard komodo scuba diving &amp; exploration cruises</TITLE>
+<meta name="description" content="indonesian liveaboard scuba diving &amp; exploration cruises,professional liveaboard boat trips around the entire indonesian island archipelago">
 <meta name="keywords" content="indonesian liveaboard scuba diving cruises,diving cruises,exploration cruises,sailing journey,sailing cruises,indonesian archipelago sailing diving cruises,dive bali,bali diving,dive resort,wreck diving,diving komodo,komodo marine park diving,dive komodo national park diving,komodo national park sailing exploration,komodo dragon exploration,dive flores,diving alor,dive banda,dive sailing trip,sulawesi dive cruises,diving lombok,dive nusa penida,boat,vessel,indonesian island cruises, indonesian dive destinations,indonesian archipelago dive adventures,exclusive luxury liveaboard,bali dive resort,dive exploration sailing safaris,">
 <META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
 <META content="MSHTML 6.00.2800.1476" name=GENERATOR>
