@@ -1,4 +1,4 @@
-<?php	                                       			
+<?php
 $mosConfig_offline = '0';
 //$mosConfig_host = 'localhost';
 //$mosConfig_user = 'root';
@@ -8,7 +8,7 @@ $mosConfig_offline = '0';
 //$mosConfig_user = 'indonesi_indlius';
 //$mosConfig_password = 'inl135';
 //$mosConfig_db = 'indonesi_indliveabd';
-$mosConfig_host = 'mysql.server';
+$mosConfig_host = 'localhost';
 $mosConfig_user = 'inlivuser';
 //$mosConfig_password = 'inl123';
 $mosConfig_password = 'Axel.!/4012';
