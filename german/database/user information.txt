@@ -1,0 +1,12 @@
+#insert into user values('localhost', 'liveaboards', password('.abo4rdsl1ve.'), 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y', 'Y');
+
+user name	: liveaboards
+Password	: liveaboards..
+
+
+
+
+
+
+
+
